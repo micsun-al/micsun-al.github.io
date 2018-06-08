@@ -1,0 +1,92 @@
+{"frames": {
+
+"containers/jelly_cups_jar_pink":
+{
+	"frame": {"x":1,"y":1,"w":248,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":110,"w":248,"h":177},
+	"sourceSize": {"w":450,"h":300}
+},
+"levels/game_level_jelly_cups":
+{
+	"frame": {"x":184,"y":765,"w":138,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":675,"y":49,"w":138,"h":129},
+	"sourceSize": {"w":960,"h":720}
+},
+"noms/Gloss_Up_Nom_Sugar_Cookie_Gloss_Up":
+{
+	"frame": {"x":1,"y":758,"w":181,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":44,"w":181,"h":158},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Light_Up_Nom_Pineapple_Gem_Light_Up":
+{
+	"frame": {"x":227,"y":596,"w":187,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":55,"w":187,"h":167},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Lights_Jelly_Cups_Num_Apple_Tart_Jelly":
+{
+	"frame": {"x":1,"y":180,"w":232,"h":195},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":38,"w":232,"h":195},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Lights_Jelly_Cups_Num_Bubbly_Bridgette":
+{
+	"frame": {"x":1,"y":377,"w":232,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":38,"w":232,"h":189},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Lights_Jelly_Cups_Num_Claire_Cherry":
+{
+	"frame": {"x":1,"y":568,"w":224,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":38,"w":224,"h":188},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Lights_Jelly_Cups_Num_Frosted_Pink_Ade":
+{
+	"frame": {"x":235,"y":208,"w":232,"h":195},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":38,"w":232,"h":195},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Lights_Jelly_Cups_Num_Octavia_Orange":
+{
+	"frame": {"x":251,"y":1,"w":237,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":21,"w":237,"h":205},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Lights_Jelly_Cups_Num_Sprinkle_Razz":
+{
+	"frame": {"x":235,"y":405,"w":226,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":37,"w":226,"h":189},
+	"sourceSize": {"w":250,"h":250}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "jelly_cups.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:38340226f8d1aeb591e44fae02618678:1408c5ef5aeda64fb32cee34f65c357d:1fab40de757db65025a4d25ab0cb52ef$"
+}
+}

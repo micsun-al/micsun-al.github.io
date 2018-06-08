@@ -1,0 +1,84 @@
+{"frames": {
+
+"containers/gumdrops_jar_blue":
+{
+	"frame": {"x":1,"y":1,"w":247,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":120,"w":247,"h":162},
+	"sourceSize": {"w":450,"h":300}
+},
+"levels/game_level_gum_drops":
+{
+	"frame": {"x":187,"y":822,"w":140,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":672,"y":49,"w":140,"h":126},
+	"sourceSize": {"w":960,"h":720}
+},
+"noms/Light_Up_Nom_Apple_Rock_Light_Up":
+{
+	"frame": {"x":1,"y":822,"w":184,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":51,"w":184,"h":161},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Lights_Fancy_Jellies_Num_Brenda_Banana":
+{
+	"frame": {"x":1,"y":387,"w":215,"h":209},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":18,"w":215,"h":209},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Lights_Fancy_Jellies_Num_Fancy_CC":
+{
+	"frame": {"x":218,"y":434,"w":200,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":14,"w":200,"h":222},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Lights_Fancy_Jellies_Num_Key_Lime_Jelly":
+{
+	"frame": {"x":250,"y":1,"w":220,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":13,"w":220,"h":220},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Lights_Fancy_Jellies_Num_Lady_Lemonade":
+{
+	"frame": {"x":221,"y":223,"w":217,"h":209},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":18,"w":217,"h":209},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Lights_Fancy_Jellies_Num_Mindy_Mango":
+{
+	"frame": {"x":1,"y":598,"w":197,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":14,"w":197,"h":222},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Lights_Fancy_Jellies_Num_Paisley_Peach":
+{
+	"frame": {"x":1,"y":165,"w":218,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":13,"w":218,"h":220},
+	"sourceSize": {"w":250,"h":250}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "gum_drops.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e130cdff4fb1d9735f5052f6223b8b57:ff5409d3e26a13de444144d09c332883:425a6f3228be838a3c7fcb52f7910192$"
+}
+}

@@ -1,0 +1,204 @@
+{"frames": {
+
+"containers/fast_tray_red":
+{
+	"frame": {"x":3,"y":3,"w":304,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":205,"w":304,"h":59},
+	"sourceSize": {"w":450,"h":300}
+},
+"levels/game_level_creamery":
+{
+	"frame": {"x":642,"y":752,"w":144,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":672,"y":49,"w":144,"h":143},
+	"sourceSize": {"w":960,"h":720}
+},
+"noms/Glitter_Gloss_Up_Nom_Blueberry_Swirl_Gloss_Up":
+{
+	"frame": {"x":436,"y":603,"w":181,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":55,"w":181,"h":151},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Glitter_Gloss_Up_Nom_Mint_Swirl_Gloss_Up":
+{
+	"frame": {"x":621,"y":603,"w":174,"h":145},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":58,"w":174,"h":145},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Glitter_Gloss_Up_Nom_Nana_Swirl_Gloss_Up":
+{
+	"frame": {"x":642,"y":899,"w":173,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":59,"w":173,"h":144},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Creamery_Num_Autumn_Spice":
+{
+	"frame": {"x":3,"y":66,"w":228,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":12,"w":228,"h":220},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Creamery_Num_Berries_N_Creme":
+{
+	"frame": {"x":219,"y":769,"w":205,"h":226},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":10,"w":205,"h":226},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Creamery_Num_Berry_Blizzard":
+{
+	"frame": {"x":311,"y":3,"w":233,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":31,"w":233,"h":200},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Creamery_Num_Berry_Sherbert":
+{
+	"frame": {"x":3,"y":691,"w":212,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":47,"w":212,"h":180},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Creamery_Num_Charlotte_Choco":
+{
+	"frame": {"x":223,"y":396,"w":214,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":47,"w":214,"h":181},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Creamery_Num_Choco_Mint_Froyo":
+{
+	"frame": {"x":3,"y":875,"w":212,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":47,"w":212,"h":179},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Creamery_Num_Chocolatey_Cocoa":
+{
+	"frame": {"x":3,"y":481,"w":213,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":24,"w":213,"h":206},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Creamery_Num_Citrus_Blizzard":
+{
+	"frame": {"x":774,"y":3,"w":221,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":41,"w":221,"h":188},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Creamery_Num_Gigi_Gelato":
+{
+	"frame": {"x":774,"y":195,"w":221,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":52,"w":221,"h":175},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Creamery_Num_Heavenly_Froyo":
+{
+	"frame": {"x":220,"y":581,"w":212,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":40,"w":212,"h":184},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Creamery_Num_Hottie_Chocolate":
+{
+	"frame": {"x":457,"y":374,"w":215,"h":225},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":7,"w":215,"h":225},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Creamery_Num_Mango_Sherbert":
+{
+	"frame": {"x":548,"y":197,"w":219,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":54,"w":219,"h":173},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Creamery_Num_Mint_Shake":
+{
+	"frame": {"x":676,"y":374,"w":211,"h":217},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":11,"w":211,"h":217},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Creamery_Num_Mocha_Frappe":
+{
+	"frame": {"x":819,"y":812,"w":193,"h":213},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":16,"w":193,"h":213},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Creamery_Num_Nilla_Shake":
+{
+	"frame": {"x":799,"y":595,"w":208,"h":213},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":11,"w":208,"h":213},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Creamery_Num_Nilla_Whip":
+{
+	"frame": {"x":428,"y":769,"w":210,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":10,"w":210,"h":220},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Creamery_Num_Peach_Frosty":
+{
+	"frame": {"x":548,"y":3,"w":222,"h":190},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":35,"w":222,"h":190},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Creamery_Num_Razzy_Froyo":
+{
+	"frame": {"x":235,"y":207,"w":218,"h":185},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":40,"w":218,"h":185},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Creamery_Num_Sprinkles_Froyo":
+{
+	"frame": {"x":3,"y":290,"w":216,"h":187},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":42,"w":216,"h":187},
+	"sourceSize": {"w":250,"h":250}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "creamery.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1057},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2adcff87306bbae76512bc7b4f74a3f6:d3d09d3a8623b47aecae306c5b6f4235:16b3de0f3a8d9200e4e40915cb122ba2$"
+}
+}

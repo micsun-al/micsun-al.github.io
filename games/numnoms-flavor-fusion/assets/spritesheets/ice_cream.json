@@ -1,0 +1,188 @@
+{"frames": {
+
+"containers/icecream_ceramic_bowl_blue":
+{
+	"frame": {"x":468,"y":217,"w":250,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":101,"w":250,"h":163},
+	"sourceSize": {"w":450,"h":300}
+},
+"levels/game_level_ice_cream":
+{
+	"frame": {"x":412,"y":1039,"w":128,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":678,"y":49,"w":128,"h":123},
+	"sourceSize": {"w":960,"h":720}
+},
+"noms/Lip_Gloss_Nom_Cherry_Gloss_Up":
+{
+	"frame": {"x":231,"y":1027,"w":177,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":54,"w":177,"h":140},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Motorized_Nom_Gingerbread_Go_Go":
+{
+	"frame": {"x":231,"y":881,"w":225,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":58,"w":225,"h":142},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Ice_Cream_Num_Bailey_Bubblegum":
+{
+	"frame": {"x":665,"y":847,"w":199,"h":221},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":16,"w":199,"h":221},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Ice_Cream_Num_Berry_Scoop":
+{
+	"frame": {"x":3,"y":223,"w":232,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":24,"w":232,"h":212},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Ice_Cream_Num_Berry_Twirl":
+{
+	"frame": {"x":460,"y":809,"w":201,"h":226},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":12,"w":201,"h":226},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Ice_Cream_Num_Cherry_Chip":
+{
+	"frame": {"x":239,"y":223,"w":224,"h":213},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":19,"w":224,"h":213},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Ice_Cream_Num_Cherry_Scoop":
+{
+	"frame": {"x":702,"y":3,"w":227,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":25,"w":227,"h":207},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Ice_Cream_Num_Choco_Cream":
+{
+	"frame": {"x":233,"y":440,"w":223,"h":216},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":20,"w":223,"h":216},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Ice_Cream_Num_Choco_Nilla":
+{
+	"frame": {"x":240,"y":3,"w":224,"h":216},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":19,"w":224,"h":216},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Ice_Cream_Num_Connie_Confetti":
+{
+	"frame": {"x":3,"y":3,"w":233,"h":216},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":16,"w":233,"h":216},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Ice_Cream_Num_Mint_Twirl":
+{
+	"frame": {"x":668,"y":617,"w":202,"h":226},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":12,"w":202,"h":226},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Ice_Cream_Num_Minty_Chip":
+{
+	"frame": {"x":3,"y":881,"w":224,"h":216},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":17,"w":224,"h":216},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Ice_Cream_Num_Nana_Splits":
+{
+	"frame": {"x":722,"y":214,"w":229,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":39,"w":229,"h":189},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Ice_Cream_Num_Neo_Trio":
+{
+	"frame": {"x":468,"y":3,"w":230,"h":210},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":21,"w":230,"h":210},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Ice_Cream_Num_Orange_Cream":
+{
+	"frame": {"x":233,"y":660,"w":223,"h":215},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":16,"w":223,"h":215},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Ice_Cream_Num_Parker_Peach":
+{
+	"frame": {"x":3,"y":439,"w":226,"h":217},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":16,"w":226,"h":217},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Ice_Cream_Num_Pepper_Minty_Shine":
+{
+	"frame": {"x":460,"y":577,"w":204,"h":228},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":11,"w":204,"h":228},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Ice_Cream_Num_Pumpkin_Spice":
+{
+	"frame": {"x":3,"y":660,"w":226,"h":217},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":17,"w":226,"h":217},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Ice_Cream_Num_Sara_Strawberry":
+{
+	"frame": {"x":467,"y":384,"w":229,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":39,"w":229,"h":189},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Ice_Cream_Num_Van_Minty":
+{
+	"frame": {"x":700,"y":407,"w":225,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":28,"w":225,"h":206},
+	"sourceSize": {"w":250,"h":250}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ice_cream.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1170},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:080813a7a7fd30ae6305906d90cebf01:25082ce10618b3e65e9b62f4c3750470:9c74fa4227d411c78204d2561b21792f$"
+}
+}

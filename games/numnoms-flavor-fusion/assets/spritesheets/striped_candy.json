@@ -1,0 +1,84 @@
+{"frames": {
+
+"containers/cookie_white":
+{
+	"frame": {"x":488,"y":3,"w":258,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":110,"w":258,"h":162},
+	"sourceSize": {"w":450,"h":300}
+},
+"levels/game_level_striped_candies":
+{
+	"frame": {"x":855,"y":227,"w":154,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":668,"y":49,"w":154,"h":104},
+	"sourceSize": {"w":960,"h":720}
+},
+"noms/Light_Up_Nom_Bubble_Gem_Light_Up":
+{
+	"frame": {"x":663,"y":227,"w":188,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":62,"w":188,"h":164},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Striped_Candy_Num_Carol_Candy_Cane":
+{
+	"frame": {"x":249,"y":209,"w":204,"h":216},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":14,"w":204,"h":216},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Striped_Candy_Num_Clara_Candy":
+{
+	"frame": {"x":3,"y":3,"w":242,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":20,"w":242,"h":208},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Striped_Candy_Num_Kora_Kiwi":
+{
+	"frame": {"x":3,"y":215,"w":238,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":22,"w":238,"h":202},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Striped_Candy_Num_Ribbon_Lolly":
+{
+	"frame": {"x":457,"y":209,"w":202,"h":214},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":15,"w":202,"h":214},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Striped_Candy_Num_Ronda_Raspberry":
+{
+	"frame": {"x":249,"y":3,"w":235,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":21,"w":235,"h":202},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Striped_Candy_Num_Spiral_Pop":
+{
+	"frame": {"x":750,"y":3,"w":206,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":10,"w":206,"h":220},
+	"sourceSize": {"w":250,"h":250}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "striped_candy.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":428},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:651014bf10d9025648c3af7cf88ed9a2:4362ad5a90169def45c1e1acb38c2fe5:b8c101ceba77a022b904327272029b61$"
+}
+}

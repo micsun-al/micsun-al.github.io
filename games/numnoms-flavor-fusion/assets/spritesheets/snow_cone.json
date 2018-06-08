@@ -1,0 +1,116 @@
+{"frames": {
+
+"containers/popsicle_bowl_blue":
+{
+	"frame": {"x":3,"y":468,"w":219,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":119,"w":219,"h":147},
+	"sourceSize": {"w":450,"h":300}
+},
+"levels/game_level_snow_cones":
+{
+	"frame": {"x":873,"y":236,"w":142,"h":137},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":673,"y":49,"w":142,"h":137},
+	"sourceSize": {"w":960,"h":720}
+},
+"noms/Light_Up_Nom_Kiwi_Light_Up":
+{
+	"frame": {"x":679,"y":236,"w":190,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":56,"w":190,"h":177},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Light_Up_Nom_Orange_Light_Up":
+{
+	"frame": {"x":679,"y":417,"w":191,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":56,"w":191,"h":176},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Light_Up_Nom_Peachy_Light_Up":
+{
+	"frame": {"x":438,"y":453,"w":197,"h":174},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":56,"w":197,"h":174},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Snow_Cone_Num_Apple_Icy":
+{
+	"frame": {"x":3,"y":3,"w":220,"h":229},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":20,"w":220,"h":229},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Snow_Cone_Num_Candy_Sparkle_Snow":
+{
+	"frame": {"x":3,"y":236,"w":218,"h":228},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":20,"w":218,"h":228},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Snow_Cone_Num_Chloe_Cola":
+{
+	"frame": {"x":459,"y":3,"w":227,"h":215},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":24,"w":227,"h":215},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Snow_Cone_Num_Gracie_Grape":
+{
+	"frame": {"x":227,"y":3,"w":228,"h":218},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":21,"w":228,"h":218},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Snow_Cone_Num_Keylime_Icy":
+{
+	"frame": {"x":227,"y":225,"w":224,"h":201},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":42,"w":224,"h":201},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Snow_Cone_Num_Lemonade_Icy":
+{
+	"frame": {"x":690,"y":3,"w":217,"h":229},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":18,"w":217,"h":229},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Snow_Cone_Num_Peach_Icy":
+{
+	"frame": {"x":226,"y":430,"w":208,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":45,"w":208,"h":188},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Snow_Cone_Num_Triple_Berry_Icy":
+{
+	"frame": {"x":459,"y":222,"w":216,"h":227},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":18,"w":216,"h":227},
+	"sourceSize": {"w":250,"h":250}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "snow_cone.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":630},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:cbe69b1cab43fd2aa7e3e4f1b5b4bf36:76be6cd7cf63ac73b8081949c67d4479:9cd9c04c83b48af9958814586351e897$"
+}
+}

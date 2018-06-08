@@ -1,0 +1,188 @@
+{"frames": {
+
+"containers/cupcake_bowl_peach":
+{
+	"frame": {"x":3,"y":938,"w":239,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":113,"w":239,"h":152},
+	"sourceSize": {"w":450,"h":300}
+},
+"levels/game_level_cupcake":
+{
+	"frame": {"x":446,"y":690,"w":133,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":675,"y":49,"w":133,"h":116},
+	"sourceSize": {"w":960,"h":720}
+},
+"noms/Lip_Gloss_Nom_Nilla_Creme_Gloss_Up":
+{
+	"frame": {"x":822,"y":441,"w":179,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":52,"w":179,"h":142},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Motorized_Nom_Butterscotch_Go_Go":
+{
+	"frame": {"x":822,"y":587,"w":180,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":56,"w":180,"h":142},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cupcake_Num_Berry_Cheesecake":
+{
+	"frame": {"x":3,"y":3,"w":242,"h":215},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":18,"w":242,"h":215},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cupcake_Num_Betty_B_Day":
+{
+	"frame": {"x":416,"y":448,"w":200,"h":238},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":6,"w":200,"h":238},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cupcake_Num_Bonnie_Blueberry":
+{
+	"frame": {"x":620,"y":448,"w":198,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":0,"w":198,"h":242},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cupcake_Num_Candie_Puffs":
+{
+	"frame": {"x":483,"y":225,"w":224,"h":219},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":14,"w":224,"h":219},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cupcake_Num_Caramelly_Shine":
+{
+	"frame": {"x":3,"y":442,"w":204,"h":248},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":0,"w":204,"h":248},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cupcake_Num_Cherry_Cheesecake":
+{
+	"frame": {"x":3,"y":222,"w":241,"h":216},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":18,"w":241,"h":216},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cupcake_Num_Cherry_Choco":
+{
+	"frame": {"x":211,"y":446,"w":201,"h":240},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":4,"w":201,"h":240},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cupcake_Num_Choco_Berry":
+{
+	"frame": {"x":249,"y":3,"w":231,"h":215},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":17,"w":231,"h":215},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cupcake_Num_Choco_Swirl":
+{
+	"frame": {"x":473,"y":902,"w":221,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":34,"w":221,"h":192},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cupcake_Num_M_Mallow":
+{
+	"frame": {"x":3,"y":694,"w":202,"h":240},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":4,"w":202,"h":240},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cupcake_Num_Mary_Mulberry":
+{
+	"frame": {"x":248,"y":222,"w":231,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":13,"w":231,"h":220},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cupcake_Num_Mint_Berry":
+{
+	"frame": {"x":719,"y":3,"w":228,"h":216},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":17,"w":228,"h":216},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cupcake_Num_Minty_Swirl":
+{
+	"frame": {"x":246,"y":892,"w":223,"h":203},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":21,"w":223,"h":203},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cupcake_Num_Nana_Swirl":
+{
+	"frame": {"x":583,"y":694,"w":227,"h":204},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":22,"w":227,"h":204},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cupcake_Num_Red_Velvety":
+{
+	"frame": {"x":719,"y":223,"w":222,"h":214},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":16,"w":222,"h":214},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cupcake_Num_Strawberry_Cream":
+{
+	"frame": {"x":484,"y":3,"w":231,"h":218},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":15,"w":231,"h":218},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cupcake_Num_Sugar_Berry":
+{
+	"frame": {"x":698,"y":902,"w":222,"h":190},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":35,"w":222,"h":190},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cupcake_Num_Wendy_Wild_Berry":
+{
+	"frame": {"x":211,"y":690,"w":231,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":28,"w":231,"h":198},
+	"sourceSize": {"w":250,"h":250}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "cupcake.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1098},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1cb3e455b2148cda0ef9774fe4b240fa:ac0797b912096aa3263b03ed653e1953:d7e9ffcc6b1045e0dc6b20b0801b406c$"
+}
+}

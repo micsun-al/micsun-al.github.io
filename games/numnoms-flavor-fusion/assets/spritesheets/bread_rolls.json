@@ -1,0 +1,108 @@
+{"frames": {
+
+"containers/bread_rolls_stand_blue":
+{
+	"frame": {"x":253,"y":181,"w":242,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":105,"y":118,"w":242,"h":164},
+	"sourceSize": {"w":450,"h":300}
+},
+"levels/game_level_bread_rolls":
+{
+	"frame": {"x":1,"y":776,"w":135,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":675,"y":49,"w":135,"h":119},
+	"sourceSize": {"w":960,"h":720}
+},
+"noms/Polish_It_Nom_Strawberry_Polish_It":
+{
+	"frame": {"x":1,"y":580,"w":166,"h":194},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":26,"w":166,"h":194},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Polish_It_Nom_Vanilla_Polish_It":
+{
+	"frame": {"x":1,"y":371,"w":167,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":12,"w":167,"h":207},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Bread_Rolls_Num_Cocoa_Roll":
+{
+	"frame": {"x":497,"y":199,"w":212,"h":234},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":5,"w":212,"h":234},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Bread_Rolls_Num_Lemon_Poppy":
+{
+	"frame": {"x":243,"y":347,"w":212,"h":234},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":5,"w":212,"h":234},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Bread_Rolls_Num_Lorelai_Lattice":
+{
+	"frame": {"x":1,"y":183,"w":240,"h":186},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":30,"w":240,"h":186},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Bread_Rolls_Num_Nana_Bread":
+{
+	"frame": {"x":1,"y":1,"w":250,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":36,"w":250,"h":180},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Bread_Rolls_Num_Nilla_Dough":
+{
+	"frame": {"x":755,"y":189,"w":228,"h":182},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":35,"w":228,"h":182},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Bread_Rolls_Num_Raisin_Roll":
+{
+	"frame": {"x":253,"y":1,"w":250,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":38,"w":250,"h":178},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Bread_Rolls_Num_Razzy_Loaf":
+{
+	"frame": {"x":755,"y":1,"w":240,"h":186},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":29,"w":240,"h":186},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Bread_Rolls_Num_Tropical_Sweetie":
+{
+	"frame": {"x":505,"y":1,"w":248,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":43,"w":248,"h":196},
+	"sourceSize": {"w":250,"h":250}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bread_rolls.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9bbc91c365902c27a3061469c9c27d63:e958eab27254dab62dacf9ffd9165996:26b8abc0d8eeb78a28b60fc40cf1ae6e$"
+}
+}

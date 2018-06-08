@@ -1,0 +1,92 @@
+{"frames": {
+
+"containers/popsicle_bowl_blue":
+{
+	"frame": {"x":663,"y":228,"w":219,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":119,"w":219,"h":147},
+	"sourceSize": {"w":450,"h":300}
+},
+"levels/game_level_slushies":
+{
+	"frame": {"x":849,"y":379,"w":145,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":670,"y":49,"w":145,"h":121},
+	"sourceSize": {"w":960,"h":720}
+},
+"noms/Light_Up_Nom_Razz_Rock_Light_Up":
+{
+	"frame": {"x":663,"y":379,"w":182,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":51,"w":182,"h":163},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Slushie_Num_CC_Slurp":
+{
+	"frame": {"x":3,"y":233,"w":217,"h":226},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":2,"w":217,"h":226},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Slushie_Num_Cherry_Slushy":
+{
+	"frame": {"x":3,"y":3,"w":218,"h":226},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":0,"w":218,"h":226},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Slushie_Num_Grapey_Juicy":
+{
+	"frame": {"x":224,"y":233,"w":217,"h":224},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":217,"h":224},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Slushie_Num_Lemonade_Frost":
+{
+	"frame": {"x":444,"y":3,"w":214,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":4,"w":214,"h":222},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Slushie_Num_Melon_Freeze":
+{
+	"frame": {"x":662,"y":3,"w":211,"h":221},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":4,"w":211,"h":221},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Slushie_Num_OJ_Juicy":
+{
+	"frame": {"x":225,"y":3,"w":215,"h":221},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":0,"w":215,"h":221},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Slushie_Num_Pina_Juicy":
+{
+	"frame": {"x":445,"y":229,"w":214,"h":218},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":2,"w":214,"h":218},
+	"sourceSize": {"w":250,"h":250}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "slushie.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":545},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7a2d5faaed995d600df17b648ff76b78:c26295b5a341694a585f19c33869d8bb:b3c85f0fcc286ca649df7dd892992429$"
+}
+}

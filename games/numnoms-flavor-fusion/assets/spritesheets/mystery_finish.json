@@ -1,0 +1,100 @@
+{"frames": {
+
+"containers/yogurt_container_pink":
+{
+	"frame": {"x":1,"y":1,"w":252,"h":266},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":102,"y":26,"w":252,"h":266},
+	"sourceSize": {"w":450,"h":300}
+},
+"levels/game_level_mystery_finish":
+{
+	"frame": {"x":1,"y":486,"w":127,"h":130},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":679,"y":49,"w":127,"h":130},
+	"sourceSize": {"w":960,"h":720}
+},
+"noms/Light_Up_Nom_Blueberry_Rock_Light_Up":
+{
+	"frame": {"x":215,"y":461,"w":184,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":51,"w":184,"h":161},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Lights_Gum_Drops_Num_Blue_Razzy_Gum_Drop":
+{
+	"frame": {"x":758,"y":1,"w":248,"h":195},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":32,"w":248,"h":195},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Lights_Gum_Drops_Num_Gracie_Grape":
+{
+	"frame": {"x":507,"y":1,"w":249,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":32,"w":249,"h":196},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Lights_Gum_Drops_Num_Lemon_Pop_Drop":
+{
+	"frame": {"x":469,"y":388,"w":205,"h":195},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":34,"w":205,"h":195},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Lights_Gum_Drops_Num_Mango_Melody":
+{
+	"frame": {"x":255,"y":237,"w":212,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":19,"w":212,"h":222},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Lights_Gum_Drops_Num_Nana_Gum_Drop":
+{
+	"frame": {"x":507,"y":199,"w":240,"h":187},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":41,"w":240,"h":187},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Lights_Gum_Drops_Num_OJ_Gum_Drop":
+{
+	"frame": {"x":255,"y":1,"w":250,"h":234},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":234},
+	"sourceSize": {"w":250,"h":234}
+},
+"nums/Lights_Gum_Drops_Num_Razzy_Rita":
+{
+	"frame": {"x":758,"y":198,"w":241,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":41,"w":241,"h":189},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Lights_Gum_Drops_Num_S_Berry_Drop":
+{
+	"frame": {"x":1,"y":269,"w":212,"h":215},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":22,"w":212,"h":215},
+	"sourceSize": {"w":250,"h":250}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "mystery_finish.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b645cd13552446cb6458f0ffdda6f3c7:4f9a768184dd288132a72ac44e8049e2:162cd6d8588bfab82d814840b5715ca5$"
+}
+}

@@ -1,0 +1,124 @@
+{"frames": {
+
+"containers/sushi_bowl_pink":
+{
+	"frame": {"x":686,"y":401,"w":259,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":160,"w":259,"h":114},
+	"sourceSize": {"w":450,"h":300}
+},
+"levels/game_level_sushi":
+{
+	"frame": {"x":867,"y":519,"w":128,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":679,"y":49,"w":128,"h":119},
+	"sourceSize": {"w":960,"h":720}
+},
+"noms/Lip_Gloss_Nom_Cucumber_Gloss_Up":
+{
+	"frame": {"x":686,"y":519,"w":177,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":53,"w":177,"h":150},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Motorized_Nom_Wasabi_Go_Go":
+{
+	"frame": {"x":689,"y":3,"w":211,"h":145},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":49,"w":211,"h":145},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Sushi_Num_Ama_Ebi":
+{
+	"frame": {"x":458,"y":206,"w":217,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":29,"w":217,"h":198},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Sushi_Num_Ami_Avocado":
+{
+	"frame": {"x":233,"y":216,"w":221,"h":201},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":25,"w":221,"h":201},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Sushi_Num_Cali_Roll":
+{
+	"frame": {"x":244,"y":3,"w":221,"h":199},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":33,"w":221,"h":199},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Sushi_Num_Eggbert_Tamago":
+{
+	"frame": {"x":3,"y":426,"w":219,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":31,"w":219,"h":205},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Sushi_Num_Ina_Ree":
+{
+	"frame": {"x":448,"y":421,"w":234,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":40,"w":234,"h":189},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Sushi_Num_Oni_Giri":
+{
+	"frame": {"x":3,"y":3,"w":237,"h":209},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":22,"w":237,"h":209},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Sushi_Num_Phili_Roll":
+{
+	"frame": {"x":3,"y":216,"w":226,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":27,"w":226,"h":206},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Sushi_Num_Shin_Shiro":
+{
+	"frame": {"x":679,"y":203,"w":215,"h":194},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":32,"w":215,"h":194},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Sushi_Num_Suki_Sake":
+{
+	"frame": {"x":469,"y":3,"w":216,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":32,"w":216,"h":196},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Sushi_Num_Tori_Toro":
+{
+	"frame": {"x":226,"y":426,"w":218,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":30,"w":218,"h":205},
+	"sourceSize": {"w":250,"h":250}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sushi.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":672},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7f5d9cfa480a537912cb64743faa5c27:626b8f6d10f1feb1aa851f772a4bbc42:bc9e2813e2d14f24c483fbf784b36755$"
+}
+}

@@ -1,0 +1,76 @@
+{"frames": {
+
+"containers/fair_tray_paper":
+{
+	"frame": {"x":149,"y":241,"w":272,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":170,"w":272,"h":98},
+	"sourceSize": {"w":450,"h":300}
+},
+"levels/game_level_fiesta":
+{
+	"frame": {"x":3,"y":241,"w":142,"h":130},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":672,"y":49,"w":142,"h":130},
+	"sourceSize": {"w":960,"h":720}
+},
+"noms/Lip_Gloss_Nom_Straw_Nana_Gloss_Up":
+{
+	"frame": {"x":425,"y":220,"w":186,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":42,"w":186,"h":162},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fiesta_Num_Cheesy_Burrito":
+{
+	"frame": {"x":3,"y":3,"w":225,"h":234},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":6,"w":225,"h":234},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fiesta_Num_Cinna_Churro":
+{
+	"frame": {"x":463,"y":3,"w":238,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":37,"w":238,"h":197},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fiesta_Num_Flower_Tortilla":
+{
+	"frame": {"x":232,"y":3,"w":227,"h":213},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":19,"w":227,"h":213},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Special_Num_Berry_Churro":
+{
+	"frame": {"x":705,"y":196,"w":231,"h":195},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":38,"w":231,"h":195},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Special_Num_Tasty_Taco":
+{
+	"frame": {"x":705,"y":3,"w":234,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":34,"w":234,"h":189},
+	"sourceSize": {"w":250,"h":250}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "fiesta.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":394},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:80c0659f50a6b5ba32c7bf6882efa764:e50eff4ccb8514d578c64a4d5b29a2a3:736f95da9652169ba7b492ddb1a80b2a$"
+}
+}

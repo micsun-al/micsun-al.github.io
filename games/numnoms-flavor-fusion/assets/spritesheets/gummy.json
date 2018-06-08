@@ -1,0 +1,140 @@
+{"frames": {
+
+"containers/jellybean_jar_blue":
+{
+	"frame": {"x":229,"y":423,"w":247,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":120,"w":247,"h":162},
+	"sourceSize": {"w":450,"h":300}
+},
+"levels/game_level_gummies":
+{
+	"frame": {"x":876,"y":577,"w":123,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":682,"y":49,"w":123,"h":119},
+	"sourceSize": {"w":960,"h":720}
+},
+"noms/Light_Up_Nom_Cherry_Light_Up":
+{
+	"frame": {"x":681,"y":581,"w":191,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":56,"w":191,"h":176},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Light_Up_Nom_Mintee_Light_Up":
+{
+	"frame": {"x":227,"y":589,"w":197,"h":174},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":56,"w":197,"h":174},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Light_Up_Nom_Raspberry_Light_Up":
+{
+	"frame": {"x":480,"y":581,"w":197,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":55,"w":197,"h":175},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Gummy_Num_Bubble_Gummy":
+{
+	"frame": {"x":229,"y":3,"w":219,"h":223},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":20,"w":219,"h":223},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Gummy_Num_CC_Sugar_Gummy":
+{
+	"frame": {"x":3,"y":464,"w":220,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":41,"w":220,"h":196},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Gummy_Num_Cherie_Gummy":
+{
+	"frame": {"x":3,"y":3,"w":222,"h":227},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":16,"w":222,"h":227},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Gummy_Num_Glitter_Berry":
+{
+	"frame": {"x":702,"y":388,"w":215,"h":185},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":39,"w":215,"h":185},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Gummy_Num_Juicy_Gummy":
+{
+	"frame": {"x":3,"y":234,"w":222,"h":226},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":17,"w":222,"h":226},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Gummy_Num_Madelyn_Mango":
+{
+	"frame": {"x":452,"y":198,"w":219,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":36,"w":219,"h":188},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Gummy_Num_Orange_Sugar_Gummy":
+{
+	"frame": {"x":681,"y":3,"w":223,"h":190},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":50,"w":223,"h":190},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Gummy_Num_Pina_Gummy":
+{
+	"frame": {"x":229,"y":230,"w":219,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":49,"w":219,"h":189},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Gummy_Num_Raz_Sugar":
+{
+	"frame": {"x":480,"y":390,"w":218,"h":187},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":38,"w":218,"h":187},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Gummy_Num_Sparkle_Berry_Gummy":
+{
+	"frame": {"x":452,"y":3,"w":225,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":50,"w":225,"h":191},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Gummy_Num_Sparkle_Blueberry":
+{
+	"frame": {"x":681,"y":197,"w":218,"h":187},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":39,"w":218,"h":187},
+	"sourceSize": {"w":250,"h":250}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "gummy.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":766},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4ca50f4e21eadaab5ca3c4ab71459dc9:39c48c219c0a5c4924accd817943afdb:8e11c7f32fab6d42c333e6de1dbc3b42$"
+}
+}

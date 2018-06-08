@@ -1,0 +1,148 @@
+{"frames": {
+
+"containers/cupcake_bowl_peach":
+{
+	"frame": {"x":237,"y":208,"w":239,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":113,"w":239,"h":152},
+	"sourceSize": {"w":450,"h":300}
+},
+"levels/game_level_marshmallows":
+{
+	"frame": {"x":867,"y":378,"w":151,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":673,"y":49,"w":151,"h":101},
+	"sourceSize": {"w":960,"h":720}
+},
+"noms/Erase_It_Nom_Mallow_Erase_It":
+{
+	"frame": {"x":424,"y":577,"w":177,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":37,"w":177,"h":170},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Lip_Gloss_Nom_Mintberry_Gloss_Up":
+{
+	"frame": {"x":605,"y":597,"w":185,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":42,"w":185,"h":162},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Stamp_It_Nom_Blueberry_Stamp_It":
+{
+	"frame": {"x":794,"y":597,"w":180,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":43,"w":180,"h":161},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marshmallow_Num_B_Berry_Mallow":
+{
+	"frame": {"x":3,"y":238,"w":224,"h":226},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":13,"w":224,"h":226},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marshmallow_Num_Bella_Bubblegum":
+{
+	"frame": {"x":231,"y":364,"w":210,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":37,"w":210,"h":196},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marshmallow_Num_CC_Candy":
+{
+	"frame": {"x":445,"y":379,"w":208,"h":194},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":38,"w":208,"h":194},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marshmallow_Num_Cocoa_Mallow":
+{
+	"frame": {"x":715,"y":189,"w":214,"h":185},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":40,"w":214,"h":185},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marshmallow_Num_Maya_Mallow":
+{
+	"frame": {"x":657,"y":379,"w":206,"h":214},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":22,"w":206,"h":214},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marshmallow_Num_Minty_Mallow":
+{
+	"frame": {"x":215,"y":564,"w":205,"h":211},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":25,"w":205,"h":211},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marshmallow_Num_Rachel_Raspberry":
+{
+	"frame": {"x":3,"y":468,"w":208,"h":213},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":23,"w":208,"h":213},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marshmallow_Num_Sara_Smores":
+{
+	"frame": {"x":237,"y":3,"w":224,"h":201},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":25,"w":224,"h":201},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marshmallow_Num_Softy_Mallow":
+{
+	"frame": {"x":480,"y":194,"w":231,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":43,"w":231,"h":181},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marshmallow_Num_Strawberry_Mallow":
+{
+	"frame": {"x":701,"y":3,"w":236,"h":182},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":43,"w":236,"h":182},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marshmallow_Num_Sugar_Nana":
+{
+	"frame": {"x":465,"y":3,"w":232,"h":187},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":42,"w":232,"h":187},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marshmallow_Num_Toasty_Mallow":
+{
+	"frame": {"x":3,"y":3,"w":230,"h":231},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":10,"w":230,"h":231},
+	"sourceSize": {"w":250,"h":250}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "marshmallow.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":778},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:23286a30bae47fdf54cc029e78f1f59d:ebdfd4e221f343742256d326e7b439e4:89df4765bf5c4e31c6cc7ad80ed469e8$"
+}
+}

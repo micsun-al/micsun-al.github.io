@@ -1,0 +1,68 @@
+{
+    "language": {
+        "en": {
+        }
+    }
+    , "sheet": {
+        "spritesheet": "spritesheet"
+        , "loader": "loader"
+    }
+    , "storage": {
+        "mute": "mute"
+        , "highScore": "high_score"
+        , "tutorialComplete": "tutorial_complete"
+        , "effectsVolume": "effects_volume"
+        , "musicVolume": "music_volume"
+    }
+    , "fonts": {
+        "main": {
+            "id": "main"
+            , "data": "assets/fonts/gillsans_ultrabold.fnt"
+        }
+        , "thin": {
+            "id": "thin"
+            , "data": "assets/fonts/gillsans_bold.fnt"
+        }
+        , "gotham": {
+            "id": "gotham"
+            , "data": "assets/fonts/gotham_htf_black.fnt"
+        }
+    }
+    , "stages": [
+        {
+            "dots": [[313, 665], [931, 1117], [216, 1404]]
+            , "order": [0, 1, 2]
+        },
+        {
+            "dots": [[537, 706], [822, 1079], [537, 1450], [255, 1079]]
+            , "order": [0, 1, 2, 3]
+        }
+        , {
+            "dots": [[696, 673], [267, 892], [804, 1090], [208, 1311], [691, 1502]]
+            , "order": [0, 1, 2, 3, 4]
+        }
+        , {
+            "dots": [[537, 706], [765, 1450], [150, 989], [927, 989], [310, 1450]]
+            , "order": [0, 1, 2, 3, 4]
+        }
+        , {
+            "dots": [[537, 706], [822, 1079], [537, 1450], [255, 1079]]
+            , "order": [0, 0, 2, 2, 3, 1, 3, 1]
+        }
+        , {
+            "dots": [[878, 1209], [329, 724], [247, 1536], [933, 750], [186, 1165], [880, 1541], 
+                [267, 629], [983, 650], [439, 739], [821, 739], [257, 813], [969, 851], 
+                [171, 1050], [921, 1104], [114, 1256], [278, 1242], [755, 1242], [910, 1330], 
+                [173, 1441], [836, 1427], [364, 1558], [988, 1537], [204, 1648], [816, 1629]]
+            , "order": [0, 1, 2, 3, 4, 5]
+        }
+    ]
+    , "game":{
+        "mistakeMax": 3
+        , "pingTime": 800
+        , "pauseTime": 300
+        , "pingColor": "0x126fac"
+        , "correctColor": "0x00ff00"
+        , "incorrectColor": "0xff0000"
+    }
+}

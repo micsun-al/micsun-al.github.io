@@ -1,0 +1,119 @@
+{
+    "language": {
+        "en": {
+            "gameURL": "https://avatarlabs.biz/clients/lego/unikitty/sparkle_matcher/latest/"
+            , "loading": "Loading\n${value}%"
+            , "introPlayNow": "PLAY NOW"
+            , "introSubText": "Help Unikitty find her\nhappy thoughts!"
+            , "instructions": "Fill in the blank\nshapes by tapping the\nmatching sparkle\nmatter.  Try not to\ntap the wrong shape!"
+            , "instructionsButton": "GOT IT!"
+            , "gameLevel": "${current}/${max}"
+            , "gameSuccess": "SUCCESS!"
+            , "gameFailure": "TRY AGAIN"
+            , "failText": "On no!  You tapped\ntoo many wrong\nshapes.  But don't\nworry, you can still\nhelp Unikitty!"
+            , "failButton": "TRY AGAIN"
+            , "summaryTextTop": "YAY, YOU MADE ME"
+            , "summaryTextBottom": "HAPPY!"
+            , "summaryPlayAgain": "PLAY AGAIN"
+            , "summaryShare": "SHARE"
+            , "chatTitle": "Unikitty! Sparkle Matcher"
+            , "chatText": "Yay! You made Unikitty happy!"
+            , "messengerTitle": "I made Unikitty HAPPY!"
+            , "messengerShareText": "~(=^‥^)ノ☆"
+            , "messengerPlayButton": "Play Unikitty! Sparkle Matcher"
+        }
+    }
+    , "social": {
+        "facebookAppID": "1686859478068849"
+        , "shareBackURL": "https://direct.unikittychat.com/media_share_back/receive"
+    }
+    , "sheet": {
+        "spritesheet": "spritesheet"
+        , "loader": "loader"
+    }
+    , "storage": {
+        "mute": "mute"
+        , "highScore": "high_score"
+        , "tutorialComplete": "tutorial_complete"
+        , "effectsVolume": "effects_volume"
+        , "musicVolume": "music_volume"
+    }
+    , "fonts": {
+        "main": {
+            "id": "main"
+            , "data": "assets/fonts/gillsans_ultrabold.fnt"
+        }
+        , "thin": {
+            "id": "thin"
+            , "data": "assets/fonts/gillsans_bold.fnt"
+        }
+        , "gotham": {
+            "id": "gotham"
+            , "data": "assets/fonts/gotham_htf_black.fnt"
+        }
+    }
+    , "characters": [
+        {"id": "sleepy"}
+        , {"id": "excited"}
+        , {"id": "queasy"}
+        , {"id": "cool"}
+        , {"id": "angry"}
+        , {"id": "happy"}
+    ]
+    , "stages": [
+        {
+            "recipe": ["atom", "beaker", "cloud", "football", "gamepad", "glass", "pencil", "rocket", "star", "tube"]
+            , "moods": ["sleepy", "sleepy", "sleepy", "excited", "excited"]
+            , "scrollTime": 11000
+            , "fillCount": 12
+        }
+        , {
+            "recipe": ["apple", "bone", "cookie", "pizza", "scope", "shoe", "skate", "spider", "sun", "tear"]
+            , "moods": ["queasy", "queasy", "queasy", "cool", "cool"]
+            , "scrollTime": 9000
+            , "fillCount": 14
+        }
+        , {
+            "recipe": ["batman", "bomb", "boxing", "dice", "flower", "hash", "heart", "mine", "rainbow", "sword"]
+            , "moods": ["angry", "angry", "angry", "happy", "happy"]
+            , "scrollTime": 7000
+            , "fillCount": 16
+        }
+    ]
+    , "ingredients": [
+        "apple"
+        , "atom"
+        , "batman"
+        , "beaker"
+        , "bomb"
+        , "bone"
+        , "boxing"
+        , "cloud"
+        , "cookie"
+        , "dice"
+        , "flower"
+        , "football"
+        , "gamepad"
+        , "glass"
+        , "hash"
+        , "heart"
+        , "mine"
+        , "pencil"
+        , "pizza"
+        , "rainbow"
+        , "rocket"
+        , "scope"
+        , "shoe"
+        , "skate"
+        , "spider"
+        , "star"
+        , "sun"
+        , "sword"
+        , "tear"
+        , "tube"
+    ]
+    , "game":{
+        "mistakeMax": 3
+        , "scrollItemSpacing": 110
+    }
+}

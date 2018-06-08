@@ -1,0 +1,140 @@
+{"frames": {
+
+"containers/cookie_pink":
+{
+	"frame": {"x":702,"y":3,"w":249,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":110,"w":249,"h":164},
+	"sourceSize": {"w":450,"h":300}
+},
+"levels/game_level_baked_goods":
+{
+	"frame": {"x":872,"y":549,"w":141,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":672,"y":49,"w":141,"h":134},
+	"sourceSize": {"w":960,"h":720}
+},
+"noms/Glitter_Gloss_Up_Nom_B_day_Meringue_Gloss_Up":
+{
+	"frame": {"x":684,"y":549,"w":184,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":41,"w":184,"h":167},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Light_Up_Nom_Cotton_Rock_Light_Up":
+{
+	"frame": {"x":216,"y":572,"w":176,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":55,"w":176,"h":155},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Baked_Goods_Num_Barry_Donut":
+{
+	"frame": {"x":3,"y":415,"w":209,"h":215},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":19,"w":209,"h":215},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Baked_Goods_Num_Berry_Glazed":
+{
+	"frame": {"x":3,"y":3,"w":224,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":32,"w":224,"h":202},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Baked_Goods_Num_Blueberry_Pie":
+{
+	"frame": {"x":461,"y":375,"w":219,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":46,"w":219,"h":181},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Baked_Goods_Num_Cheri_Crisp":
+{
+	"frame": {"x":460,"y":560,"w":215,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":49,"w":215,"h":178},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Baked_Goods_Num_Choco_A_La_Mode":
+{
+	"frame": {"x":469,"y":3,"w":229,"h":186},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":49,"w":229,"h":186},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Baked_Goods_Num_Chocoberry_Pie":
+{
+	"frame": {"x":231,"y":197,"w":226,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":55,"w":226,"h":179},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Baked_Goods_Num_Citrus_Glazed":
+{
+	"frame": {"x":230,"y":380,"w":226,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":42,"w":226,"h":188},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Baked_Goods_Num_Cotton_Candy_Donut":
+{
+	"frame": {"x":698,"y":357,"w":221,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":40,"w":221,"h":188},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Baked_Goods_Num_Lime_Custard":
+{
+	"frame": {"x":469,"y":193,"w":225,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":51,"w":225,"h":178},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Baked_Goods_Num_Nana_Creme_Pie":
+{
+	"frame": {"x":702,"y":171,"w":230,"h":182},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":48,"w":230,"h":182},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Baked_Goods_Num_Peach_Drizzle":
+{
+	"frame": {"x":3,"y":209,"w":223,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":28,"w":223,"h":202},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Baked_Goods_Num_Puddin_Pie":
+{
+	"frame": {"x":231,"y":3,"w":234,"h":190},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":43,"w":234,"h":190},
+	"sourceSize": {"w":250,"h":250}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "baked_goods.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":741},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9603b16b985754d24f89b04f824ce01b:e6298afb89a590ee2db243d40fd6ce88:9cbc59f43909bebc9b3258727c4fa779$"
+}
+}

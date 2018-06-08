@@ -1,0 +1,172 @@
+{"frames": {
+
+"containers/cake_blue":
+{
+	"frame": {"x":679,"y":226,"w":235,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":121,"w":235,"h":158},
+	"sourceSize": {"w":450,"h":300}
+},
+"levels/game_level_fancy_cake":
+{
+	"frame": {"x":858,"y":3,"w":141,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":672,"y":49,"w":141,"h":120},
+	"sourceSize": {"w":960,"h":720}
+},
+"noms/Glitter_Gloss_Up_Nom_Bubbly_Swirl_Gloss_Up":
+{
+	"frame": {"x":824,"y":576,"w":185,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":53,"w":185,"h":155},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Glitter_Gloss_Up_Nom_Candy_Cane_Swirl_Gloss_Up":
+{
+	"frame": {"x":824,"y":735,"w":183,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":55,"w":183,"h":152},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Glitter_Gloss_Up_Nom_Orange_Swirl_Gloss_Up":
+{
+	"frame": {"x":606,"y":790,"w":174,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":60,"w":174,"h":144},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fancy_Cake_Num_Angel_Cake":
+{
+	"frame": {"x":407,"y":631,"w":195,"h":217},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":12,"w":195,"h":217},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fancy_Cake_Num_Angel_Foodie":
+{
+	"frame": {"x":606,"y":602,"w":214,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":42,"w":214,"h":184},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fancy_Cake_Num_Banana_Crumbles":
+{
+	"frame": {"x":689,"y":388,"w":212,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":43,"w":212,"h":184},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fancy_Cake_Num_Bubble_Duchess":
+{
+	"frame": {"x":3,"y":3,"w":225,"h":226},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":11,"w":225,"h":226},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fancy_Cake_Num_Cottony_Cakes":
+{
+	"frame": {"x":452,"y":227,"w":223,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":45,"w":223,"h":181},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fancy_Cake_Num_Goldie_Cake":
+{
+	"frame": {"x":658,"y":3,"w":196,"h":219},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":11,"w":196,"h":219},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fancy_Cake_Num_Lacy_Cake":
+{
+	"frame": {"x":205,"y":655,"w":198,"h":221},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":10,"w":198,"h":221},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fancy_Cake_Num_Lady_Sugarette":
+{
+	"frame": {"x":232,"y":3,"w":221,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":14,"w":221,"h":220},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fancy_Cake_Num_Mable_Marble":
+{
+	"frame": {"x":235,"y":439,"w":231,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":38,"w":231,"h":188},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fancy_Cake_Num_Mint_T_Cake":
+{
+	"frame": {"x":234,"y":227,"w":214,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":14,"w":214,"h":208},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fancy_Cake_Num_Peachy_Kim":
+{
+	"frame": {"x":457,"y":3,"w":197,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":5,"w":197,"h":220},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fancy_Cake_Num_Pinky_Bundt":
+{
+	"frame": {"x":470,"y":412,"w":215,"h":186},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":39,"w":215,"h":186},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fancy_Cake_Num_Princess_Buttercream":
+{
+	"frame": {"x":3,"y":233,"w":227,"h":217},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":7,"w":227,"h":217},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fancy_Cake_Num_Velvety_Cake":
+{
+	"frame": {"x":3,"y":454,"w":228,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":31,"w":228,"h":197},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fancy_Cake_Num_Violet_Contessa":
+{
+	"frame": {"x":3,"y":655,"w":198,"h":224},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":5,"w":198,"h":224},
+	"sourceSize": {"w":250,"h":250}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "fancy_cake.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":937},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1c40b175fbe5bee328e13b4f87aadf23:3a1efe718edc9e109764b84330a5e446:51cc56399ce99c0d3646315fb30df34e$"
+}
+}

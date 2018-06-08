@@ -1,0 +1,204 @@
+{"frames": {
+
+"containers/bread_rolls_stand_blue":
+{
+	"frame": {"x":1,"y":238,"w":242,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":105,"y":118,"w":242,"h":164},
+	"sourceSize": {"w":450,"h":300}
+},
+"levels/game_level_jelly_rolls":
+{
+	"frame": {"x":632,"y":1064,"w":145,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":670,"y":49,"w":145,"h":116},
+	"sourceSize": {"w":960,"h":720}
+},
+"noms/Gloss_Up_Nom_CC_Bon_Bon_Gloss_Up":
+{
+	"frame": {"x":448,"y":925,"w":182,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":48,"w":182,"h":154},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Polish_It_Nom_B_Day_Polish_It":
+{
+	"frame": {"x":1,"y":1063,"w":165,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":13,"w":165,"h":206},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Polish_It_Nom_Lemon_Creme_Polish_It":
+{
+	"frame": {"x":211,"y":986,"w":166,"h":186},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":32,"w":166,"h":186},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Bread_Rolls_Num_Megan_Mallow_Roll":
+{
+	"frame": {"x":498,"y":1,"w":244,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":39,"w":244,"h":167},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Bread_Rolls_Num_Rich_Roll":
+{
+	"frame": {"x":719,"y":457,"w":227,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":34,"w":227,"h":183},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Crepes_Num_Blueberry_Becca_Crepe":
+{
+	"frame": {"x":486,"y":368,"w":231,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":41,"w":231,"h":176},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Croissants_Num_Monsieur_Butter":
+{
+	"frame": {"x":744,"y":1,"w":240,"h":227},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":12,"w":240,"h":227},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Jelly_Rolls_Num_Berry_Cake_Roll":
+{
+	"frame": {"x":1,"y":830,"w":208,"h":231},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":9,"w":208,"h":231},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Jelly_Rolls_Num_Berry_Jelly_Roll":
+{
+	"frame": {"x":1,"y":404,"w":238,"h":195},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":33,"w":238,"h":195},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Jelly_Rolls_Num_Cookie_Cake_Roll":
+{
+	"frame": {"x":694,"y":832,"w":208,"h":230},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":9,"w":208,"h":230},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Jelly_Rolls_Num_Key_Lime_Roll":
+{
+	"frame": {"x":251,"y":164,"w":244,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":69,"w":244,"h":160},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Jelly_Rolls_Num_Le_Monade_Jelly_Roll":
+{
+	"frame": {"x":251,"y":1,"w":245,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":68,"w":245,"h":161},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Jelly_Rolls_Num_Orangie_Jelly_Roll":
+{
+	"frame": {"x":497,"y":170,"w":240,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":31,"w":240,"h":196},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Jelly_Rolls_Num_Princess_B_Day_Jelly_Roll":
+{
+	"frame": {"x":739,"y":230,"w":233,"h":225},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":7,"w":233,"h":225},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Jelly_Rolls_Num_Princess_BG_Jelly_Roll":
+{
+	"frame": {"x":1,"y":601,"w":227,"h":227},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":6,"w":227,"h":227},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Jelly_Rolls_Num_Princess_CC_Jelly_Roll":
+{
+	"frame": {"x":241,"y":524,"w":230,"h":226},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":6,"w":230,"h":226},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Jelly_Rolls_Num_Razzy_Spiral":
+{
+	"frame": {"x":245,"y":326,"w":239,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":33,"w":239,"h":196},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Jelly_Rolls_Num_Shannon_Smores":
+{
+	"frame": {"x":698,"y":642,"w":221,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":36,"w":221,"h":188},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Jelly_Rolls_Num_Straw_Kitty":
+{
+	"frame": {"x":473,"y":736,"w":219,"h":187},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":37,"w":219,"h":187},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marble_Ice_Cream_Num_Smores_Sundae":
+{
+	"frame": {"x":473,"y":546,"w":223,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":36,"w":223,"h":188},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marble_Ice_Cream_Num_Trio_Scoop":
+{
+	"frame": {"x":1,"y":1,"w":248,"h":235},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":7,"w":248,"h":235},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marshmallow_Squares_Num_Razzy_Dip_Treat":
+{
+	"frame": {"x":230,"y":752,"w":216,"h":232},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":5,"w":216,"h":232},
+	"sourceSize": {"w":250,"h":250}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "jelly_rolls.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:cb5b6743b0aabbf950320c526400066c:e14c64bb26f29b7dc2e5d88997d08f0c:159168b7808378be15b8ac40513cfb58$"
+}
+}

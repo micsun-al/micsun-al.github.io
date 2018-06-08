@@ -1,0 +1,132 @@
+{"frames": {
+
+"containers/fruit_crate":
+{
+	"frame": {"x":693,"y":3,"w":293,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":140,"w":293,"h":141},
+	"sourceSize": {"w":450,"h":300}
+},
+"levels/game_level_fruits":
+{
+	"frame": {"x":443,"y":594,"w":142,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":673,"y":49,"w":142,"h":105},
+	"sourceSize": {"w":960,"h":720}
+},
+"noms/Erase_It_Nom_Nana_Erase_It":
+{
+	"frame": {"x":447,"y":432,"w":189,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":50,"w":189,"h":158},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Lip_Gloss_Nom_Van_Berry_Gloss_Up":
+{
+	"frame": {"x":640,"y":552,"w":186,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":41,"w":186,"h":164},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Stamp_It_Nom_Melon_Gummy_Stamp_It":
+{
+	"frame": {"x":830,"y":552,"w":186,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":43,"w":186,"h":160},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fruit_Num_Becky_Bananas":
+{
+	"frame": {"x":454,"y":3,"w":235,"h":213},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":19,"w":235,"h":213},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fruit_Num_Coco_Cali":
+{
+	"frame": {"x":693,"y":148,"w":224,"h":199},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":32,"w":224,"h":199},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fruit_Num_Georgia_Peach":
+{
+	"frame": {"x":677,"y":351,"w":217,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":35,"w":217,"h":197},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fruit_Num_Melony_Seeds":
+{
+	"frame": {"x":3,"y":241,"w":215,"h":230},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":215,"h":230},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fruit_Num_Oscar_Orange":
+{
+	"frame": {"x":226,"y":452,"w":213,"h":211},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":21,"w":213,"h":211},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fruit_Num_Piney_Apple":
+{
+	"frame": {"x":3,"y":3,"w":221,"h":234},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":9,"w":221,"h":234},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fruit_Num_Sadie_Seeds":
+{
+	"frame": {"x":3,"y":475,"w":219,"h":218},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":16,"w":219,"h":218},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fruit_Num_Stew_Tomato":
+{
+	"frame": {"x":454,"y":220,"w":219,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":28,"w":219,"h":208},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fruit_Num_Victor_Vines":
+{
+	"frame": {"x":228,"y":3,"w":222,"h":229},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":11,"w":222,"h":229},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fruit_Num_Zane_Zest":
+{
+	"frame": {"x":228,"y":236,"w":215,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":20,"w":215,"h":212},
+	"sourceSize": {"w":250,"h":250}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "fruit.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":719},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:492c7f913eb2defa422c864ff0580eb9:4751be3f54cc3937224be846e8d940e4:a2a2182a87aec7c2742d42359809aa8c$"
+}
+}

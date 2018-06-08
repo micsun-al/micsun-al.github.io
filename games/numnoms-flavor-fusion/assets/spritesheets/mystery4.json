@@ -1,0 +1,100 @@
+{"frames": {
+
+"containers/yogurt_container_teal":
+{
+	"frame": {"x":3,"y":3,"w":241,"h":255},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":104,"y":20,"w":241,"h":255},
+	"sourceSize": {"w":450,"h":300}
+},
+"levels/game_level_mystery":
+{
+	"frame": {"x":3,"y":492,"w":127,"h":130},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":679,"y":49,"w":127,"h":130},
+	"sourceSize": {"w":960,"h":720}
+},
+"nums/Gummy_Bear_Num_Angel_Bubble":
+{
+	"frame": {"x":691,"y":3,"w":233,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":18,"w":233,"h":212},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Gummy_Bear_Num_Chewy_Choco":
+{
+	"frame": {"x":248,"y":3,"w":233,"h":223},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":8,"w":233,"h":223},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Gummy_Bear_Num_Princess_CC":
+{
+	"frame": {"x":3,"y":262,"w":244,"h":226},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":244,"h":226},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Hard_Candy_Num_Gaby_Goody":
+{
+	"frame": {"x":251,"y":456,"w":208,"h":174},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":55,"w":208,"h":174},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Pasta_Num_Hearty_Spaghetti":
+{
+	"frame": {"x":691,"y":219,"w":225,"h":210},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":17,"w":225,"h":210},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Pasta_Num_Lizzie_Lasagna":
+{
+	"frame": {"x":251,"y":230,"w":206,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":8,"w":206,"h":222},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Pasta_Num_Mac_A_Roni":
+{
+	"frame": {"x":669,"y":433,"w":219,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":26,"w":219,"h":205},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Rock_Candy_Num_Crystal_Liza":
+{
+	"frame": {"x":485,"y":3,"w":202,"h":214},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":7,"w":202,"h":214},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Striped_Candy_Num_Carol_Candy_Cane":
+{
+	"frame": {"x":461,"y":230,"w":204,"h":216},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":14,"w":204,"h":216},
+	"sourceSize": {"w":250,"h":250}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "mystery4.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":641},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:390ea80251436ef83bb8dbde04f1c17d:e7ab27e4c93e22c0c0b5126653a82c48:9da47536bc4ac00ce96318547323756b$"
+}
+}

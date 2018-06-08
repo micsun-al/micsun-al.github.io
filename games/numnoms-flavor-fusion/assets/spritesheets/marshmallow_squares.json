@@ -1,0 +1,164 @@
+{"frames": {
+
+"containers/marshmallow_squares_cup_blue":
+{
+	"frame": {"x":727,"y":222,"w":239,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":111,"y":114,"w":239,"h":151},
+	"sourceSize": {"w":450,"h":300}
+},
+"levels/game_level_marshmallow_squares":
+{
+	"frame": {"x":1,"y":647,"w":147,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":666,"y":49,"w":147,"h":118},
+	"sourceSize": {"w":960,"h":720}
+},
+"noms/Gloss_Up_Nom_Sugar_Cookie_Gloss_Up":
+{
+	"frame": {"x":217,"y":632,"w":181,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":44,"w":181,"h":158},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Gloss_Up_Nom_Toasty_Mallow_Gloss_Up":
+{
+	"frame": {"x":461,"y":582,"w":181,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":43,"w":181,"h":159},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Light_Up_Nom_Pineapple_Gem_Light_Up":
+{
+	"frame": {"x":381,"y":792,"w":187,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":55,"w":187,"h":167},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Polish_It_Nom_Pineapple_Polish_It":
+{
+	"frame": {"x":213,"y":792,"w":166,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":13,"w":166,"h":206},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marshmallow_Squares_Num_Brandy_Berry":
+{
+	"frame": {"x":727,"y":375,"w":238,"h":187},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":38,"w":238,"h":187},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marshmallow_Squares_Num_Bubble_Crunch":
+{
+	"frame": {"x":1,"y":194,"w":241,"h":215},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":16,"w":241,"h":215},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marshmallow_Squares_Num_CC_Crunch":
+{
+	"frame": {"x":1,"y":411,"w":214,"h":234},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":5,"w":214,"h":234},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marshmallow_Squares_Num_CC_Treat":
+{
+	"frame": {"x":496,"y":1,"w":241,"h":201},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":28,"w":241,"h":201},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marshmallow_Squares_Num_Crunchy_Coco":
+{
+	"frame": {"x":486,"y":204,"w":239,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":38,"w":239,"h":188},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marshmallow_Squares_Num_Frosted_Caramel":
+{
+	"frame": {"x":1,"y":792,"w":210,"h":225},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":12,"w":210,"h":225},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marshmallow_Squares_Num_Krispy_Kaitlyn":
+{
+	"frame": {"x":244,"y":397,"w":215,"h":233},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":5,"w":215,"h":233},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marshmallow_Squares_Num_Nana_Sprinkle_Treat":
+{
+	"frame": {"x":249,"y":1,"w":245,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":33,"w":245,"h":192},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marshmallow_Squares_Num_Nancy_Neapolitan":
+{
+	"frame": {"x":739,"y":1,"w":239,"h":219},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":11,"w":239,"h":219},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marshmallow_Squares_Num_Sasha_Smores":
+{
+	"frame": {"x":486,"y":394,"w":236,"h":186},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":39,"w":236,"h":186},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marshmallow_Squares_Num_Sprinkle_Berry_Treat":
+{
+	"frame": {"x":724,"y":564,"w":210,"h":226},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":12,"w":210,"h":226},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marshmallow_Squares_Num_Sprinkle_Crunch":
+{
+	"frame": {"x":1,"y":1,"w":246,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":33,"w":246,"h":191},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marshmallow_Squares_Num_Sugar_Mint":
+{
+	"frame": {"x":244,"y":195,"w":240,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":28,"w":240,"h":200},
+	"sourceSize": {"w":250,"h":250}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "marshmallow_squares.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c5b1a983a7e2ec4323430229b634e193:219212cab08ceb22a79d0a330d209f37:f18198fe8e49f1169d395555ba5d8cba$"
+}
+}

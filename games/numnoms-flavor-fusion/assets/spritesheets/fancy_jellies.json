@@ -1,0 +1,148 @@
+{"frames": {
+
+"containers/jelly_cups_jar_pink":
+{
+	"frame": {"x":502,"y":1,"w":248,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":110,"w":248,"h":177},
+	"sourceSize": {"w":450,"h":300}
+},
+"levels/game_level_fancy_jellies":
+{
+	"frame": {"x":209,"y":631,"w":143,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":672,"y":49,"w":143,"h":135},
+	"sourceSize": {"w":960,"h":720}
+},
+"noms/Light_Up_Nom_Cotton_Candy_Gem_Light_Up":
+{
+	"frame": {"x":449,"y":576,"w":189,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":57,"w":189,"h":164},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Light_Up_Nom_Minty_Snow_Cone_Light_Up":
+{
+	"frame": {"x":1,"y":618,"w":206,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":53,"w":206,"h":168},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Lights_Fancy_Jellies_Num_Bubble_Gum_Blanche":
+{
+	"frame": {"x":202,"y":788,"w":199,"h":221},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":15,"w":199,"h":221},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Lights_Fancy_Jellies_Num_Royal_Razzy":
+{
+	"frame": {"x":1,"y":788,"w":199,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":14,"w":199,"h":222},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Lights_Gum_Drops_Num_Blue_Razzy_Gum_Drop":
+{
+	"frame": {"x":252,"y":1,"w":248,"h":195},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":32,"w":248,"h":195},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Lights_Gum_Drops_Num_Gracie_Grape":
+{
+	"frame": {"x":1,"y":1,"w":249,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":32,"w":249,"h":196},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Lights_Gum_Drops_Num_Lemon_Pop_Drop":
+{
+	"frame": {"x":713,"y":382,"w":205,"h":195},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":34,"w":205,"h":195},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Lights_Gum_Drops_Num_Nana_Gum_Drop":
+{
+	"frame": {"x":502,"y":180,"w":240,"h":187},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":41,"w":240,"h":187},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Lights_Gum_Drops_Num_OJ_Gum_Drop":
+{
+	"frame": {"x":491,"y":369,"w":220,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":22,"w":220,"h":205},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Lights_Gum_Drops_Num_Razzy_Rita":
+{
+	"frame": {"x":752,"y":1,"w":241,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":41,"w":241,"h":189},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Lights_Gum_Drops_Num_S_Berry_Drop":
+{
+	"frame": {"x":235,"y":414,"w":212,"h":215},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":22,"w":212,"h":215},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Lights_Jelly_Beans_Num_Kendra_Kiwi":
+{
+	"frame": {"x":252,"y":198,"w":237,"h":214},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":18,"w":237,"h":214},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Lights_Jelly_Beans_Num_Reagan_Raspberry":
+{
+	"frame": {"x":1,"y":406,"w":232,"h":210},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":20,"w":232,"h":210},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Lights_Jelly_Cups_Num_Cindy_Citrus":
+{
+	"frame": {"x":744,"y":192,"w":221,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":38,"w":221,"h":188},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Lights_Jelly_Cups_Num_Wild_Berry_Jelly":
+{
+	"frame": {"x":1,"y":199,"w":237,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":21,"w":237,"h":205},
+	"sourceSize": {"w":250,"h":250}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "fancy_jellies.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6753839d7fdc76de5462a2cc3696e58b:d417c8fef341e8f88261b918b033459f:e46e0d5564a6b97780f242d9e70aab21$"
+}
+}

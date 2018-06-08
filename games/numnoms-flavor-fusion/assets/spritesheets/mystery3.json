@@ -1,0 +1,124 @@
+{"frames": {
+
+"containers/yogurt_container_purple":
+{
+	"frame": {"x":3,"y":3,"w":253,"h":268},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":102,"y":25,"w":253,"h":268},
+	"sourceSize": {"w":450,"h":300}
+},
+"levels/game_level_mystery":
+{
+	"frame": {"x":877,"y":549,"w":127,"h":130},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":679,"y":49,"w":127,"h":130},
+	"sourceSize": {"w":960,"h":720}
+},
+"nums/Baked_Goods_Num_Peach_Drizzle":
+{
+	"frame": {"x":423,"y":483,"w":223,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":28,"w":223,"h":202},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Baked_Goods_Num_Puddin_Pie":
+{
+	"frame": {"x":260,"y":3,"w":234,"h":190},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":43,"w":234,"h":190},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cookie_Num_Cookie_Smores":
+{
+	"frame": {"x":714,"y":186,"w":229,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":46,"w":229,"h":181},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cookie_Num_Delish_Destiny":
+{
+	"frame": {"x":714,"y":3,"w":237,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":47,"w":237,"h":179},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cookie_Num_Minty_Crisp":
+{
+	"frame": {"x":688,"y":371,"w":224,"h":174},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":48,"w":224,"h":174},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Creamery_Num_Autumn_Spice":
+{
+	"frame": {"x":3,"y":275,"w":228,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":12,"w":228,"h":220},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Creamery_Num_Heavenly_Froyo":
+{
+	"frame": {"x":498,"y":3,"w":212,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":40,"w":212,"h":184},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Creme_Filled_Num_Dollop_Cottonwich":
+{
+	"frame": {"x":202,"y":499,"w":217,"h":210},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":19,"w":217,"h":210},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Creme_Filled_Num_IC_Sandwich":
+{
+	"frame": {"x":474,"y":197,"w":210,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":38,"w":210,"h":189},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Creme_Filled_Num_Trois_Treats":
+{
+	"frame": {"x":235,"y":275,"w":235,"h":204},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":28,"w":235,"h":204},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fancy_Cake_Num_Angel_Cake":
+{
+	"frame": {"x":3,"y":499,"w":195,"h":217},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":12,"w":195,"h":217},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fancy_Cake_Num_Cottony_Cakes":
+{
+	"frame": {"x":650,"y":549,"w":223,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":45,"w":223,"h":181},
+	"sourceSize": {"w":250,"h":250}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "mystery3.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":733},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:dbcbc0aa2ef39ef286b083c50aad49a5:af50a252ccafece1b5cbf77b6982d9aa:5bcfb8e929e36014a7f4d00d9a23b922$"
+}
+}

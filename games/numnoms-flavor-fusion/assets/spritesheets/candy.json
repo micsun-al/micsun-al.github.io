@@ -1,0 +1,172 @@
+{"frames": {
+
+"containers/jellybean_jar_pink":
+{
+	"frame": {"x":3,"y":3,"w":248,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":110,"w":248,"h":177},
+	"sourceSize": {"w":450,"h":300}
+},
+"levels/game_level_candies":
+{
+	"frame": {"x":452,"y":638,"w":143,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":674,"y":49,"w":143,"h":101},
+	"sourceSize": {"w":960,"h":720}
+},
+"noms/Lip_Gloss_Nom_Blue_Razz_Gloss_Up":
+{
+	"frame": {"x":3,"y":867,"w":184,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":43,"w":184,"h":161},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Lip_Gloss_Nom_Choco_Smores_Gloss_Up":
+{
+	"frame": {"x":383,"y":822,"w":186,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":41,"w":186,"h":164},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Stamp_It_Nom_Berry_Gummy_Stamp_It":
+{
+	"frame": {"x":191,"y":867,"w":188,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":51,"w":188,"h":154},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Candy_Num_Brooklyn_Blue":
+{
+	"frame": {"x":741,"y":196,"w":220,"h":233},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":8,"w":220,"h":233},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Candy_Num_Candy_Hearts":
+{
+	"frame": {"x":501,"y":3,"w":241,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":39,"w":241,"h":189},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Candy_Num_Courtney_Candy":
+{
+	"frame": {"x":793,"y":668,"w":215,"h":235},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":9,"w":215,"h":235},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Candy_Num_Crystal_W_Berry":
+{
+	"frame": {"x":573,"y":743,"w":216,"h":237},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":8,"w":216,"h":237},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Candy_Num_Gabby_Grape":
+{
+	"frame": {"x":255,"y":3,"w":242,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":25,"w":242,"h":206},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Candy_Num_Lily_Lemony":
+{
+	"frame": {"x":3,"y":184,"w":241,"h":204},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":26,"w":241,"h":204},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Candy_Num_Mia_Mango":
+{
+	"frame": {"x":3,"y":392,"w":222,"h":235},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":8,"w":222,"h":235},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Candy_Num_Nana_Hearts":
+{
+	"frame": {"x":746,"y":3,"w":239,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":39,"w":239,"h":189},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Candy_Num_Peyton_Peppermint":
+{
+	"frame": {"x":501,"y":196,"w":236,"h":201},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":27,"w":236,"h":201},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Candy_Num_Rockie_S_Berry":
+{
+	"frame": {"x":477,"y":401,"w":220,"h":233},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":9,"w":220,"h":233},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Candy_Num_Sparkle_Mellie":
+{
+	"frame": {"x":229,"y":621,"w":219,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":32,"w":219,"h":197},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Candy_Num_Sugar_Stripes":
+{
+	"frame": {"x":229,"y":419,"w":220,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":32,"w":220,"h":198},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Candy_Num_Suzy_Stripes":
+{
+	"frame": {"x":248,"y":213,"w":225,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":30,"w":225,"h":202},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Candy_Num_Swirls_Lolly":
+{
+	"frame": {"x":793,"y":433,"w":216,"h":231},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":4,"w":216,"h":231},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Candy_Num_Tina_Tangerine":
+{
+	"frame": {"x":3,"y":631,"w":218,"h":232},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":10,"w":218,"h":232},
+	"sourceSize": {"w":250,"h":250}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "candy.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1031},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d65479f226aa5a232212743bcb2e7586:b93761d177c4dfcb083d9f147eae069d:45fe36101e57ad1032e9d97a079c7e96$"
+}
+}

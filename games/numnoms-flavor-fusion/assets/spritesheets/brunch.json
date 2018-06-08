@@ -1,0 +1,124 @@
+{"frames": {
+
+"containers/breakfast_pan_pink":
+{
+	"frame": {"x":692,"y":3,"w":319,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":179,"w":319,"h":87},
+	"sourceSize": {"w":450,"h":300}
+},
+"levels/game_level_brunch":
+{
+	"frame": {"x":631,"y":473,"w":140,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":671,"y":49,"w":140,"h":108},
+	"sourceSize": {"w":960,"h":720}
+},
+"noms/Motorized_Nom_Buttery_Go_Go":
+{
+	"frame": {"x":841,"y":277,"w":178,"h":136},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":60,"w":178,"h":136},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Motorized_Nom_Jammin_Berry_Go_Go":
+{
+	"frame": {"x":233,"y":430,"w":176,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":57,"w":176,"h":139},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Brunch_Num_Becca_Bacon":
+{
+	"frame": {"x":421,"y":207,"w":205,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":29,"w":205,"h":202},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Brunch_Num_Berry_Cakes":
+{
+	"frame": {"x":3,"y":210,"w":206,"h":217},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":15,"w":206,"h":217},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Brunch_Num_Berry_Froyo":
+{
+	"frame": {"x":233,"y":3,"w":229,"h":194},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":30,"w":229,"h":194},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Brunch_Num_Berry_Waffles":
+{
+	"frame": {"x":631,"y":277,"w":206,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":29,"w":206,"h":192},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Brunch_Num_Cindy_Cinnamon":
+{
+	"frame": {"x":692,"y":94,"w":223,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":41,"w":223,"h":179},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Brunch_Num_Maple_Cakes":
+{
+	"frame": {"x":213,"y":210,"w":204,"h":216},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":16,"w":204,"h":216},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Brunch_Num_Nilla_Froyo":
+{
+	"frame": {"x":3,"y":3,"w":226,"h":203},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":24,"w":226,"h":203},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Brunch_Num_Strawberry_Froyo":
+{
+	"frame": {"x":466,"y":3,"w":222,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":24,"w":222,"h":200},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Brunch_Num_Sunny_Omelette":
+{
+	"frame": {"x":3,"y":431,"w":226,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":51,"w":226,"h":167},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Brunch_Num_Willy_Waffles":
+{
+	"frame": {"x":421,"y":413,"w":206,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":28,"w":206,"h":191},
+	"sourceSize": {"w":250,"h":250}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "brunch.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":607},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:eba48064d627a56e755a8c18b34ed23f:f9d3c8857916e49e0f53f68a14ce687d:c13fe42e30069e42964b03d9d9628216$"
+}
+}

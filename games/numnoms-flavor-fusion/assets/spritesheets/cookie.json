@@ -1,0 +1,196 @@
+{"frames": {
+
+"containers/cookie_pink":
+{
+	"frame": {"x":3,"y":3,"w":249,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":110,"w":249,"h":164},
+	"sourceSize": {"w":450,"h":300}
+},
+"levels/game_level_cookies":
+{
+	"frame": {"x":187,"y":943,"w":197,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":658,"y":47,"w":197,"h":114},
+	"sourceSize": {"w":960,"h":720}
+},
+"noms/Glitter_Gloss_Up_Nom_Berry_Cookie_Gloss_Up":
+{
+	"frame": {"x":216,"y":771,"w":188,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":43,"w":188,"h":165},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Glitter_Gloss_Up_Nom_Pippa_Mint_Cookie_Gloss_Up":
+{
+	"frame": {"x":3,"y":943,"w":180,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":47,"w":180,"h":158},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Glitter_Gloss_Up_Nom_Razz_Cookie_Gloss_Up":
+{
+	"frame": {"x":388,"y":940,"w":180,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":46,"w":180,"h":159},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cookie_Num_Blueberry_Oats":
+{
+	"frame": {"x":572,"y":778,"w":204,"h":233},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":1,"w":204,"h":233},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cookie_Num_Candy_Karma":
+{
+	"frame": {"x":3,"y":171,"w":237,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":54,"w":237,"h":180},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cookie_Num_Choco_Fortune":
+{
+	"frame": {"x":244,"y":190,"w":230,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":55,"w":230,"h":177},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cookie_Num_Chucky_Chip":
+{
+	"frame": {"x":780,"y":609,"w":205,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":20,"w":205,"h":206},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cookie_Num_Confetti_Cookie":
+{
+	"frame": {"x":445,"y":566,"w":206,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":18,"w":206,"h":208},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cookie_Num_Cookie_Smores":
+{
+	"frame": {"x":236,"y":371,"w":229,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":46,"w":229,"h":181},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cookie_Num_Delish_Destiny":
+{
+	"frame": {"x":499,"y":3,"w":237,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":47,"w":237,"h":179},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cookie_Num_Goodie_Luck":
+{
+	"frame": {"x":740,"y":3,"w":235,"h":182},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":43,"w":235,"h":182},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cookie_Num_Latte_Crisp":
+{
+	"frame": {"x":469,"y":374,"w":214,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":36,"w":214,"h":188},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cookie_Num_Lucky_Choco":
+{
+	"frame": {"x":256,"y":3,"w":239,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":43,"w":239,"h":183},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cookie_Num_Mintee_Chip":
+{
+	"frame": {"x":3,"y":355,"w":229,"h":182},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":42,"w":229,"h":182},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cookie_Num_Minty_Crisp":
+{
+	"frame": {"x":3,"y":541,"w":224,"h":174},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":48,"w":224,"h":174},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cookie_Num_Orange_Crunch":
+{
+	"frame": {"x":3,"y":719,"w":209,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":6,"w":209,"h":220},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cookie_Num_Rainbow_Crumb":
+{
+	"frame": {"x":231,"y":556,"w":210,"h":211},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":16,"w":210,"h":211},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cookie_Num_Sprinkle_Berry":
+{
+	"frame": {"x":687,"y":387,"w":209,"h":218},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":7,"w":209,"h":218},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cookie_Num_Strawberry_Chip":
+{
+	"frame": {"x":780,"y":819,"w":203,"h":232},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":1,"w":203,"h":232},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cookie_Num_Sugar_Wafer":
+{
+	"frame": {"x":735,"y":189,"w":222,"h":194},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":32,"w":222,"h":194},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Cookie_Num_Willow_Wafer":
+{
+	"frame": {"x":499,"y":186,"w":232,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":44,"w":232,"h":184},
+	"sourceSize": {"w":250,"h":250}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "cookie.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1104},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2d6545d421b75b6baa7cd41c74095e48:902d1e7853f1b606ed51ba3e445722ed:83b9f4b42964fe725d3a4ec63908a8ce$"
+}
+}

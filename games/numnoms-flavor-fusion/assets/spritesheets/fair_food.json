@@ -1,0 +1,108 @@
+{"frames": {
+
+"containers/fair_tray_paper":
+{
+	"frame": {"x":228,"y":474,"w":272,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":170,"w":272,"h":98},
+	"sourceSize": {"w":450,"h":300}
+},
+"levels/game_level_fun_fair_treats":
+{
+	"frame": {"x":684,"y":412,"w":121,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":681,"y":49,"w":121,"h":111},
+	"sourceSize": {"w":960,"h":720}
+},
+"noms/Lip_Gloss_Nom_Cotton_Candy_Gloss_Up":
+{
+	"frame": {"x":504,"y":412,"w":176,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":54,"w":176,"h":149},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Motorized_Nom_Peanut_Go_Go":
+{
+	"frame": {"x":809,"y":406,"w":180,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":36,"w":180,"h":163},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fair_Food_Num_Annie_Apple":
+{
+	"frame": {"x":235,"y":3,"w":221,"h":228},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":12,"w":221,"h":228},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fair_Food_Num_Berry_Puffs":
+{
+	"frame": {"x":460,"y":3,"w":235,"h":201},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":26,"w":235,"h":201},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fair_Food_Num_Cara_Mellie":
+{
+	"frame": {"x":3,"y":241,"w":221,"h":230},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":10,"w":221,"h":230},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fair_Food_Num_Momma_Corn":
+{
+	"frame": {"x":702,"y":206,"w":238,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":29,"w":238,"h":196},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fair_Food_Num_Nana_Puffs":
+{
+	"frame": {"x":463,"y":208,"w":235,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":26,"w":235,"h":200},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fair_Food_Num_Papa_Corn":
+{
+	"frame": {"x":699,"y":3,"w":242,"h":199},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":26,"w":242,"h":199},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fair_Food_Num_Pinky_Puffs":
+{
+	"frame": {"x":3,"y":3,"w":228,"h":234},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":8,"w":228,"h":234},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Fair_Food_Num_Sugar_Puffs":
+{
+	"frame": {"x":228,"y":241,"w":231,"h":229},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":12,"w":231,"h":229},
+	"sourceSize": {"w":250,"h":250}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "fair_food.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":575},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9e2f63a4a6e805acc394a0cd1f0d4d62:02653ce7c3db8247a8ec8064a0e5d947:e33b024f01016afec5b1f5375826818d$"
+}
+}

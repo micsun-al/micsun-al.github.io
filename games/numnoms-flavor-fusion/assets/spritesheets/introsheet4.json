@@ -1,0 +1,68 @@
+{"frames": {
+
+"state_intro/game_bg":
+{
+	"frame": {"x":3,"y":3,"w":960,"h":720},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":720},
+	"sourceSize": {"w":960,"h":720}
+},
+"state_intro/intro_logo":
+{
+	"frame": {"x":3,"y":1733,"w":426,"h":269},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":313,"y":114,"w":426,"h":269},
+	"sourceSize": {"w":960,"h":720}
+},
+"state_intro/intro_nums":
+{
+	"frame": {"x":3,"y":727,"w":960,"h":720},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":720},
+	"sourceSize": {"w":960,"h":720}
+},
+"state_intro/intro_play_down":
+{
+	"frame": {"x":624,"y":1451,"w":249,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":249,"h":82},
+	"sourceSize": {"w":251,"h":84}
+},
+"state_intro/intro_play_over":
+{
+	"frame": {"x":624,"y":1537,"w":249,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":249,"h":82},
+	"sourceSize": {"w":251,"h":84}
+},
+"state_intro/intro_play_up":
+{
+	"frame": {"x":624,"y":1623,"w":249,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":249,"h":82},
+	"sourceSize": {"w":251,"h":84}
+},
+"state_intro/intro_text":
+{
+	"frame": {"x":3,"y":1451,"w":617,"h":278},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":178,"y":336,"w":617,"h":278},
+	"sourceSize": {"w":960,"h":720}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "introsheet4.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2005},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0c6c7f239835e29f0b3e444bed1cf689:49291193de375da5784d640b33d64660:6a9a91bf094464a455128b6a1017fe72$"
+}
+}

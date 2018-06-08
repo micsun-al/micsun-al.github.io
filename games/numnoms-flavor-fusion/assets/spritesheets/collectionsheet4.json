@@ -1,0 +1,3612 @@
+{"frames": {
+
+"collected/Baked_Goods_Num_Barry_Donut":
+{
+	"frame": {"x":3487,"y":2161,"w":62,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":175,"y":567,"w":62,"h":63},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Baked_Goods_Num_Berry_Glazed":
+{
+	"frame": {"x":734,"y":2002,"w":67,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":457,"w":67,"h":60},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Baked_Goods_Num_Blueberry_Pie":
+{
+	"frame": {"x":1711,"y":1617,"w":68,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":257,"y":324,"w":68,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Baked_Goods_Num_Cheri_Crisp":
+{
+	"frame": {"x":1019,"y":1922,"w":67,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":172,"y":336,"w":67,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Baked_Goods_Num_Choco_A_La_Mode":
+{
+	"frame": {"x":661,"y":1770,"w":69,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":339,"w":69,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Baked_Goods_Num_Chocoberry_Pie":
+{
+	"frame": {"x":734,"y":1816,"w":69,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":235,"w":69,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Baked_Goods_Num_Citrus_Glazed":
+{
+	"frame": {"x":1516,"y":1946,"w":67,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":226,"y":467,"w":67,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Baked_Goods_Num_Cotton_Candy_Donut":
+{
+	"frame": {"x":1445,"y":1922,"w":67,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":260,"y":570,"w":67,"h":57},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Baked_Goods_Num_Lime_Custard":
+{
+	"frame": {"x":1639,"y":1633,"w":68,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":246,"y":226,"w":68,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Baked_Goods_Num_Nana_Creme_Pie":
+{
+	"frame": {"x":734,"y":1689,"w":69,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":159,"y":227,"w":69,"h":60},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Baked_Goods_Num_Peach_Drizzle":
+{
+	"frame": {"x":877,"y":1988,"w":66,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":356,"y":448,"w":66,"h":59},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Baked_Goods_Num_Puddin_Pie":
+{
+	"frame": {"x":1567,"y":1696,"w":68,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":458,"w":68,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Bread_Rolls_Num_Cocoa_Roll":
+{
+	"frame": {"x":1758,"y":1427,"w":62,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":635,"y":307,"w":62,"h":68},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Bread_Rolls_Num_Lemon_Poppy":
+{
+	"frame": {"x":4031,"y":1987,"w":62,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":721,"y":304,"w":62,"h":68},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Bread_Rolls_Num_Lorelai_Lattice":
+{
+	"frame": {"x":4014,"y":1573,"w":71,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":809,"y":405,"w":71,"h":57},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Bread_Rolls_Num_Megan_Mallow_Roll":
+{
+	"frame": {"x":2552,"y":1548,"w":69,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":470,"y":360,"w":69,"h":50},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Bread_Rolls_Num_Nana_Bread":
+{
+	"frame": {"x":864,"y":502,"w":73,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":635,"y":420,"w":73,"h":54},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Bread_Rolls_Num_Nilla_Dough":
+{
+	"frame": {"x":1639,"y":1695,"w":68,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":677,"y":524,"w":68,"h":57},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Bread_Rolls_Num_Raisin_Roll":
+{
+	"frame": {"x":864,"y":184,"w":74,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":722,"y":418,"w":74,"h":54},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Bread_Rolls_Num_Razzy_Loaf":
+{
+	"frame": {"x":864,"y":440,"w":73,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":762,"y":516,"w":73,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Bread_Rolls_Num_Rich_Roll":
+{
+	"frame": {"x":1567,"y":1634,"w":68,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":724,"y":239,"w":68,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Bread_Rolls_Num_Tropical_Sweetie":
+{
+	"frame": {"x":864,"y":377,"w":73,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":802,"y":301,"w":73,"h":59},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Brunch_Num_Becca_Bacon":
+{
+	"frame": {"x":2747,"y":2145,"w":63,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":551,"y":322,"w":63,"h":59},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Brunch_Num_Berry_Cakes":
+{
+	"frame": {"x":2814,"y":2190,"w":60,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":468,"y":211,"w":60,"h":63},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Brunch_Num_Berry_Froyo":
+{
+	"frame": {"x":661,"y":2081,"w":66,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":543,"y":426,"w":66,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Brunch_Num_Berry_Waffles":
+{
+	"frame": {"x":3326,"y":2460,"w":60,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":367,"y":511,"w":60,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Brunch_Num_Cindy_Cinnamon":
+{
+	"frame": {"x":3518,"y":2539,"w":60,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":377,"y":310,"w":60,"h":53},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Brunch_Num_Maple_Cakes":
+{
+	"frame": {"x":3899,"y":2546,"w":59,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":382,"y":205,"w":59,"h":63},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Brunch_Num_Nilla_Froyo":
+{
+	"frame": {"x":2969,"y":1810,"w":64,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":456,"y":418,"w":64,"h":59},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Brunch_Num_Strawberry_Froyo":
+{
+	"frame": {"x":3428,"y":1970,"w":63,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":371,"y":407,"w":63,"h":59},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Brunch_Num_Sunny_Omelette":
+{
+	"frame": {"x":2890,"y":1934,"w":64,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":462,"y":317,"w":64,"h":51},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Brunch_Num_Willy_Waffles":
+{
+	"frame": {"x":3961,"y":2046,"w":62,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":555,"y":219,"w":62,"h":59},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Candy_Num_Brooklyn_Blue":
+{
+	"frame": {"x":3823,"y":2283,"w":61,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":201,"y":545,"w":61,"h":64},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Candy_Num_Candy_Hearts":
+{
+	"frame": {"x":731,"y":2129,"w":66,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":245,"w":66,"h":55},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Candy_Num_Courtney_Candy":
+{
+	"frame": {"x":3518,"y":2596,"w":59,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":239,"w":59,"h":65},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Candy_Num_Crystal_W_Berry":
+{
+	"frame": {"x":3758,"y":2229,"w":61,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":190,"y":338,"w":61,"h":66},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Candy_Num_Gabby_Grape":
+{
+	"frame": {"x":805,"y":2036,"w":66,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":192,"y":445,"w":66,"h":59},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Candy_Num_Lily_Lemony":
+{
+	"frame": {"x":1089,"y":1984,"w":66,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":105,"y":449,"w":66,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Candy_Num_Mia_Mango":
+{
+	"frame": {"x":3355,"y":2129,"w":62,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":552,"w":62,"h":65},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Candy_Num_Nana_Hearts":
+{
+	"frame": {"x":2901,"y":1629,"w":65,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":342,"w":65,"h":54},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Candy_Num_Peyton_Peppermint":
+{
+	"frame": {"x":3384,"y":1566,"w":65,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":280,"y":442,"w":65,"h":57},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Candy_Num_Rockie_S_Berry":
+{
+	"frame": {"x":3984,"y":2477,"w":60,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":104,"y":343,"w":60,"h":64},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Candy_Num_Sparkle_Mellie":
+{
+	"frame": {"x":3037,"y":1810,"w":64,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":142,"w":64,"h":59},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Candy_Num_Sugar_Stripes":
+{
+	"frame": {"x":3627,"y":2159,"w":62,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":268,"y":138,"w":62,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Candy_Num_Suzy_Stripes":
+{
+	"frame": {"x":3221,"y":2071,"w":63,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":182,"y":140,"w":63,"h":57},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Candy_Num_Swirls_Lolly":
+{
+	"frame": {"x":3984,"y":2545,"w":60,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":541,"w":60,"h":64},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Candy_Num_Tina_Tangerine":
+{
+	"frame": {"x":3221,"y":2132,"w":62,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":273,"y":232,"w":62,"h":65},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cookie_Num_Blueberry_Oats":
+{
+	"frame": {"x":3761,"y":2157,"w":61,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":537,"y":292,"w":61,"h":68},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cookie_Num_Candy_Karma":
+{
+	"frame": {"x":4014,"y":1634,"w":71,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":627,"y":208,"w":71,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cookie_Num_Choco_Fortune":
+{
+	"frame": {"x":1639,"y":1875,"w":68,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":715,"y":209,"w":68,"h":53},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cookie_Num_Chucky_Chip":
+{
+	"frame": {"x":3550,"y":2340,"w":61,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":540,"y":198,"w":61,"h":62},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cookie_Num_Confetti_Cookie":
+{
+	"frame": {"x":3219,"y":2201,"w":62,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":454,"y":188,"w":62,"h":62},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cookie_Num_Cookie_Smores":
+{
+	"frame": {"x":1587,"y":2001,"w":67,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":349,"y":245,"w":67,"h":54},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cookie_Num_Delish_Destiny":
+{
+	"frame": {"x":4014,"y":1754,"w":71,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":437,"y":241,"w":71,"h":55},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cookie_Num_Goodie_Luck":
+{
+	"frame": {"x":4014,"y":1694,"w":71,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":799,"y":208,"w":71,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cookie_Num_Latte_Crisp":
+{
+	"frame": {"x":3108,"y":1566,"w":65,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":176,"y":225,"w":65,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cookie_Num_Lucky_Choco":
+{
+	"frame": {"x":848,"y":813,"w":72,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":628,"y":310,"w":72,"h":57},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cookie_Num_Mintee_Chip":
+{
+	"frame": {"x":1711,"y":1741,"w":68,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":359,"y":300,"w":68,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cookie_Num_Minty_Crisp":
+{
+	"frame": {"x":1567,"y":1756,"w":68,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":252,"w":68,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cookie_Num_Orange_Crunch":
+{
+	"frame": {"x":3693,"y":2215,"w":61,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":186,"y":314,"w":61,"h":67},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cookie_Num_Rainbow_Crumb":
+{
+	"frame": {"x":2883,"y":2058,"w":63,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":366,"y":184,"w":63,"h":63},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cookie_Num_Sprinkle_Berry":
+{
+	"frame": {"x":3958,"y":2171,"w":61,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":319,"w":61,"h":66},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cookie_Num_Strawberry_Chip":
+{
+	"frame": {"x":3280,"y":2324,"w":60,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":450,"y":288,"w":60,"h":67},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cookie_Num_Sugar_Wafer":
+{
+	"frame": {"x":661,"y":2017,"w":67,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":231,"w":67,"h":60},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cookie_Num_Willow_Wafer":
+{
+	"frame": {"x":734,"y":1753,"w":69,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":261,"y":219,"w":69,"h":59},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creamery_Num_Autumn_Spice":
+{
+	"frame": {"x":1709,"y":1989,"w":67,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":525,"y":232,"w":67,"h":64},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creamery_Num_Berries_N_Creme":
+{
+	"frame": {"x":3561,"y":2142,"w":62,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":225,"y":327,"w":62,"h":67},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creamery_Num_Berry_Blizzard":
+{
+	"frame": {"x":734,"y":1494,"w":69,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":604,"y":258,"w":69,"h":61},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creamery_Num_Berry_Sherbert":
+{
+	"frame": {"x":3495,"y":2031,"w":63,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":717,"y":413,"w":63,"h":54},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creamery_Num_Charlotte_Choco":
+{
+	"frame": {"x":2684,"y":1879,"w":64,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":630,"y":415,"w":64,"h":55},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creamery_Num_Choco_Mint_Froyo":
+{
+	"frame": {"x":3428,"y":2033,"w":63,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":457,"y":419,"w":63,"h":54},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creamery_Num_Chocolatey_Cocoa":
+{
+	"frame": {"x":3380,"y":1748,"w":64,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":403,"y":238,"w":64,"h":61},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creamery_Num_Citrus_Blizzard":
+{
+	"frame": {"x":2625,"y":1566,"w":65,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":520,"y":266,"w":65,"h":60},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creamery_Num_Gigi_Gelato":
+{
+	"frame": {"x":1159,"y":2046,"w":66,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":462,"y":531,"w":66,"h":54},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creamery_Num_Heavenly_Froyo":
+{
+	"frame": {"x":3309,"y":1879,"w":64,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":614,"y":234,"w":64,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creamery_Num_Hottie_Chocolate":
+{
+	"frame": {"x":3,"y":2215,"w":65,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":230,"y":224,"w":65,"h":66},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creamery_Num_Mango_Sherbert":
+{
+	"frame": {"x":1229,"y":2046,"w":66,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":547,"y":524,"w":66,"h":54},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creamery_Num_Mint_Shake":
+{
+	"frame": {"x":2953,"y":1989,"w":63,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":214,"y":503,"w":63,"h":64},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creamery_Num_Mocha_Frappe":
+{
+	"frame": {"x":3772,"y":2610,"w":59,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":311,"y":337,"w":59,"h":64},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creamery_Num_Nilla_Shake":
+{
+	"frame": {"x":3285,"y":2201,"w":62,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":301,"y":506,"w":62,"h":62},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creamery_Num_Nilla_Whip":
+{
+	"frame": {"x":3093,"y":1938,"w":63,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":316,"y":238,"w":63,"h":64},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creamery_Num_Peach_Frosty":
+{
+	"frame": {"x":948,"y":1922,"w":67,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":690,"y":250,"w":67,"h":60},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creamery_Num_Razzy_Froyo":
+{
+	"frame": {"x":3315,"y":1628,"w":65,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":543,"y":423,"w":65,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creamery_Num_Sprinkles_Froyo":
+{
+	"frame": {"x":3384,"y":1627,"w":65,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":635,"y":518,"w":65,"h":57},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creme_Filled_Num_B_Day_Sprinkled":
+{
+	"frame": {"x":3315,"y":1688,"w":65,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":148,"y":374,"w":65,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creme_Filled_Num_Dollop_Cottonwich":
+{
+	"frame": {"x":3454,"y":2425,"w":60,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":621,"y":334,"w":60,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creme_Filled_Num_IC_Sandwich":
+{
+	"frame": {"x":3748,"y":2365,"w":61,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":533,"y":347,"w":61,"h":57},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creme_Filled_Num_Jan_Illa_Creme":
+{
+	"frame": {"x":3495,"y":2089,"w":62,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":326,"y":263,"w":62,"h":68},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creme_Filled_Num_Jan_Jam_Filled":
+{
+	"frame": {"x":3695,"y":2089,"w":62,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":322,"y":374,"w":62,"h":61},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creme_Filled_Num_Jazzy_Razzwich":
+{
+	"frame": {"x":1019,"y":1984,"w":66,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":609,"y":240,"w":66,"h":60},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creme_Filled_Num_Lemons_Pinkfill":
+{
+	"frame": {"x":3020,"y":2002,"w":63,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":438,"y":239,"w":63,"h":64},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creme_Filled_Num_Madelyn_Macaron":
+{
+	"frame": {"x":2683,"y":1938,"w":63,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":238,"y":261,"w":63,"h":69},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creme_Filled_Num_Mango_Macaron":
+{
+	"frame": {"x":2479,"y":1853,"w":64,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":233,"y":484,"w":64,"h":57},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creme_Filled_Num_Pink_Ade_Macaron":
+{
+	"frame": {"x":349,"y":2158,"w":65,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":145,"y":473,"w":65,"h":64},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creme_Filled_Num_SB_Snacks":
+{
+	"frame": {"x":2615,"y":1939,"w":63,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":153,"y":266,"w":63,"h":69},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creme_Filled_Num_Sugar_Creme":
+{
+	"frame": {"x":2970,"y":1744,"w":64,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":440,"y":347,"w":64,"h":62},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creme_Filled_Num_Terry_Berrywich":
+{
+	"frame": {"x":3160,"y":2005,"w":63,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":528,"y":343,"w":63,"h":62},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creme_Filled_Num_Tia_Tea_Time":
+{
+	"frame": {"x":2548,"y":1781,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":234,"y":370,"w":64,"h":64},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creme_Filled_Num_Trois_Treats":
+{
+	"frame": {"x":1159,"y":1984,"w":66,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":441,"y":341,"w":66,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Creme_Filled_Num_Wintergreen_Creme":
+{
+	"frame": {"x":142,"y":2158,"w":65,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":523,"y":236,"w":65,"h":65},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Crepes_Num_Blueberry_Becca_Crepe":
+{
+	"frame": {"x":2548,"y":1726,"w":65,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":559,"y":354,"w":65,"h":51},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Crepes_Num_Choco_Crepe":
+{
+	"frame": {"x":1715,"y":1499,"w":69,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":141,"y":423,"w":69,"h":49},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Crepes_Num_Choco_Swirl_Crepe":
+{
+	"frame": {"x":2479,"y":1731,"w":65,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":224,"y":308,"w":65,"h":51},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Crepes_Num_Creamy_Naners":
+{
+	"frame": {"x":3039,"y":1687,"w":65,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":521,"w":65,"h":52},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Crepes_Num_Mango_Madison":
+{
+	"frame": {"x":3487,"y":2228,"w":62,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":231,"y":410,"w":62,"h":54},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Crepes_Num_Nilla_Creme":
+{
+	"frame": {"x":1640,"y":1517,"w":69,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":309,"y":309,"w":69,"h":49},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Crepes_Num_Rosie_Raspberry":
+{
+	"frame": {"x":2617,"y":1690,"w":65,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":235,"y":516,"w":65,"h":52},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Crepes_Num_Stephanie_Sprinkles":
+{
+	"frame": {"x":2686,"y":1690,"w":65,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":311,"w":65,"h":51},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Crepes_Num_Sweet_Berry_Crepe":
+{
+	"frame": {"x":3878,"y":2418,"w":61,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":319,"y":406,"w":61,"h":53},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Crepes_Num_Zesty_Zoey":
+{
+	"frame": {"x":2820,"y":1935,"w":64,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":322,"y":515,"w":64,"h":50},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Croissants_Num_Berry_Bella":
+{
+	"frame": {"x":4014,"y":1508,"w":71,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":246,"y":353,"w":71,"h":61},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Croissants_Num_Birthday_Bernadette":
+{
+	"frame": {"x":4014,"y":1930,"w":71,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":162,"y":359,"w":71,"h":53},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Croissants_Num_Caramel_Croissant":
+{
+	"frame": {"x":1567,"y":1442,"w":70,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":166,"y":461,"w":70,"h":55},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Croissants_Num_Choco_Croissant":
+{
+	"frame": {"x":1641,"y":1459,"w":70,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":252,"y":459,"w":70,"h":54},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Croissants_Num_Coreen_Croissant":
+{
+	"frame": {"x":4014,"y":1872,"w":71,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":464,"w":71,"h":54},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Croissants_Num_Monsieur_Butter":
+{
+	"frame": {"x":807,"y":1841,"w":66,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":464,"y":249,"w":66,"h":61},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Croissants_Num_Penelope_Pumpkin":
+{
+	"frame": {"x":848,"y":933,"w":72,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":362,"w":72,"h":53},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cupcake_Num_Berry_Cheesecake":
+{
+	"frame": {"x":3177,"y":1566,"w":65,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":592,"y":281,"w":65,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cupcake_Num_Betty_B_Day":
+{
+	"frame": {"x":1763,"y":617,"w":57,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":322,"y":499,"w":57,"h":66},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cupcake_Num_Bonnie_Blueberry":
+{
+	"frame": {"x":1641,"y":1382,"w":55,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":399,"y":284,"w":55,"h":66},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cupcake_Num_Candie_Puffs":
+{
+	"frame": {"x":3227,"y":2005,"w":63,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":399,"y":395,"w":63,"h":62},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cupcake_Num_Caramelly_Shine":
+{
+	"frame": {"x":1701,"y":1321,"w":55,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":696,"y":475,"w":55,"h":69},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cupcake_Num_Cherry_Cheesecake":
+{
+	"frame": {"x":1090,"y":1922,"w":67,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":596,"y":384,"w":67,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cupcake_Num_Cherry_Choco":
+{
+	"frame": {"x":1760,"y":1352,"w":60,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":229,"y":397,"w":60,"h":71},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cupcake_Num_Choco_Berry":
+{
+	"frame": {"x":807,"y":1906,"w":66,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":403,"y":499,"w":66,"h":61},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cupcake_Num_Choco_Swirl":
+{
+	"frame": {"x":3288,"y":2071,"w":63,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":517,"y":499,"w":63,"h":57},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cupcake_Num_M_Mallow":
+{
+	"frame": {"x":1763,"y":546,"w":57,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":684,"y":276,"w":57,"h":67},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cupcake_Num_Mary_Mulberry":
+{
+	"frame": {"x":3380,"y":1813,"w":64,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":219,"y":295,"w":64,"h":61},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cupcake_Num_Mint_Berry":
+{
+	"frame": {"x":3361,"y":2009,"w":63,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":512,"y":393,"w":63,"h":59},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cupcake_Num_Minty_Swirl":
+{
+	"frame": {"x":3384,"y":1688,"w":65,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":312,"y":405,"w":65,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cupcake_Num_Nana_Swirl":
+{
+	"frame": {"x":2964,"y":1873,"w":64,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":505,"y":293,"w":64,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cupcake_Num_Red_Velvety":
+{
+	"frame": {"x":2901,"y":1745,"w":64,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":231,"y":506,"w":64,"h":62},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cupcake_Num_Strawberry_Cream":
+{
+	"frame": {"x":3829,"y":2030,"w":62,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":685,"y":380,"w":62,"h":60},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cupcake_Num_Sugar_Berry":
+{
+	"frame": {"x":3696,"y":1970,"w":63,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":605,"y":494,"w":63,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Cupcake_Num_Wendy_Wild_Berry":
+{
+	"frame": {"x":3763,"y":1970,"w":63,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":307,"y":296,"w":63,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Diner_Food_Num_BLT":
+{
+	"frame": {"x":2479,"y":1786,"w":64,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":527,"w":64,"h":63},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Diner_Food_Num_Cassie_Cola":
+{
+	"frame": {"x":3728,"y":2426,"w":60,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":265,"y":310,"w":60,"h":66},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Diner_Food_Num_CHZ":
+{
+	"frame": {"x":1439,"y":2042,"w":66,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":269,"y":414,"w":66,"h":57},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Diner_Food_Num_Frenchie_Curls":
+{
+	"frame": {"x":2684,"y":1818,"w":64,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":177,"y":322,"w":64,"h":57},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Diner_Food_Num_Frenchie_Fries":
+{
+	"frame": {"x":3160,"y":1938,"w":63,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":323,"w":63,"h":63},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Diner_Food_Num_Haley_Hot_Dog":
+{
+	"frame": {"x":3219,"y":2267,"w":62,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":257,"y":210,"w":62,"h":53},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Diner_Food_Num_Hammy_Burger":
+{
+	"frame": {"x":2763,"y":1566,"w":65,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":218,"w":65,"h":59},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Diner_Food_Num_Lemony_Cola":
+{
+	"frame": {"x":1763,"y":755,"w":57,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":425,"w":57,"h":63},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Diner_Food_Num_Melty_Burger":
+{
+	"frame": {"x":3888,"y":2297,"w":61,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":169,"y":213,"w":61,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Diner_Food_Num_PBNJ":
+{
+	"frame": {"x":1089,"y":2046,"w":66,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":182,"y":421,"w":66,"h":57},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Donut_Num_Cherry_Ann":
+{
+	"frame": {"x":3287,"y":2132,"w":62,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":465,"y":186,"w":62,"h":65},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Donut_Num_Choco_Sprinkles":
+{
+	"frame": {"x":4009,"y":2365,"w":61,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":418,"y":595,"w":61,"h":53},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Donut_Num_Cory_Custard":
+{
+	"frame": {"x":3417,"y":2287,"w":61,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":379,"y":179,"w":61,"h":63},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Donut_Num_Lemony_Glaze":
+{
+	"frame": {"x":3285,"y":2267,"w":62,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":470,"y":497,"w":62,"h":53},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Donut_Num_Mac_Minty":
+{
+	"frame": {"x":3105,"y":1820,"w":64,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":373,"y":290,"w":64,"h":57},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Donut_Num_Maple_Sugars":
+{
+	"frame": {"x":2615,"y":1880,"w":64,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":546,"y":295,"w":64,"h":55},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Donut_Num_Orange_Glaze":
+{
+	"frame": {"x":2832,"y":1629,"w":65,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":368,"y":389,"w":65,"h":55},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Donut_Num_Powdered_Sugars":
+{
+	"frame": {"x":3495,"y":1970,"w":63,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":542,"y":392,"w":63,"h":57},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Donut_Num_Razzi_Berry":
+{
+	"frame": {"x":3562,"y":1970,"w":63,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":380,"y":492,"w":63,"h":57},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Donut_Num_Sophia_Strawberry":
+{
+	"frame": {"x":3153,"y":2133,"w":62,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":552,"y":185,"w":62,"h":64},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Donut_Num_Sprinkles_Donut":
+{
+	"frame": {"x":3827,"y":2156,"w":62,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":505,"y":598,"w":62,"h":52},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Donut_Num_Valerie_Vanilla":
+{
+	"frame": {"x":3646,"y":2489,"w":60,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":457,"y":395,"w":60,"h":52},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Donut_Num_Wanda_Wildberry":
+{
+	"frame": {"x":948,"y":1986,"w":66,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":459,"y":288,"w":66,"h":60},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fair_Food_Num_Annie_Apple":
+{
+	"frame": {"x":2878,"y":2190,"w":60,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":179,"y":312,"w":60,"h":63},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fair_Food_Num_Berry_Puffs":
+{
+	"frame": {"x":3246,"y":1566,"w":65,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":185,"y":418,"w":65,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fair_Food_Num_Cara_Mellie":
+{
+	"frame": {"x":3899,"y":2613,"w":59,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":318,"w":59,"h":63},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fair_Food_Num_Momma_Corn":
+{
+	"frame": {"x":1161,"y":1922,"w":67,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":147,"y":527,"w":67,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fair_Food_Num_Nana_Puffs":
+{
+	"frame": {"x":3108,"y":1628,"w":65,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":235,"y":520,"w":65,"h":57},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fair_Food_Num_Papa_Corn":
+{
+	"frame": {"x":661,"y":1832,"w":69,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":269,"y":412,"w":69,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fair_Food_Num_Pinky_Puffs":
+{
+	"frame": {"x":3153,"y":2201,"w":62,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":265,"y":305,"w":62,"h":63},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fair_Food_Num_Sugar_Puffs":
+{
+	"frame": {"x":211,"y":2158,"w":65,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":419,"w":65,"h":65},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fancy_Cake_Num_Angel_Cake":
+{
+	"frame": {"x":3773,"y":2541,"w":59,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":272,"y":347,"w":59,"h":65},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fancy_Cake_Num_Angel_Foodie":
+{
+	"frame": {"x":2763,"y":1629,"w":65,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":774,"y":480,"w":65,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fancy_Cake_Num_Banana_Crumbles":
+{
+	"frame": {"x":3177,"y":1628,"w":65,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":687,"y":474,"w":65,"h":57},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fancy_Cake_Num_Bubble_Duchess":
+{
+	"frame": {"x":1567,"y":1876,"w":67,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":227,"y":461,"w":67,"h":66},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fancy_Cake_Num_Cottony_Cakes":
+{
+	"frame": {"x":2970,"y":1629,"w":65,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":354,"y":348,"w":65,"h":54},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fancy_Cake_Num_Goldie_Cake":
+{
+	"frame": {"x":3709,"y":2567,"w":59,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":322,"y":569,"w":59,"h":65},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fancy_Cake_Num_Lacy_Cake":
+{
+	"frame": {"x":3582,"y":2547,"w":59,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":491,"y":460,"w":59,"h":66},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fancy_Cake_Num_Lady_Sugarette":
+{
+	"frame": {"x":807,"y":1705,"w":66,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":313,"y":459,"w":66,"h":65},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fancy_Cake_Num_Mable_Marble":
+{
+	"frame": {"x":734,"y":1878,"w":69,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":678,"y":576,"w":69,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fancy_Cake_Num_Mint_T_Cake":
+{
+	"frame": {"x":418,"y":2158,"w":65,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":493,"y":565,"w":65,"h":63},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fancy_Cake_Num_Peachy_Kim":
+{
+	"frame": {"x":3792,"y":2471,"w":60,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":410,"y":566,"w":60,"h":66},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fancy_Cake_Num_Pinky_Bundt":
+{
+	"frame": {"x":3246,"y":1628,"w":65,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":601,"y":473,"w":65,"h":57},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fancy_Cake_Num_Princess_Buttercream":
+{
+	"frame": {"x":1711,"y":1920,"w":67,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":231,"y":564,"w":67,"h":65},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fancy_Cake_Num_Velvety_Cake":
+{
+	"frame": {"x":661,"y":1706,"w":69,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":593,"y":569,"w":69,"h":60},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fancy_Cake_Num_Violet_Contessa":
+{
+	"frame": {"x":3344,"y":2324,"w":60,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":405,"y":453,"w":60,"h":67},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fiesta_Num_Cheesy_Burrito":
+{
+	"frame": {"x":3619,"y":2219,"w":61,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":533,"y":376,"w":61,"h":64},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fiesta_Num_Cinna_Churro":
+{
+	"frame": {"x":2547,"y":1911,"w":64,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":447,"y":380,"w":64,"h":54},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fiesta_Num_Flower_Tortilla":
+{
+	"frame": {"x":3829,"y":2094,"w":62,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":362,"y":373,"w":62,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Freezie_Pop_Num_Apple_Pop":
+{
+	"frame": {"x":2942,"y":2190,"w":60,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":519,"y":358,"w":60,"h":63},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Freezie_Pop_Num_Cherry_Freezie":
+{
+	"frame": {"x":3107,"y":1756,"w":64,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":515,"y":247,"w":64,"h":60},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Freezie_Pop_Num_Creamy_Pop":
+{
+	"frame": {"x":1018,"y":2048,"w":66,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":374,"y":245,"w":66,"h":57},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Freezie_Pop_Num_Grape_Freezie":
+{
+	"frame": {"x":3215,"y":2324,"w":61,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":604,"y":362,"w":61,"h":50},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Freezie_Pop_Num_Grape_Soda_Pop":
+{
+	"frame": {"x":2614,"y":2012,"w":63,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":211,"y":548,"w":63,"h":65},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Freezie_Pop_Num_Kiwi_Freezie":
+{
+	"frame": {"x":3006,"y":2203,"w":60,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":385,"y":447,"w":60,"h":63},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Freezie_Pop_Num_Lemony_Pop":
+{
+	"frame": {"x":3039,"y":1629,"w":65,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":207,"y":461,"w":65,"h":54},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Freezie_Pop_Num_Mellie_Pop":
+{
+	"frame": {"x":3684,"y":2286,"w":61,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":204,"y":243,"w":61,"h":63},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Freezie_Pop_Num_Nana_Pop":
+{
+	"frame": {"x":877,"y":1922,"w":67,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":294,"y":447,"w":67,"h":62},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Freezie_Pop_Num_OJ_Pop":
+{
+	"frame": {"x":2901,"y":1687,"w":65,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":378,"y":349,"w":65,"h":54},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Freezie_Pop_Num_Orange_Freezie":
+{
+	"frame": {"x":2621,"y":1630,"w":65,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":600,"y":247,"w":65,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Freezie_Pop_Num_Pineapple_Pop":
+{
+	"frame": {"x":1763,"y":955,"w":57,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":693,"y":242,"w":57,"h":60},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Freezie_Pop_Num_Strawberry_Pop":
+{
+	"frame": {"x":3553,"y":2272,"w":61,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":237,"w":61,"h":64},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Freezie_Pop_Num_Tropi_Cali_Pop":
+{
+	"frame": {"x":1763,"y":687,"w":57,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":297,"y":340,"w":57,"h":64},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Freezie_Pop_Num_Wild_Berry_Freezie":
+{
+	"frame": {"x":3408,"y":2354,"w":60,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":207,"y":340,"w":60,"h":67},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fruit_Num_Becky_Bananas":
+{
+	"frame": {"x":2832,"y":1566,"w":65,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":256,"y":427,"w":65,"h":59},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fruit_Num_Coco_Cali":
+{
+	"frame": {"x":4027,"y":2122,"w":62,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":340,"y":433,"w":62,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fruit_Num_Georgia_Peach":
+{
+	"frame": {"x":3390,"y":2490,"w":60,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":404,"y":221,"w":60,"h":55},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fruit_Num_Melony_Seeds":
+{
+	"frame": {"x":1763,"y":889,"w":57,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":409,"y":317,"w":57,"h":62},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fruit_Num_Oscar_Orange":
+{
+	"frame": {"x":4025,"y":2613,"w":59,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":236,"y":223,"w":59,"h":60},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fruit_Num_Piney_Apple":
+{
+	"frame": {"x":1701,"y":1071,"w":58,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":324,"y":321,"w":58,"h":62},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fruit_Num_Sadie_Seeds":
+{
+	"frame": {"x":3108,"y":1689,"w":64,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":295,"y":530,"w":64,"h":63},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fruit_Num_Stew_Tomato":
+{
+	"frame": {"x":3380,"y":1878,"w":64,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":382,"y":527,"w":64,"h":60},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fruit_Num_Victor_Vines":
+{
+	"frame": {"x":1763,"y":1291,"w":56,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":240,"y":325,"w":56,"h":57},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Fruit_Num_Zane_Zest":
+{
+	"frame": {"x":3962,"y":2678,"w":59,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":321,"y":222,"w":59,"h":59},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Gummy_Bear_Num_Angel_Bubble":
+{
+	"frame": {"x":2616,"y":1818,"w":64,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":533,"y":442,"w":64,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Gummy_Bear_Num_B_Razz_Bear":
+{
+	"frame": {"x":807,"y":1774,"w":66,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":452,"y":345,"w":66,"h":63},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Gummy_Bear_Num_BB_Bear":
+{
+	"frame": {"x":661,"y":1894,"w":69,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":537,"y":355,"w":69,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Gummy_Bear_Num_Cake_Bear":
+{
+	"frame": {"x":734,"y":1559,"w":69,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":398,"y":455,"w":69,"h":61},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Gummy_Bear_Num_Cherry_Tart":
+{
+	"frame": {"x":1711,"y":1679,"w":68,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":365,"y":247,"w":68,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Gummy_Bear_Num_Chewy_Choco":
+{
+	"frame": {"x":2580,"y":1285,"w":68,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":622,"y":434,"w":68,"h":65},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Gummy_Bear_Num_OJ_Bear":
+{
+	"frame": {"x":2580,"y":1422,"w":68,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":452,"y":246,"w":68,"h":62},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Gummy_Bear_Num_Pina_Bear":
+{
+	"frame": {"x":1567,"y":1501,"w":69,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":538,"y":247,"w":69,"h":63},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Gummy_Bear_Num_Princess_CC":
+{
+	"frame": {"x":848,"y":613,"w":72,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":552,"w":72,"h":66},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Gummy_Bear_Num_Queen_Razz_Bear":
+{
+	"frame": {"x":848,"y":990,"w":71,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":483,"y":447,"w":71,"h":66},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Gummy_Bear_Num_Sour_Apple_Bear":
+{
+	"frame": {"x":661,"y":1956,"w":69,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":363,"y":347,"w":69,"h":57},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Gummy_Num_Bubble_Gummy":
+{
+	"frame": {"x":3017,"y":2135,"w":62,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":195,"y":514,"w":62,"h":64},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Gummy_Num_CC_Sugar_Gummy":
+{
+	"frame": {"x":3830,"y":1970,"w":63,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":261,"y":202,"w":63,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Gummy_Num_Cherie_Gummy":
+{
+	"frame": {"x":2479,"y":1971,"w":63,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":180,"y":306,"w":63,"h":66},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Gummy_Num_Glitter_Berry":
+{
+	"frame": {"x":3964,"y":1987,"w":63,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":186,"y":416,"w":63,"h":55},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Gummy_Num_Juicy_Gummy":
+{
+	"frame": {"x":3421,"y":2161,"w":62,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":267,"y":301,"w":62,"h":64},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Gummy_Num_Madelyn_Mango":
+{
+	"frame": {"x":3813,"y":2413,"w":61,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":101,"y":420,"w":61,"h":54},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Gummy_Num_Orange_Sugar_Gummy":
+{
+	"frame": {"x":3696,"y":2030,"w":63,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":318,"w":63,"h":55},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Gummy_Num_Pina_Gummy":
+{
+	"frame": {"x":3419,"y":2229,"w":62,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":219,"w":62,"h":54},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Gummy_Num_Raz_Sugar":
+{
+	"frame": {"x":3454,"y":2547,"w":60,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":277,"y":414,"w":60,"h":53},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Gummy_Num_Sparkle_Berry_Gummy":
+{
+	"frame": {"x":3553,"y":2213,"w":62,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":173,"y":212,"w":62,"h":55},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Gummy_Num_Sparkle_Blueberry":
+{
+	"frame": {"x":3032,"y":1873,"w":64,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":107,"y":524,"w":64,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Hard_Candy_Num_Blu_Razzy":
+{
+	"frame": {"x":3893,"y":2156,"w":61,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":783,"y":538,"w":61,"h":67},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Hard_Candy_Num_Cher_Candied":
+{
+	"frame": {"x":3920,"y":2477,"w":60,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":646,"y":319,"w":60,"h":65},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Hard_Candy_Num_Cotton_Candied":
+{
+	"frame": {"x":4014,"y":1813,"w":71,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":814,"y":332,"w":71,"h":55},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Hard_Candy_Num_Gaby_Goody":
+{
+	"frame": {"x":3943,"y":2421,"w":61,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":362,"y":559,"w":61,"h":52},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Hard_Candy_Num_Grape_Goody":
+{
+	"frame": {"x":3891,"y":2227,"w":61,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":694,"y":532,"w":61,"h":66},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Hard_Candy_Num_Orange_Sweets":
+{
+	"frame": {"x":3173,"y":1820,"w":64,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":658,"y":423,"w":64,"h":57},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Hard_Candy_Num_Polly_Pucker_Up":
+{
+	"frame": {"x":848,"y":874,"w":72,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":742,"y":430,"w":72,"h":55},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Hard_Candy_Num_W_Melon_Delight":
+{
+	"frame": {"x":2890,"y":1874,"w":64,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":730,"y":324,"w":64,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Ice_Cream_Num_Bailey_Bubblegum":
+{
+	"frame": {"x":3629,"y":2087,"w":62,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":396,"y":235,"w":62,"h":68},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Ice_Cream_Num_Berry_Scoop":
+{
+	"frame": {"x":2552,"y":1602,"w":65,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":308,"y":245,"w":65,"h":60},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Ice_Cream_Num_Berry_Twirl":
+{
+	"frame": {"x":3710,"y":2496,"w":59,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":513,"y":343,"w":59,"h":67},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Ice_Cream_Num_Cherry_Chip":
+{
+	"frame": {"x":3176,"y":1755,"w":64,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":222,"y":241,"w":64,"h":61},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Ice_Cream_Num_Cherry_Scoop":
+{
+	"frame": {"x":2547,"y":1849,"w":64,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":684,"y":354,"w":64,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Ice_Cream_Num_Choco_Cream":
+{
+	"frame": {"x":2828,"y":1746,"w":64,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":394,"y":347,"w":64,"h":62},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Ice_Cream_Num_Choco_Nilla":
+{
+	"frame": {"x":3294,"y":2006,"w":63,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":220,"y":446,"w":63,"h":61},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Ice_Cream_Num_Connie_Confetti":
+{
+	"frame": {"x":487,"y":2158,"w":65,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":306,"y":443,"w":65,"h":62},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Ice_Cream_Num_Mint_Twirl":
+{
+	"frame": {"x":3472,"y":2354,"w":60,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":600,"y":345,"w":60,"h":67},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Ice_Cream_Num_Minty_Chip":
+{
+	"frame": {"x":3087,"y":2006,"w":63,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":221,"y":344,"w":63,"h":61},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Ice_Cream_Num_Nana_Splits":
+{
+	"frame": {"x":2479,"y":1914,"w":64,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":598,"y":252,"w":64,"h":53},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Ice_Cream_Num_Neo_Trio":
+{
+	"frame": {"x":3087,"y":2071,"w":63,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":393,"y":451,"w":63,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Ice_Cream_Num_Orange_Cream":
+{
+	"frame": {"x":3227,"y":1938,"w":63,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":215,"y":544,"w":63,"h":63},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Ice_Cream_Num_Parker_Peach":
+{
+	"frame": {"x":3020,"y":2070,"w":63,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":513,"y":240,"w":63,"h":61},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Ice_Cream_Num_Pepper_Minty_Shine":
+{
+	"frame": {"x":3645,"y":2616,"w":59,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":513,"y":438,"w":59,"h":65},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Ice_Cream_Num_Pumpkin_Spice":
+{
+	"frame": {"x":2747,"y":2081,"w":63,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":596,"y":446,"w":63,"h":60},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Ice_Cream_Num_Sara_Strawberry":
+{
+	"frame": {"x":3149,"y":2268,"w":62,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":686,"y":250,"w":62,"h":53},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Ice_Cream_Num_Van_Minty":
+{
+	"frame": {"x":2896,"y":1811,"w":64,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":307,"y":349,"w":64,"h":59},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Jelly_Bean_Num_Blueberry_Jelly":
+{
+	"frame": {"x":3895,"y":2094,"w":62,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":537,"y":322,"w":62,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Jelly_Bean_Num_Bubbly_Jelly":
+{
+	"frame": {"x":2548,"y":1666,"w":65,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":445,"y":425,"w":65,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Jelly_Bean_Num_Confetti_Jelly":
+{
+	"frame": {"x":1445,"y":1983,"w":67,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":529,"y":424,"w":67,"h":55},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Jelly_Bean_Num_Cream_Berry_Jelly":
+{
+	"frame": {"x":2883,"y":2125,"w":63,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":363,"y":311,"w":63,"h":61},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Jelly_Bean_Num_Grape_Jelly":
+{
+	"frame": {"x":3351,"y":2266,"w":62,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":361,"y":423,"w":62,"h":54},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Jelly_Bean_Num_Kiwi_Jelly":
+{
+	"frame": {"x":1639,"y":1816,"w":68,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":452,"y":225,"w":68,"h":55},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Jelly_Bean_Num_Mallow_Jelly":
+{
+	"frame": {"x":3961,"y":2109,"w":62,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":396,"y":524,"w":62,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Jelly_Bean_Num_Orange_Jelly":
+{
+	"frame": {"x":2754,"y":1747,"w":64,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":540,"y":223,"w":64,"h":62},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Jelly_Bean_Num_Pina_Jelly":
+{
+	"frame": {"x":802,"y":2099,"w":66,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":367,"y":222,"w":66,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Jelly_Bean_Num_Raspberry_Jelly":
+{
+	"frame": {"x":3898,"y":2680,"w":59,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":453,"y":318,"w":59,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Jelly_Rolls_Num_Berry_Cake_Roll":
+{
+	"frame": {"x":3581,"y":2617,"w":59,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":375,"y":430,"w":59,"h":65},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Jelly_Rolls_Num_Berry_Jelly_Roll":
+{
+	"frame": {"x":3100,"y":1881,"w":64,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":358,"y":228,"w":64,"h":53},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Jelly_Rolls_Num_Cookie_Cake_Roll":
+{
+	"frame": {"x":3836,"y":2545,"w":59,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":461,"y":431,"w":59,"h":65},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Jelly_Rolls_Num_Key_Lime_Roll":
+{
+	"frame": {"x":848,"y":560,"w":73,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":548,"y":253,"w":73,"h":49},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Jelly_Rolls_Num_Le_Monade_Jelly_Roll":
+{
+	"frame": {"x":864,"y":126,"w":78,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":524,"y":335,"w":78,"h":54},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Jelly_Rolls_Num_Orangie_Jelly_Roll":
+{
+	"frame": {"x":3168,"y":1881,"w":64,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":444,"y":230,"w":64,"h":53},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Jelly_Rolls_Num_Princess_B_Day_Jelly_Roll":
+{
+	"frame": {"x":2950,"y":2125,"w":63,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":639,"y":237,"w":63,"h":61},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Jelly_Rolls_Num_Princess_BG_Jelly_Roll":
+{
+	"frame": {"x":3763,"y":2030,"w":62,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":441,"y":535,"w":62,"h":62},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Jelly_Rolls_Num_Princess_CC_Jelly_Roll":
+{
+	"frame": {"x":3956,"y":2241,"w":61,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":528,"y":539,"w":61,"h":59},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Jelly_Rolls_Num_Razzy_Spiral":
+{
+	"frame": {"x":3562,"y":2031,"w":63,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":532,"y":234,"w":63,"h":52},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Jelly_Rolls_Num_Shannon_Smores":
+{
+	"frame": {"x":2822,"y":1875,"w":64,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":356,"y":329,"w":64,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Jelly_Rolls_Num_Straw_Kitty":
+{
+	"frame": {"x":2752,"y":1876,"w":64,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":443,"y":337,"w":64,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Lights_Fancy_Jellies_Num_Brenda_Banana":
+{
+	"frame": {"x":3039,"y":1743,"w":64,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":623,"y":235,"w":64,"h":63},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Lights_Fancy_Jellies_Num_Bubble_Gum_Blanche":
+{
+	"frame": {"x":3536,"y":2406,"w":60,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":654,"y":437,"w":60,"h":67},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Lights_Fancy_Jellies_Num_Fancy_CC":
+{
+	"frame": {"x":3826,"y":2212,"w":61,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":799,"y":233,"w":61,"h":67},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Lights_Fancy_Jellies_Num_Key_Lime_Jelly":
+{
+	"frame": {"x":280,"y":2158,"w":65,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":715,"y":335,"w":65,"h":65},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Lights_Fancy_Jellies_Num_Lady_Lemonade":
+{
+	"frame": {"x":3176,"y":1689,"w":64,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":710,"y":234,"w":64,"h":62},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Lights_Fancy_Jellies_Num_Mindy_Mango":
+{
+	"frame": {"x":3600,"y":2418,"w":60,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":632,"y":342,"w":60,"h":67},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Lights_Fancy_Jellies_Num_Paisley_Peach":
+{
+	"frame": {"x":807,"y":1565,"w":66,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":802,"y":329,"w":66,"h":66},
+	"sourceSize": {"w":960,"h":718}
+},
+"collected/Lights_Fancy_Jellies_Num_Royal_Razzy":
+{
+	"frame": {"x":3664,"y":2418,"w":60,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":742,"y":439,"w":60,"h":67},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Lights_Gum_Drops_Num_Blue_Razzy_Gum_Drop":
+{
+	"frame": {"x":1639,"y":1756,"w":68,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":474,"y":416,"w":68,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Lights_Gum_Drops_Num_Gracie_Grape":
+{
+	"frame": {"x":1711,"y":1801,"w":68,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":413,"y":523,"w":68,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Lights_Gum_Drops_Num_Lemon_Pop_Drop":
+{
+	"frame": {"x":3244,"y":1689,"w":64,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":565,"y":450,"w":64,"h":62},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Lights_Gum_Drops_Num_Mango_Melody":
+{
+	"frame": {"x":3707,"y":2704,"w":59,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":503,"y":519,"w":59,"h":61},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Lights_Gum_Drops_Num_Nana_Gum_Drop":
+{
+	"frame": {"x":1299,"y":2046,"w":66,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":365,"y":307,"w":66,"h":54},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Lights_Gum_Drops_Num_OJ_Gum_Drop":
+{
+	"frame": {"x":3154,"y":2071,"w":63,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":391,"y":415,"w":63,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Lights_Gum_Drops_Num_Razzy_Rita":
+{
+	"frame": {"x":1369,"y":2046,"w":66,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":450,"y":318,"w":66,"h":53},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Lights_Gum_Drops_Num_S_Berry_Drop":
+{
+	"frame": {"x":3326,"y":2395,"w":60,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":541,"y":313,"w":60,"h":61},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Lights_Jelly_Beans_Num_B_Berry_Jelly":
+{
+	"frame": {"x":1567,"y":1382,"w":70,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":366,"y":210,"w":70,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Lights_Jelly_Beans_Num_B_Day_Jelly":
+{
+	"frame": {"x":1567,"y":1568,"w":68,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":182,"y":297,"w":68,"h":62},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Lights_Jelly_Beans_Num_Cotton_Candy_Jelly":
+{
+	"frame": {"x":556,"y":2158,"w":65,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":195,"y":190,"w":65,"h":62},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Lights_Jelly_Beans_Num_Kendra_Kiwi":
+{
+	"frame": {"x":848,"y":683,"w":72,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":564,"y":554,"w":72,"h":64},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Lights_Jelly_Beans_Num_Melanie_Melon":
+{
+	"frame": {"x":848,"y":751,"w":72,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":277,"y":202,"w":72,"h":58},
+	"sourceSize": {"w":960,"h":719}
+},
+"collected/Lights_Jelly_Beans_Num_Melissa_Mango":
+{
+	"frame": {"x":2901,"y":1566,"w":65,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":304,"w":65,"h":59},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Lights_Jelly_Beans_Num_Piney_Patty":
+{
+	"frame": {"x":2970,"y":1566,"w":65,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":356,"y":315,"w":65,"h":59},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Lights_Jelly_Beans_Num_Reagan_Raspberry":
+{
+	"frame": {"x":864,"y":242,"w":73,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":478,"y":551,"w":73,"h":65},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Lights_Jelly_Cups_Num_Apple_Tart_Jelly":
+{
+	"frame": {"x":947,"y":2050,"w":66,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":375,"y":552,"w":66,"h":57},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Lights_Jelly_Cups_Num_Bubbly_Bridgette":
+{
+	"frame": {"x":2832,"y":1688,"w":65,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":449,"w":65,"h":54},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Lights_Jelly_Cups_Num_Cindy_Citrus":
+{
+	"frame": {"x":1232,"y":1922,"w":67,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":657,"y":553,"w":67,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Lights_Jelly_Cups_Num_Claire_Cherry":
+{
+	"frame": {"x":1303,"y":1922,"w":67,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":202,"y":446,"w":67,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Lights_Jelly_Cups_Num_Frosted_Pink_Ade":
+{
+	"frame": {"x":875,"y":2051,"w":66,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":288,"y":550,"w":66,"h":57},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Lights_Jelly_Cups_Num_Octavia_Orange":
+{
+	"frame": {"x":3241,"y":1820,"w":64,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":203,"y":545,"w":64,"h":57},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Lights_Jelly_Cups_Num_Sprinkle_Razz":
+{
+	"frame": {"x":1374,"y":1922,"w":67,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":375,"y":452,"w":67,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Lights_Jelly_Cups_Num_Wild_Berry_Jelly":
+{
+	"frame": {"x":1229,"y":1984,"w":66,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":745,"y":544,"w":66,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marble_Ice_Cream_Num_CC_Marble":
+{
+	"frame": {"x":1701,"y":929,"w":58,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":343,"w":58,"h":71},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marble_Ice_Cream_Num_Mango_Marble":
+{
+	"frame": {"x":1713,"y":1552,"w":68,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":267,"y":336,"w":68,"h":61},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marble_Ice_Cream_Num_Melissa_Marble":
+{
+	"frame": {"x":807,"y":1635,"w":66,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":238,"w":66,"h":66},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marble_Ice_Cream_Num_Minty_Marble":
+{
+	"frame": {"x":864,"y":311,"w":73,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":134,"y":451,"w":73,"h":62},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marble_Ice_Cream_Num_Oliver_Orange":
+{
+	"frame": {"x":807,"y":1494,"w":66,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":177,"y":237,"w":66,"h":67},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marble_Ice_Cream_Num_Smores_Sundae":
+{
+	"frame": {"x":732,"y":2066,"w":66,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":733,"y":339,"w":66,"h":59},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marble_Ice_Cream_Num_Strawberry_Sundae":
+{
+	"frame": {"x":1639,"y":1570,"w":68,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":222,"y":445,"w":68,"h":59},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marble_Ice_Cream_Num_Teddy_Twirl":
+{
+	"frame": {"x":848,"y":1060,"w":71,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":178,"y":345,"w":71,"h":64},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marble_Ice_Cream_Num_Trio_Scoop":
+{
+	"frame": {"x":1638,"y":1932,"w":67,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":479,"y":456,"w":67,"h":65},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marble_Ice_Cream_Num_Wild_Berry_Whirl":
+{
+	"frame": {"x":1763,"y":1081,"w":56,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":268,"y":229,"w":56,"h":68},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marshmallow_Num_B_Berry_Mallow":
+{
+	"frame": {"x":3683,"y":2353,"w":61,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":808,"y":214,"w":61,"h":61},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marshmallow_Num_Bella_Bubblegum":
+{
+	"frame": {"x":1701,"y":1263,"w":58,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":811,"y":321,"w":58,"h":54},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marshmallow_Num_CC_Candy":
+{
+	"frame": {"x":3454,"y":2487,"w":60,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":643,"y":433,"w":60,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marshmallow_Num_Cocoa_Mallow":
+{
+	"frame": {"x":4018,"y":2307,"w":61,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":726,"y":430,"w":61,"h":54},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marshmallow_Num_Maya_Mallow":
+{
+	"frame": {"x":3962,"y":2613,"w":59,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":640,"y":220,"w":59,"h":61},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marshmallow_Num_Minty_Mallow":
+{
+	"frame": {"x":4025,"y":2677,"w":59,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":725,"y":218,"w":59,"h":60},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marshmallow_Num_Rachel_Raspberry":
+{
+	"frame": {"x":1763,"y":1019,"w":57,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":732,"y":528,"w":57,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marshmallow_Num_Sara_Smores":
+{
+	"frame": {"x":3953,"y":2304,"w":61,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":724,"y":325,"w":61,"h":55},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marshmallow_Num_Softy_Mallow":
+{
+	"frame": {"x":3,"y":2158,"w":66,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":809,"y":428,"w":66,"h":53},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marshmallow_Num_Strawberry_Mallow":
+{
+	"frame": {"x":1516,"y":2006,"w":67,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":641,"y":533,"w":67,"h":53},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marshmallow_Num_Sugar_Nana":
+{
+	"frame": {"x":2970,"y":1687,"w":65,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":811,"y":531,"w":65,"h":53},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marshmallow_Num_Toasty_Mallow":
+{
+	"frame": {"x":3294,"y":1939,"w":63,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":640,"y":320,"w":63,"h":63},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marshmallow_Squares_Num_Brandy_Berry":
+{
+	"frame": {"x":1567,"y":1816,"w":68,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":593,"y":267,"w":68,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marshmallow_Squares_Num_Bubble_Crunch":
+{
+	"frame": {"x":2822,"y":1812,"w":64,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":768,"y":265,"w":64,"h":59},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marshmallow_Squares_Num_CC_Crunch":
+{
+	"frame": {"x":2617,"y":1746,"w":64,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":591,"y":471,"w":64,"h":68},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marshmallow_Squares_Num_CC_Treat":
+{
+	"frame": {"x":1299,"y":1984,"w":66,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":504,"y":369,"w":66,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marshmallow_Squares_Num_Crunchy_Coco":
+{
+	"frame": {"x":2479,"y":1486,"w":69,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":506,"y":264,"w":69,"h":57},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marshmallow_Squares_Num_Frosted_Caramel":
+{
+	"frame": {"x":3422,"y":2091,"w":62,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":766,"y":365,"w":62,"h":66},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marshmallow_Squares_Num_Krispy_Kaitlyn":
+{
+	"frame": {"x":2686,"y":1745,"w":64,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":677,"y":473,"w":64,"h":69},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marshmallow_Squares_Num_Nana_Sprinkle_Treat":
+{
+	"frame": {"x":2552,"y":1488,"w":69,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":591,"y":368,"w":69,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marshmallow_Squares_Num_Nancy_Neapolitan":
+{
+	"frame": {"x":2479,"y":1607,"w":65,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":681,"y":262,"w":65,"h":60},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marshmallow_Squares_Num_Razzy_Dip_Treat":
+{
+	"frame": {"x":3856,"y":2475,"w":60,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":649,"y":339,"w":60,"h":66},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marshmallow_Squares_Num_Sasha_Smores":
+{
+	"frame": {"x":1711,"y":1861,"w":68,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":421,"y":259,"w":68,"h":55},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marshmallow_Squares_Num_Sprinkle_Berry_Treat":
+{
+	"frame": {"x":3087,"y":2133,"w":62,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":680,"y":362,"w":62,"h":65},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marshmallow_Squares_Num_Sprinkle_Crunch":
+{
+	"frame": {"x":2479,"y":1547,"w":69,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":417,"y":364,"w":69,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Marshmallow_Squares_Num_Sugar_Mint":
+{
+	"frame": {"x":1369,"y":1984,"w":66,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":502,"y":475,"w":66,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Pasta_Num_Hearty_Spaghetti":
+{
+	"frame": {"x":2580,"y":1354,"w":68,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":726,"y":502,"w":68,"h":64},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Pasta_Num_Lizzie_Lasagna":
+{
+	"frame": {"x":2547,"y":1969,"w":63,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":632,"y":493,"w":63,"h":67},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Pasta_Num_Mac_A_Roni":
+{
+	"frame": {"x":3244,"y":1755,"w":64,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":445,"y":448,"w":64,"h":61},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Pizza_Num_Margo_Rita":
+{
+	"frame": {"x":2759,"y":1689,"w":65,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":806,"y":440,"w":65,"h":54},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Pizza_Num_Mozza_Rella":
+{
+	"frame": {"x":1700,"y":1394,"w":54,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":642,"y":429,"w":54,"h":61},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Pizza_Num_Peppy_Roni":
+{
+	"frame": {"x":661,"y":2143,"w":66,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":641,"y":329,"w":66,"h":55},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Pizza_Num_Pina_Aloha":
+{
+	"frame": {"x":3582,"y":2489,"w":60,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":728,"y":333,"w":60,"h":54},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Pizza_Num_Sammy_Smores":
+{
+	"frame": {"x":1701,"y":1202,"w":58,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":726,"y":430,"w":58,"h":57},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Pizza_Num_Veggie_Terry":
+{
+	"frame": {"x":3236,"y":1881,"w":64,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":811,"y":337,"w":64,"h":53},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Rock_Candy_Num_Bridget_Banana":
+{
+	"frame": {"x":3708,"y":2636,"w":59,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":216,"y":373,"w":59,"h":64},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Rock_Candy_Num_Cherie_Candy":
+{
+	"frame": {"x":3835,"y":2614,"w":59,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":104,"y":276,"w":59,"h":63},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Rock_Candy_Num_Crystal_Liza":
+{
+	"frame": {"x":3070,"y":2269,"w":60,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":450,"y":549,"w":60,"h":63},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Rock_Candy_Num_Grape_Rocks":
+{
+	"frame": {"x":3771,"y":2678,"w":59,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":278,"y":273,"w":59,"h":62},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Rock_Candy_Num_Poppy_Pop":
+{
+	"frame": {"x":3644,"y":2685,"w":59,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":192,"y":274,"w":59,"h":64},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Rock_Candy_Num_Razz_Rock":
+{
+	"frame": {"x":1701,"y":1004,"w":58,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":132,"y":379,"w":58,"h":63},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Slushie_Num_CC_Slurp":
+{
+	"frame": {"x":2953,"y":2057,"w":63,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":797,"y":274,"w":63,"h":64},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Slushie_Num_Cherry_Slushy":
+{
+	"frame": {"x":2546,"y":2040,"w":63,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":622,"y":270,"w":63,"h":65},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Slushie_Num_Grapey_Juicy":
+{
+	"frame": {"x":2682,"y":2011,"w":63,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":801,"y":375,"w":63,"h":66},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Slushie_Num_Lemonade_Frost":
+{
+	"frame": {"x":3026,"y":1933,"w":63,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":627,"y":537,"w":63,"h":65},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Slushie_Num_Melon_Freeze":
+{
+	"frame": {"x":3083,"y":2202,"w":62,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":711,"y":272,"w":62,"h":63},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Slushie_Num_OJ_Juicy":
+{
+	"frame": {"x":2819,"y":1989,"w":63,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":627,"y":380,"w":63,"h":65},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Slushie_Num_Pina_Juicy":
+{
+	"frame": {"x":2816,"y":2058,"w":63,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":713,"y":382,"w":63,"h":64},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Snow_Cone_Num_Apple_Icy":
+{
+	"frame": {"x":3353,"y":2198,"w":62,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":747,"y":442,"w":62,"h":64},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Snow_Cone_Num_Candy_Sparkle_Snow":
+{
+	"frame": {"x":2749,"y":2012,"w":63,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":660,"y":436,"w":63,"h":65},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Snow_Cone_Num_Chloe_Cola":
+{
+	"frame": {"x":2694,"y":1566,"w":65,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":634,"y":235,"w":65,"h":60},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Snow_Cone_Num_Gracie_Grape":
+{
+	"frame": {"x":807,"y":1971,"w":66,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":721,"y":236,"w":66,"h":61},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Snow_Cone_Num_Keylime_Icy":
+{
+	"frame": {"x":3039,"y":1566,"w":65,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":624,"y":333,"w":65,"h":59},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Snow_Cone_Num_Lemonade_Icy":
+{
+	"frame": {"x":2886,"y":1989,"w":63,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":712,"y":333,"w":63,"h":65},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Snow_Cone_Num_Peach_Icy":
+{
+	"frame": {"x":3944,"y":2363,"w":61,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":809,"y":248,"w":61,"h":54},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Snow_Cone_Num_Triple_Berry_Icy":
+{
+	"frame": {"x":73,"y":2158,"w":65,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":797,"y":338,"w":65,"h":67},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Special_Num_Auntie_Corn":
+{
+	"frame": {"x":734,"y":1940,"w":69,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":248,"y":353,"w":69,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Special_Num_Ava_Apple":
+{
+	"frame": {"x":3629,"y":1970,"w":63,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":576,"y":541,"w":63,"h":57},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Special_Num_BB_Scoops":
+{
+	"frame": {"x":3312,"y":1748,"w":64,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":163,"y":249,"w":64,"h":62},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Special_Num_Berry_Churro":
+{
+	"frame": {"x":2752,"y":1936,"w":63,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":652,"y":214,"w":63,"h":72},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Special_Num_Blue_Berry":
+{
+	"frame": {"x":3390,"y":2425,"w":60,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":748,"y":431,"w":60,"h":61},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Special_Num_Blue_Razz_Pop":
+{
+	"frame": {"x":1763,"y":822,"w":57,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":488,"y":438,"w":57,"h":63},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Special_Num_Bubblegum_Slushy":
+{
+	"frame": {"x":2814,"y":2126,"w":63,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":568,"y":335,"w":63,"h":60},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Special_Num_Bubbly_Pop":
+{
+	"frame": {"x":2479,"y":1671,"w":65,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":163,"y":356,"w":65,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Special_Num_Coolie_Cucumber":
+{
+	"frame": {"x":3134,"y":2325,"w":60,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":663,"y":532,"w":60,"h":63},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Special_Num_Cotton_Jelly":
+{
+	"frame": {"x":4027,"y":2059,"w":62,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":256,"y":453,"w":62,"h":59},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Special_Num_Cyrus_Citrus":
+{
+	"frame": {"x":3615,"y":2354,"w":61,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":489,"y":542,"w":61,"h":60},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Special_Num_Flap_Jackie":
+{
+	"frame": {"x":3618,"y":2287,"w":61,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":340,"y":345,"w":61,"h":63},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Special_Num_Grape_Gummy":
+{
+	"frame": {"x":3361,"y":1942,"w":63,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":742,"y":325,"w":63,"h":63},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Special_Num_Mara_Shino":
+{
+	"frame": {"x":3897,"y":1970,"w":63,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":336,"y":251,"w":63,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Special_Num_Marsha_Violet":
+{
+	"frame": {"x":3562,"y":2087,"w":63,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":658,"y":441,"w":63,"h":51},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Special_Num_Mint_T_Cream":
+{
+	"frame": {"x":3355,"y":2072,"w":63,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":249,"y":255,"w":63,"h":53},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Special_Num_Mrs_Icing":
+{
+	"frame": {"x":864,"y":54,"w":87,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":247,"y":550,"w":87,"h":68},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Special_Num_Nea_Pop":
+{
+	"frame": {"x":3646,"y":2545,"w":59,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":344,"y":447,"w":59,"h":67},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Special_Num_Nea_Snow":
+{
+	"frame": {"x":3895,"y":2030,"w":62,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":741,"y":228,"w":62,"h":60},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Special_Num_Rainbow_Pop":
+{
+	"frame": {"x":1701,"y":1137,"w":58,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":480,"y":231,"w":58,"h":61},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Special_Num_Ricky_Roll":
+{
+	"frame": {"x":3629,"y":2031,"w":63,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":170,"y":561,"w":63,"h":52},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Special_Num_Strawberry_Snow":
+{
+	"frame": {"x":3312,"y":1814,"w":64,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":655,"y":332,"w":64,"h":61},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Special_Num_Sugary_Glaze":
+{
+	"frame": {"x":4008,"y":2422,"w":61,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":572,"y":444,"w":61,"h":51},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Special_Num_Tasty_Taco":
+{
+	"frame": {"x":2958,"y":1933,"w":64,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":563,"y":237,"w":64,"h":52},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Special_Num_Trio_Glow_Cone":
+{
+	"frame": {"x":2613,"y":2081,"w":63,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":482,"y":336,"w":63,"h":61},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Special_Num_Twinzy_Puffs":
+{
+	"frame": {"x":3749,"y":2299,"w":61,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":169,"y":452,"w":61,"h":62},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Striped_Candy_Num_Carol_Candy_Cane":
+{
+	"frame": {"x":3198,"y":2378,"w":60,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":538,"y":541,"w":60,"h":63},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Striped_Candy_Num_Clara_Candy":
+{
+	"frame": {"x":4014,"y":1441,"w":71,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":532,"y":375,"w":71,"h":63},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Striped_Candy_Num_Kora_Kiwi":
+{
+	"frame": {"x":734,"y":1624,"w":69,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":446,"y":373,"w":69,"h":61},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Striped_Candy_Num_Ribbon_Lolly":
+{
+	"frame": {"x":3262,"y":2395,"w":60,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":468,"y":477,"w":60,"h":63},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Striped_Candy_Num_Ronda_Raspberry":
+{
+	"frame": {"x":661,"y":1641,"w":69,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":359,"y":364,"w":69,"h":61},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Striped_Candy_Num_Spiral_Pop":
+{
+	"frame": {"x":3485,"y":2286,"w":61,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":380,"y":473,"w":61,"h":64},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Sushi_Num_Ama_Ebi":
+{
+	"frame": {"x":3761,"y":2096,"w":62,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":796,"y":337,"w":62,"h":57},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Sushi_Num_Ami_Avocado":
+{
+	"frame": {"x":3814,"y":2351,"w":61,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":799,"y":437,"w":61,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Sushi_Num_Cali_Roll":
+{
+	"frame": {"x":3879,"y":2359,"w":61,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":628,"y":343,"w":61,"h":55},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Sushi_Num_Eggbert_Tamago":
+{
+	"frame": {"x":3834,"y":2681,"w":59,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":627,"y":235,"w":59,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Sushi_Num_Ina_Ree":
+{
+	"frame": {"x":2690,"y":1630,"w":65,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":793,"y":234,"w":65,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Sushi_Num_Oni_Giri":
+{
+	"frame": {"x":3315,"y":1566,"w":65,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":713,"y":440,"w":65,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Sushi_Num_Phili_Roll":
+{
+	"frame": {"x":2680,"y":2081,"w":63,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":711,"y":340,"w":63,"h":61},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Sushi_Num_Shin_Shiro":
+{
+	"frame": {"x":4021,"y":2246,"w":61,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":669,"y":550,"w":61,"h":57},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Sushi_Num_Suki_Sake":
+{
+	"frame": {"x":3518,"y":2477,"w":60,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":630,"y":443,"w":60,"h":58},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Sushi_Num_Tori_Toro":
+{
+	"frame": {"x":3897,"y":2740,"w":59,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":711,"y":234,"w":59,"h":56},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Veggie_Num_Bunny_Carrot":
+{
+	"frame": {"x":1763,"y":1224,"w":56,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":597,"y":314,"w":56,"h":63},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Veggie_Num_Carrie_Corn":
+{
+	"frame": {"x":2754,"y":1813,"w":64,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":679,"y":328,"w":64,"h":59},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Veggie_Num_Eda_Mama":
+{
+	"frame": {"x":1763,"y":1153,"w":56,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":515,"y":305,"w":56,"h":67},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Veggie_Num_Emma_Eggplant":
+{
+	"frame": {"x":4023,"y":2182,"w":61,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":624,"y":421,"w":61,"h":60},
+	"sourceSize": {"w":960,"h":720}
+},
+"collected/Veggie_Num_Paula_Pumpkin":
+{
+	"frame": {"x":3695,"y":2154,"w":62,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":540,"y":416,"w":62,"h":57},
+	"sourceSize": {"w":960,"h":720}
+},
+"state_collection/collection_arrow_right_down":
+{
+	"frame": {"x":2580,"y":1063,"w":68,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":68,"h":70},
+	"sourceSize": {"w":70,"h":72}
+},
+"state_collection/collection_arrow_right_over":
+{
+	"frame": {"x":2580,"y":1137,"w":68,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":68,"h":70},
+	"sourceSize": {"w":70,"h":72}
+},
+"state_collection/collection_arrow_right_up":
+{
+	"frame": {"x":2580,"y":1211,"w":68,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":68,"h":70},
+	"sourceSize": {"w":70,"h":72}
+},
+"state_collection/collection_bg":
+{
+	"frame": {"x":3,"y":3,"w":953,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":664,"w":953,"h":47},
+	"sourceSize": {"w":959,"h":719}
+},
+"state_collection/collection_bg0":
+{
+	"frame": {"x":3479,"y":1007,"w":604,"h":430},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":181,"y":188,"w":604,"h":430},
+	"sourceSize": {"w":960,"h":720}
+},
+"state_collection/collection_bg1":
+{
+	"frame": {"x":3497,"y":3,"w":595,"h":524},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":133,"w":595,"h":524},
+	"sourceSize": {"w":960,"h":720}
+},
+"state_collection/collection_bg2":
+{
+	"frame": {"x":1824,"y":3,"w":836,"h":487},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":150,"w":836,"h":487},
+	"sourceSize": {"w":960,"h":720}
+},
+"state_collection/collection_bg3":
+{
+	"frame": {"x":1824,"y":1486,"w":651,"h":525},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":155,"y":134,"w":651,"h":525},
+	"sourceSize": {"w":960,"h":720}
+},
+"state_collection/collection_bg4":
+{
+	"frame": {"x":2664,"y":460,"w":827,"h":491},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":153,"w":827,"h":491},
+	"sourceSize": {"w":960,"h":720}
+},
+"state_collection/collection_bg5":
+{
+	"frame": {"x":1824,"y":494,"w":824,"h":565},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":88,"w":824,"h":565},
+	"sourceSize": {"w":960,"h":720}
+},
+"state_collection/collection_bg6":
+{
+	"frame": {"x":3,"y":544,"w":841,"h":563},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":135,"w":841,"h":563},
+	"sourceSize": {"w":960,"h":720}
+},
+"state_collection/collection_bg7":
+{
+	"frame": {"x":3495,"y":531,"w":566,"h":472},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":208,"y":168,"w":566,"h":472},
+	"sourceSize": {"w":960,"h":720}
+},
+"state_collection/collection_bg8":
+{
+	"frame": {"x":3,"y":1111,"w":727,"h":526},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":124,"y":134,"w":727,"h":526},
+	"sourceSize": {"w":960,"h":720}
+},
+"state_collection/collection_bg9":
+{
+	"frame": {"x":2652,"y":955,"w":823,"h":607},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":101,"w":823,"h":607},
+	"sourceSize": {"w":960,"h":720}
+},
+"state_collection/collection_bg10":
+{
+	"frame": {"x":3,"y":1641,"w":654,"h":513},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":137,"w":654,"h":513},
+	"sourceSize": {"w":960,"h":720}
+},
+"state_collection/collection_bg11":
+{
+	"frame": {"x":924,"y":929,"w":773,"h":449},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":104,"y":176,"w":773,"h":449},
+	"sourceSize": {"w":960,"h":720}
+},
+"state_collection/collection_bg12":
+{
+	"frame": {"x":960,"y":3,"w":860,"h":539},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":138,"w":860,"h":539},
+	"sourceSize": {"w":960,"h":720}
+},
+"state_collection/collection_bg13":
+{
+	"frame": {"x":941,"y":546,"w":818,"h":379},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":206,"w":818,"h":379},
+	"sourceSize": {"w":960,"h":720}
+},
+"state_collection/collection_bg14":
+{
+	"frame": {"x":3479,"y":1441,"w":531,"h":525},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":211,"y":134,"w":531,"h":525},
+	"sourceSize": {"w":960,"h":720}
+},
+"state_collection/collection_bg15":
+{
+	"frame": {"x":3,"y":54,"w":857,"h":486},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":164,"w":857,"h":486},
+	"sourceSize": {"w":960,"h":720}
+},
+"state_collection/collection_bg16":
+{
+	"frame": {"x":1824,"y":1063,"w":752,"h":419},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":199,"w":752,"h":419},
+	"sourceSize": {"w":960,"h":720}
+},
+"state_collection/collection_bg17":
+{
+	"frame": {"x":2664,"y":3,"w":829,"h":453},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":174,"w":829,"h":453},
+	"sourceSize": {"w":960,"h":720}
+},
+"state_collection/collection_bg18":
+{
+	"frame": {"x":877,"y":1382,"w":686,"h":536},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":151,"y":129,"w":686,"h":536},
+	"sourceSize": {"w":960,"h":720}
+},
+"state_collection/collection_flair_bottom_right":
+{
+	"frame": {"x":734,"y":1356,"w":139,"h":134},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":134},
+	"sourceSize": {"w":139,"h":134}
+},
+"state_collection/collection_flair_top_left":
+{
+	"frame": {"x":734,"y":1220,"w":148,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":132},
+	"sourceSize": {"w":148,"h":132}
+},
+"state_collection/collection_title":
+{
+	"frame": {"x":734,"y":1128,"w":163,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":783,"y":19,"w":163,"h":88},
+	"sourceSize": {"w":960,"h":720}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "collectionsheet4.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":4096},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:083e4a5b0ff83288b16aaf3e32d60d15:0a3fb6a9e03c2c250be28595f5d6d2fa:f1fe500031686c9ece983df0c5e49a7e$"
+}
+}

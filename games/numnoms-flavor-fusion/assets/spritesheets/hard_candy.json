@@ -1,0 +1,108 @@
+{"frames": {
+
+"containers/cookie_white":
+{
+	"frame": {"x":763,"y":3,"w":258,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":110,"w":258,"h":162},
+	"sourceSize": {"w":450,"h":300}
+},
+"levels/game_level_hard_candies":
+{
+	"frame": {"x":849,"y":169,"w":172,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":655,"y":45,"w":172,"h":110},
+	"sourceSize": {"w":960,"h":720}
+},
+"noms/Glitter_Gloss_Up_Nom_Peachy_Meringue_Gloss_Up":
+{
+	"frame": {"x":395,"y":363,"w":180,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":43,"w":180,"h":163},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Light_Up_Nom_Pina_Rock_Light_Up":
+{
+	"frame": {"x":579,"y":363,"w":180,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":51,"w":180,"h":163},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Hard_Candy_Num_Blu_Razzy":
+{
+	"frame": {"x":3,"y":3,"w":196,"h":217},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":10,"w":196,"h":217},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Hard_Candy_Num_Cher_Candied":
+{
+	"frame": {"x":201,"y":224,"w":190,"h":210},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":15,"w":190,"h":210},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Hard_Candy_Num_Cotton_Candied":
+{
+	"frame": {"x":607,"y":181,"w":238,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":52,"w":238,"h":171},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Hard_Candy_Num_Gaby_Goody":
+{
+	"frame": {"x":418,"y":3,"w":208,"h":174},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":55,"w":208,"h":174},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Hard_Candy_Num_Grape_Goody":
+{
+	"frame": {"x":3,"y":224,"w":194,"h":215},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":11,"w":194,"h":215},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Hard_Candy_Num_Orange_Sweets":
+{
+	"frame": {"x":395,"y":184,"w":208,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":51,"w":208,"h":175},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Hard_Candy_Num_Polly_Pucker_Up":
+{
+	"frame": {"x":763,"y":356,"w":237,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":54,"w":237,"h":170},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Hard_Candy_Num_W_Melon_Delight":
+{
+	"frame": {"x":203,"y":3,"w":211,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":52,"w":211,"h":177},
+	"sourceSize": {"w":250,"h":250}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "hard_candy.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":529},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:16a66ad6f47f4cb027cfcfbefe917e6e:f23dd55924a3441635e600ec72c89040:9b2dc3161757a63acd350de0195d4d08$"
+}
+}

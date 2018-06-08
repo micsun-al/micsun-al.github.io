@@ -1,0 +1,156 @@
+{"frames": {
+
+"containers/popsicle_bowl_blue":
+{
+	"frame": {"x":477,"y":242,"w":219,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":119,"w":219,"h":147},
+	"sourceSize": {"w":450,"h":300}
+},
+"levels/game_level_freezie_pops_lights":
+{
+	"frame": {"x":883,"y":817,"w":138,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":675,"y":49,"w":138,"h":113},
+	"sourceSize": {"w":960,"h":720}
+},
+"noms/Light_Up_Nom_Berry_Light_Up":
+{
+	"frame": {"x":690,"y":817,"w":189,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":56,"w":189,"h":175},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Freezie_Pop_Num_Apple_Pop":
+{
+	"frame": {"x":219,"y":713,"w":216,"h":229},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":13,"w":216,"h":229},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Freezie_Pop_Num_Cherry_Freezie":
+{
+	"frame": {"x":3,"y":237,"w":243,"h":229},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":11,"w":243,"h":229},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Freezie_Pop_Num_Creamy_Pop":
+{
+	"frame": {"x":703,"y":3,"w":244,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":30,"w":244,"h":205},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Freezie_Pop_Num_Grape_Freezie":
+{
+	"frame": {"x":703,"y":212,"w":246,"h":199},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":36,"w":246,"h":199},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Freezie_Pop_Num_Grape_Soda_Pop":
+{
+	"frame": {"x":477,"y":3,"w":222,"h":235},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":9,"w":222,"h":235},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Freezie_Pop_Num_Kiwi_Freezie":
+{
+	"frame": {"x":3,"y":470,"w":223,"h":235},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":10,"w":223,"h":235},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Freezie_Pop_Num_Lemony_Pop":
+{
+	"frame": {"x":439,"y":714,"w":247,"h":201},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":36,"w":247,"h":201},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Freezie_Pop_Num_Mellie_Pop":
+{
+	"frame": {"x":250,"y":246,"w":219,"h":229},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":12,"w":219,"h":229},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Freezie_Pop_Num_Nana_Pop":
+{
+	"frame": {"x":3,"y":3,"w":243,"h":230},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":11,"w":243,"h":230},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Freezie_Pop_Num_OJ_Pop":
+{
+	"frame": {"x":661,"y":415,"w":243,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":37,"w":243,"h":197},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Freezie_Pop_Num_Orange_Freezie":
+{
+	"frame": {"x":690,"y":616,"w":239,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":32,"w":239,"h":197},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Freezie_Pop_Num_Pineapple_Pop":
+{
+	"frame": {"x":250,"y":3,"w":223,"h":239},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":4,"w":223,"h":239},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Freezie_Pop_Num_Strawberry_Pop":
+{
+	"frame": {"x":230,"y":479,"w":218,"h":230},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":12,"w":218,"h":230},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Freezie_Pop_Num_Tropi_Cali_Pop":
+{
+	"frame": {"x":452,"y":479,"w":205,"h":231},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":9,"w":205,"h":231},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Freezie_Pop_Num_Wild_Berry_Freezie":
+{
+	"frame": {"x":3,"y":709,"w":212,"h":241},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":8,"w":212,"h":241},
+	"sourceSize": {"w":250,"h":250}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "freezie_pop_light.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":995},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8a4af6de46c8609d7b71a94fcafb78f7:f114f4e82315f9fbd83e9745b1bf2ae1:bc5c89d2db2c878ffcdc62fecd180147$"
+}
+}

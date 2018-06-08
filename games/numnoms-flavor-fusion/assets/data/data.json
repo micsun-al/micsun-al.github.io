@@ -1,0 +1,294 @@
+{
+	"game":{
+		  "randomUntilLevel": 9
+		, "randomLastLevel": true
+		, "rows": 7
+		, "columns": 7
+		, "swap_speed": 150
+		, "fall_speed": 350
+		, "destroy_speed": 250
+		, "suggestion_delay_ms": 5000
+		, "icon":{ "w": 73.35, "h": 73.35, "progress_scale": 1.2 }
+		, "grid_offset":{ "x": 152, "y": 146 }
+		, "progress":{
+			  "x": 750, "y": 642
+			, "hint_offset":{ "x": 30, "y": -30 }
+			, "nom_offset":{ "x": 0, "y": 10 }
+			, "base_max_size": 150
+			, "recipe_item_max_size": 85
+			, "stack":{ "x": 0, "y": -45 }
+			, "bg_offset":{ "x": 0, "y": -48 }
+			, "bg_positions":[
+				  { "x": 0, "y": 0,    "r": 0, "sprite": "state_game/progress_icon_odd"  }
+				, { "x": 0, "y": -45,  "r": 0, "sprite": "state_game/progress_icon_even" }
+				, { "x": 0, "y": -90,  "r": 0, "sprite": "state_game/progress_icon_odd"  }
+				, { "x": 0, "y": -135, "r": 0, "sprite": "state_game/progress_icon_even" }
+				, { "x": 0, "y": -180, "r": 0, "sprite": "state_game/progress_icon_odd"  }
+				, { "x": 0, "y": -225, "r": 0, "sprite": "state_game/progress_icon_even" }
+				, { "x": 0, "y": -270, "r": 0, "sprite": "state_game/progress_icon_odd"  }
+				, { "x": 0, "y": -315, "r": 0, "sprite": "state_game/progress_icon_even" }
+				, { "x": 0, "y": -360, "r": 0, "sprite": "state_game/progress_icon_odd"  }
+				, { "x": 0, "y": -405, "r": 0, "sprite": "state_game/progress_icon_even" }
+			]
+		}
+		, "scent_icons":{
+			  "radius": 140
+			, "rotation": 240
+			, "offset":{ "x": 0, "y": 16 }
+			, "scale":{ "min": 0.45, "max": 0.7 }
+			, "end_scale": 0.8
+		}
+		, "theme":{ "sprite": "themes/game_theme" }
+		, "name_plate":{ "x": 0, "y": 120 }
+		, "character_burst":{ "x": 0, "y": -30, "w": 200, "h": 200 }
+		, "collection_button":{ "x": 864, "y": 62, "text":{ "x": -5, "y": 35, "r": 8 } }
+	}
+	, "goals":{
+		  "0":  5
+		, "1":  6
+		, "2":  7
+		, "3":  8
+		, "27": 7
+		, "49": 7
+		, "61": 7
+		, "72": 7
+		, "84": 7
+		, "91": 7
+	}
+	, "animations":{
+		  "animation01":{ "url": "animation01.jpg", "w": 490, "h": 276, "frames": 73, "fps": 24 }
+		, "animation02":{ "url": "animation02.jpg", "w": 490, "h": 276, "frames": 43, "fps": 24 }
+		, "animation03":{ "url": "animation03.jpg", "w": 490, "h": 276, "frames": 28, "fps": 24 }
+		, "animation04":{ "url": "animation04.jpg", "w": 490, "h": 276, "frames": 41, "fps": 24 }
+		, "animation05":{ "url": "animation05.jpg", "w": 490, "h": 276, "frames": 41, "fps": 24 }
+		, "animation06":{ "url": "animation06.jpg", "w": 490, "h": 276, "frames": 41, "fps": 24 }
+		, "animation08":{ "url": "animation08.jpg", "w": 490, "h": 276, "frames": 27, "fps": 24 }
+		, "animation10":{ "url": "animation10.jpg", "w": 490, "h": 276, "frames": 29, "fps": 24 }
+		, "animation11":{ "url": "animation11.jpg", "w": 490, "h": 276, "frames": 30, "fps": 24 }
+		, "animation12":{ "url": "animation12.jpg", "w": 490, "h": 276, "frames": 29, "fps": 24 }
+		, "animation13":{ "url": "animation13.jpg", "w": 490, "h": 276, "frames": 26, "fps": 24 }
+		, "animation15":{ "url": "animation15.jpg", "w": 490, "h": 276, "frames": 20, "fps": 24 }
+		, "animation16":{ "url": "animation16.jpg", "w": 490, "h": 276, "frames": 27, "fps": 24 }
+		, "animation17":{ "url": "animation17.jpg", "w": 490, "h": 276, "frames": 28, "fps": 24 }
+		, "animation18":{ "url": "animation18.jpg", "w": 490, "h": 276, "frames": 27, "fps": 24 }
+		, "animation19":{ "url": "animation19.jpg", "w": 490, "h": 276, "frames": 45, "fps": 24 }
+		, "animation20":{ "url": "animation20.jpg", "w": 490, "h": 276, "frames": 59, "fps": 24 }
+		, "animation21":{ "url": "animation21.jpg", "w": 490, "h": 276, "frames": 26, "fps": 24 }
+		, "animation22":{ "url": "animation22.jpg", "w": 490, "h": 276, "frames": 58, "fps": 24 }
+		, "animation23":{ "url": "animation23.jpg", "w": 490, "h": 276, "frames": 34, "fps": 24 }
+		, "animation24":{ "url": "animation24.jpg", "w": 490, "h": 276, "frames": 33, "fps": 24 }
+		, "animation25":{ "url": "animation25.jpg", "w": 490, "h": 276, "frames": 56, "fps": 24 }
+		, "animation26":{ "url": "animation26.jpg", "w": 490, "h": 276, "frames": 44, "fps": 24 }
+		, "animation27":{ "url": "animation27.jpg", "w": 490, "h": 276, "frames": 46, "fps": 24 }
+		, "animation28":{ "url": "animation28.jpg", "w": 490, "h": 276, "frames": 29, "fps": 24 }
+
+		, "animation29":{ "url": "animation29.jpg", "w": 490, "h": 276, "frames": 40, "fps": 24 }
+		, "animation30":{ "url": "animation30.jpg", "w": 490, "h": 276, "frames": 24, "fps": 24 }
+		, "animation31":{ "url": "animation31.jpg", "w": 490, "h": 276, "frames": 26, "fps": 24 }
+		, "animation32":{ "url": "animation32.jpg", "w": 490, "h": 276, "frames": 54, "fps": 24 }
+		, "animation33":{ "url": "animation33.jpg", "w": 490, "h": 276, "frames": 42, "fps": 24 }
+		, "animation34":{ "url": "animation34.jpg", "w": 490, "h": 276, "frames": 36, "fps": 24 }
+		, "animation35":{ "url": "animation35.jpg", "w": 490, "h": 276, "frames": 22, "fps": 24 }
+		, "animation36":{ "url": "animation36.jpg", "w": 490, "h": 276, "frames": 36, "fps": 24 }
+		, "animation37":{ "url": "animation37.jpg", "w": 490, "h": 276, "frames": 48, "fps": 24 }
+		, "animation38":{ "url": "animation38.jpg", "w": 490, "h": 276, "frames": 14, "fps": 24 }
+		, "animation39":{ "url": "animation39.jpg", "w": 490, "h": 276, "frames": 28, "fps": 24 }
+	}
+	, "map":{
+		"scroll":{
+			  "x": 107
+			, "min_y": 100
+			, "max_y": -10300
+			, "scroll_y": 116.5
+		}
+		, "confetti":[
+			  {"x": 449, "y": 158, "r": 180,  "h": 1,  "v": 1,  "t": "a"}
+			, {"x": 559, "y": 252, "r": 0,    "h": 1,  "v": 1,  "t": "a"}
+			, {"x": 421, "y": 329, "r": 0,    "h": 1,  "v": 1,  "t": "b"}
+			, {"x": 543, "y": 445, "r": 20,   "h": -1, "v": 1,  "t": "b"}
+			, {"x": 378, "y": 532, "r": 0,    "h": 1,  "v": 1,  "t": "a"}
+			, {"x": 573, "y": 663, "r": -30,  "h": 1,  "v": 1,  "t": "a"}
+			, {"x": 380, "y": 798, "r": 180,  "h": 1,  "v": 1,  "t": "b"}
+			, {"x": 549, "y": 915, "r": -30,  "h": 1,  "v": 1,  "t": "b"}
+			, {"x": 410, "y": 1030, "r": 40,  "h": -1, "v": -1, "t": "a"}
+			, {"x": 583, "y": 1138, "r": -5,  "h": -1, "v": 1,  "t": "a"}
+			, {"x": 422, "y": 1267, "r": -45, "h": 1,  "v": 1,  "t": "b"}
+			, {"x": 544, "y": 1370, "r": 5,   "h": 1,  "v": -1, "t": "a"}
+			, {"x": 434, "y": 1525, "r": 45,  "h": 1,  "v": -1, "t": "b"}
+			, {"x": 574, "y": 1602, "r": 120, "h": -1, "v": -1, "t": "b"}
+			, {"x": 418, "y": 1717, "r": -160,"h": -1, "v": 1,  "t": "a"}
+			, {"x": 581, "y": 1856, "r": 40,  "h": -1, "v": 1,  "t": "a"}
+			, {"x": 426, "y": 1985, "r": 5,   "h": 1,  "v": 1,  "t": "b"}
+			, {"x": 557, "y": 2117, "r": -2,  "h": 1,  "v": -1, "t": "a"}
+			, {"x": 422, "y": 2178, "r": 10,  "h": 1,  "v": 1,  "t": "a"}
+			, {"x": 570, "y": 2325, "r": -3,  "h": -1, "v": 1,  "t": "b"}
+			, {"x": 424, "y": 2451, "r": 40,  "h": -1, "v": 1,  "t": "a"}
+			, {"x": 549, "y": 2560, "r": 120, "h": 1,  "v": 1,  "t": "b"}
+			, {"x": 439, "y": 2690, "r": -2,  "h": 1,  "v": -1, "t": "a"}
+			, {"x": 570, "y": 2773, "r": -25, "h": -1, "v": 1,  "t": "a"}
+			, {"x": 395, "y": 2899, "r": -120,"h": 1,  "v": 1,  "t": "b"}
+			, {"x": 552, "y": 3039, "r": -40, "h": -1, "v": -1, "t": "a"}
+			, {"x": 426, "y": 3174, "r": 0,   "h": 1,  "v": 1,  "t": "a"}
+			, {"x": 416, "y": 3297, "r": 5,   "h": 1,  "v": 1,  "t": "a"}
+			, {"x": 496, "y": 3297, "r": -5,  "h": -1, "v": -1, "t": "a"}
+			, {"x": 542, "y": 3298, "r": -45, "h": -1, "v": 1,  "t": "b"}
+
+			, {"x": 449, "y": 3400, "r": 180, "h": 1,  "v": 1,  "t": "a"}
+			, {"x": 559, "y": 3500, "r": 30,  "h": 1,  "v": 1,  "t": "a"}
+			, {"x": 421, "y": 3610, "r": 0,   "h": 1,  "v": 1,  "t": "b"}
+			, {"x": 543, "y": 3720, "r": 20,  "h": -1, "v": 1,  "t": "b"}
+			, {"x": 398, "y": 3840, "r": 0,   "h": 1,  "v": 1,  "t": "a"}
+			, {"x": 568, "y": 3960, "r": -30, "h": 1,  "v": 1,  "t": "a"}
+			, {"x": 410, "y": 4060, "r": 180, "h": 1,  "v": 1,  "t": "b"}
+			, {"x": 549, "y": 4180, "r": 0,   "h": 1,  "v": 1,  "t": "b"}
+			, {"x": 410, "y": 4320, "r": 40,  "h": -1, "v": -1, "t": "a"}
+			, {"x": 520, "y": 4430, "r": -5,  "h": -1, "v": 1,  "t": "a"}
+			, {"x": 430, "y": 4545, "r": -45, "h": 1,  "v": 1,  "t": "b"}
+			, {"x": 544, "y": 4675, "r": 5,   "h": 1,  "v": -1, "t": "a"}
+			, {"x": 434, "y": 4800, "r": 45,  "h": 1,  "v": -1, "t": "b"}
+			, {"x": 514, "y": 4880, "r": 120, "h": -1, "v": -1, "t": "b"}
+			, {"x": 428, "y": 5025, "r": -160,"h": -1, "v": 1,  "t": "a"}
+			, {"x": 561, "y": 5130, "r": 40,  "h": -1, "v": 1,  "t": "a"}
+			, {"x": 426, "y": 5250, "r": 5,   "h": 1,  "v": 1,  "t": "b"}
+			, {"x": 557, "y": 5375, "r": -2,  "h": 1,  "v": -1, "t": "a"}
+			, {"x": 422, "y": 5490, "r": 10,  "h": 1,  "v": 1,  "t": "a"}
+			, {"x": 530, "y": 5580, "r": -3,  "h": -1, "v": 1,  "t": "b"}
+			, {"x": 424, "y": 5720, "r": 40,  "h": -1, "v": 1,  "t": "a"}
+			, {"x": 416, "y": 5870, "r": 5,   "h": 1,  "v": 1,  "t": "a"}
+			, {"x": 496, "y": 5870, "r": -5,  "h": -1, "v": -1, "t": "a"}
+			, {"x": 542, "y": 5870, "r": -45, "h": -1, "v": 1,  "t": "b"}
+
+			, {"x": 439, "y": 5960, "r": 15, "h": -1,  "v": -1, "t": "a"}
+			, {"x": 546, "y": 6060, "r": 15, "h": 1,   "v": -1, "t": "b"}
+			, {"x": 446, "y": 6180, "r": 145, "h": 1,  "v": -1, "t": "b"}
+			, {"x": 543, "y": 6280, "r": 135, "h": 1,  "v": -1, "t": "a"}
+			, {"x": 443, "y": 6410, "r": 15,  "h": -1, "v": -1, "t": "a"}
+			, {"x": 541, "y": 6520, "r": 0,   "h": -1, "v": -1, "t": "b"}
+			, {"x": 439, "y": 6650, "r": 130, "h": -1, "v": -1, "t": "a"}
+			, {"x": 553, "y": 6760, "r": 45,  "h": 1,  "v": -1, "t": "a"}
+			, {"x": 453, "y": 6890, "r": 45,  "h": -1, "v": 1,  "t": "b"}
+			, {"x": 545, "y": 7000, "r": 45,  "h": -1, "v": 1,  "t": "a"}
+			, {"x": 445, "y": 7100, "r": -60, "h": 1,  "v": 1,  "t": "b"}
+			, {"x": 521, "y": 7225, "r": -10, "h": 1,  "v": 1,  "t": "b"}
+			, {"x": 441, "y": 7360, "r": 10,  "h": 1,  "v": 1,  "t": "a"}
+			, {"x": 528, "y": 7490, "r": 180, "h": 1,  "v": 1,  "t": "a"}
+			, {"x": 448, "y": 7590, "r": -45, "h": -1, "v": -1, "t": "b"}
+			, {"x": 538, "y": 7690, "r": -45, "h": -1, "v": -1, "t": "a"}
+			, {"x": 430, "y": 7810, "r": 45,  "h": -1, "v": 1,  "t": "a"}
+			, {"x": 530, "y": 7900, "r": 30,  "h": -1, "v": 1,  "t": "b"}
+			, {"x": 450, "y": 8060, "r": 30,  "h": 1,  "v": -1, "t": "b"}
+			, {"x": 535, "y": 8170, "r": -15, "h": -1, "v": 1,  "t": "a"}
+			, {"x": 445, "y": 8290, "r": 15,  "h": 1,  "v": 1,  "t": "a"}
+			, {"x": 540, "y": 8400, "r": 0,   "h": 1,  "v": 1,  "t": "b"}
+
+			, {"x": 439, "y": 8550, "r": 15, "h": -1,  "v": -1, "t": "a"}
+			, {"x": 546, "y": 8650, "r": 15, "h": 1,   "v": -1, "t": "b"}
+			, {"x": 446, "y": 8770, "r": 55, "h": 1,  "v": -1, "t": "b"}
+			, {"x": 543, "y": 8870, "r": 135, "h": 1,  "v": -1, "t": "a"}
+			, {"x": 443, "y": 9000, "r": 15,  "h": -1, "v": -1, "t": "a"}
+			, {"x": 541, "y": 9110, "r": 0,   "h": -1, "v": -1, "t": "b"}
+			, {"x": 389, "y": 9240, "r": 130, "h": -1, "v": -1, "t": "a"}
+			, {"x": 553, "y": 9350, "r": 45,  "h": 1,  "v": -1, "t": "a"}
+			, {"x": 453, "y": 9480, "r": 45,  "h": -1, "v": 1,  "t": "b"}
+			, {"x": 545, "y": 9590, "r": 45,  "h": -1, "v": 1,  "t": "a"}
+			, {"x": 445, "y": 9690, "r": -60, "h": 1,  "v": 1,  "t": "b"}
+			, {"x": 521, "y": 9815, "r": -10, "h": 1,  "v": 1,  "t": "b"}
+			, {"x": 441, "y": 9950, "r": 10,  "h": 1,  "v": 1,  "t": "a"}
+			, {"x": 528, "y": 10080, "r": 180, "h": 1,  "v": 1,  "t": "a"}
+			, {"x": 448, "y": 10180, "r": -45, "h": -1, "v": -1, "t": "b"}
+			, {"x": 538, "y": 10280, "r": -45, "h": -1, "v": -1, "t": "a"}
+			, {"x": 430, "y": 10400, "r": 45,  "h": -1, "v": 1,  "t": "a"}
+			, {"x": 530, "y": 10490, "r": 30,  "h": -1, "v": 1,  "t": "b"}
+			, {"x": 450, "y": 10650, "r": 30,  "h": 1,  "v": -1, "t": "b"}
+			, {"x": 465, "y": 10760, "r": -15, "h": -1, "v": 1,  "t": "a"}
+			, {"x": 345, "y": 10820, "r": 15,  "h": 1,  "v": 1,  "t": "a"}
+		]
+	}
+	, "menu":{
+		"text":{
+			  "title": "Menu"
+			, "warning": "(Current Progress Will Be Lost)"
+		}
+	}
+	, "end_game":{
+		  "text":[ "Congratulations!", "Keep Collecting." ]
+		, "incomplete":[ "Your Num Noms", "collection isn't complete!", "", "Replay previous levels", "to complete your collection." ]
+		, "complete":[ "Victory smells so delicious!", "You've collected all the", "Num Noms currently available.", "Keep replaying levels!" ]
+	}
+	, "themes":{
+		  "brunch":{              "bases":[ "breakfast_pan_pink" ],           "sign":{ "x": 741, "y": 139, "sprite": "levels/game_level_brunch"              }, "map":{ "level":{ "x": 114, "y": 77  }, "sprite": "state_map/map_icon_brunch" } }
+		, "cupcake":{             "bases":[ "cupcake_bowl_peach" ],           "sign":{ "x": 741, "y": 147, "sprite": "levels/game_level_cupcake"             }, "map":{ "level":{ "x": 105, "y": 87  }, "sprite": "state_map/map_icon_cupcakes" } }
+		, "diner_food":{          "bases":[ "fast_tray_red" ],                "sign":{ "x": 741, "y": 140, "sprite": "levels/game_level_diner"               }, "map":{ "level":{ "x": 101, "y": 109 }, "sprite": "state_map/map_icon_diner" } }
+		, "fair_food":{           "bases":[ "fair_tray_paper" ],              "sign":{ "x": 741, "y": 142, "sprite": "levels/game_level_fun_fair_treats"     }, "map":{ "level":{ "x": 104, "y": 114 }, "sprite": "state_map/map_icon_fun_fair_treats" } }
+		, "freezie_pop":{         "bases":[ "popsicle_bowl_blue" ],           "sign":{ "x": 741, "y": 146, "sprite": "levels/game_level_freezie_pops"        }, "map":{ "level":{ "x": 104, "y": 86  }, "sprite": "state_map/map_icon_freezie_pops" } }
+		, "ice_cream":{           "bases":[ "icecream_ceramic_bowl_blue" ],   "sign":{ "x": 741, "y": 154, "sprite": "levels/game_level_ice_cream"           }, "map":{ "level":{ "x": 97,  "y": 96  }, "sprite": "state_map/map_icon_ice_cream" } }
+		, "jelly_bean":{          "bases":[ "jellybean_jar_blue" ],           "sign":{ "x": 741, "y": 148, "sprite": "levels/game_level_jelly_bean"          }, "map":{ "level":{ "x": 100, "y": 102 }, "sprite": "state_map/map_icon_jelly_bean" } }
+		, "pizza":{               "bases":[ "pizza_box_pink" ],               "sign":{ "x": 741, "y": 139, "sprite": "levels/game_level_pizza"               }, "map":{ "level":{ "x": 102, "y": 82  }, "sprite": "state_map/map_icon_pizza" } }
+		, "sushi":{               "bases":[ "sushi_bowl_pink" ],              "sign":{ "x": 741, "y": 150, "sprite": "levels/game_level_sushi"               }, "map":{ "level":{ "x": 104, "y": 94  }, "sprite": "state_map/map_icon_sushi" } }
+		, "mystery":{             "bases":[ "yogurt_container_pink" ],        "sign":{ "x": 741, "y": 161, "sprite": "levels/game_level_mystery"             }, "map":{ "level":{ "x": 119, "y": 111 }, "sprite": "state_map/map_icon_mystery" } }
+		, "candy":{               "bases":[ "jellybean_jar_pink" ],           "sign":{ "x": 741, "y": 132, "sprite": "levels/game_level_candies"             }, "map":{ "level":{ "x": 127, "y": 77  }, "sprite": "state_map/map_icon_candies" } }
+		, "fiesta":{              "bases":[ "fair_tray_paper" ],              "sign":{ "x": 741, "y": 161, "sprite": "levels/game_level_fiesta"              }, "map":{ "level":{ "x": 105, "y": 102 }, "sprite": "state_map/map_icon_fiesta" } }
+		, "snow_cone":{           "bases":[ "popsicle_bowl_blue" ],           "sign":{ "x": 741, "y": 168, "sprite": "levels/game_level_snow_cones"          }, "map":{ "level":{ "x": 92,  "y": 94  }, "sprite": "state_map/map_icon_snow_cones" } }
+		, "gummy":{               "bases":[ "jellybean_jar_blue" ],           "sign":{ "x": 741, "y": 150, "sprite": "levels/game_level_gummies"             }, "map":{ "level":{ "x": 96,  "y": 91  }, "sprite": "state_map/map_icon_gummies" } }
+		, "freezie_pop_light":{   "bases":[ "popsicle_bowl_blue" ],           "sign":{ "x": 741, "y": 145, "sprite": "levels/game_level_freezie_pops_lights" }, "map":{ "level":{ "x": 105, "y": 88  }, "sprite": "state_map/map_icon_freezie_pops_lights" } }		
+		, "donut":{               "bases":[ "donut_cup_pink" ],               "sign":{ "x": 741, "y": 154, "sprite": "levels/game_level_donuts"              }, "map":{ "level":{ "x": 89,  "y": 89  }, "sprite": "state_map/map_icon_donuts" } }
+		, "marshmallow":{         "bases":[ "cupcake_bowl_peach" ],           "sign":{ "x": 741, "y": 133, "sprite": "levels/game_level_marshmallows"        }, "map":{ "level":{ "x": 125, "y": 75  }, "sprite": "state_map/map_icon_marshmallows" } }
+		, "fruit":{               "bases":[ "fruit_crate" ],                  "sign":{ "x": 741, "y": 137, "sprite": "levels/game_level_fruits"              }, "map":{ "level":{ "x": 109, "y": 88  }, "sprite": "state_map/map_icon_fruits" } }
+		, "veggie":{              "bases":[ "fruit_crate" ],                  "sign":{ "x": 741, "y": 151, "sprite": "levels/game_level_veggies"             }, "map":{ "level":{ "x": 93,  "y": 93  }, "sprite": "state_map/map_icon_veggies" } }
+		, "mystery2":{            "bases":[ "yogurt_container_yellow" ],      "sign":{ "x": 741, "y": 161, "sprite": "levels/game_level_mystery"             }, "map":{ "level":{ "x": 119, "y": 111 }, "sprite": "state_map/map_icon_mystery" } }
+		, "cookie":{              "bases":[ "cookie_pink" ],                  "sign":{ "x": 741, "y": 143, "sprite": "levels/game_level_cookies"             }, "map":{ "level":{ "x": 132, "y": 105 }, "sprite": "state_map/map_icon_cookies" } }
+		, "creamery":{            "bases":[ "fast_tray_red" ],                "sign":{ "x": 741, "y": 173, "sprite": "levels/game_level_creamery"            }, "map":{ "level":{ "x": 94,  "y": 90  }, "sprite": "state_map/map_icon_creamery" } }
+		, "fancy_cake":{          "bases":[ "cake_blue" ],                    "sign":{ "x": 741, "y": 152, "sprite": "levels/game_level_fancy_cake"          }, "map":{ "level":{ "x": 108, "y": 90  }, "sprite": "state_map/map_icon_fancy_cakes" } }
+		, "creme_filled":{        "bases":[ "creme_filled" ],                 "sign":{ "x": 741, "y": 149, "sprite": "levels/game_level_creme_filled"        }, "map":{ "level":{ "x": 102, "y": 88  }, "sprite": "state_map/map_icon_creme_filled" } }
+		, "baked_goods":{         "bases":[ "cookie_pink" ],                  "sign":{ "x": 741, "y": 164, "sprite": "levels/game_level_baked_goods"         }, "map":{ "level":{ "x": 92,  "y": 98  }, "sprite": "state_map/map_icon_baked_goods" } }
+		, "gummy_bear":{          "bases":[ "jellybean_jar_blue" ],           "sign":{ "x": 741, "y": 132, "sprite": "levels/game_level_gummy_bears"         }, "map":{ "level":{ "x": 108, "y": 61  }, "sprite": "state_map/map_icon_gummy_bears" } }
+		, "hard_candy":{          "bases":[ "cookie_white" ],                 "sign":{ "x": 741, "y": 138, "sprite": "levels/game_level_hard_candies"        }, "map":{ "level":{ "x": 117, "y": 90  }, "sprite": "state_map/map_icon_hard_candies" } }
+		, "rock_candy":{          "bases":[ "cookie_pink" ],                  "sign":{ "x": 741, "y": 190, "sprite": "levels/game_level_rock_candies"        }, "map":{ "level":{ "x": 80,  "y": 93  }, "sprite": "state_map/map_icon_rock_candies" } }
+		, "striped_candy":{       "bases":[ "cookie_white" ],                 "sign":{ "x": 741, "y": 137, "sprite": "levels/game_level_striped_candies"     }, "map":{ "level":{ "x": 106, "y": 70  }, "sprite": "state_map/map_icon_striped_candies" } }
+		, "slushie":{             "bases":[ "popsicle_bowl_blue" ],           "sign":{ "x": 741, "y": 152, "sprite": "levels/game_level_slushies"            }, "map":{ "level":{ "x": 90,  "y": 77  }, "sprite": "state_map/map_icon_slushies" } }
+		, "mystery3":{            "bases":[ "yogurt_container_purple" ],      "sign":{ "x": 741, "y": 161, "sprite": "levels/game_level_mystery"             }, "map":{ "level":{ "x": 119, "y": 111 }, "sprite": "state_map/map_icon_mystery" } }
+		, "mystery4":{            "bases":[ "yogurt_container_teal" ],        "sign":{ "x": 741, "y": 161, "sprite": "levels/game_level_mystery"             }, "map":{ "level":{ "x": 119, "y": 111 }, "sprite": "state_map/map_icon_mystery" } }
+		, "croissants":{          "bases":[ "bread_rolls_stand_blue" ],       "sign":{ "x": 741, "y": 161, "sprite": "levels/game_level_croissants"          }, "map":{ "level":{ "x": 100, "y": 91 }, "sprite": "state_map/map_icon_croissants" } }
+		, "jelly_rolls":{         "bases":[ "bread_rolls_stand_blue" ],       "sign":{ "x": 741, "y": 146, "sprite": "levels/game_level_jelly_rolls"         }, "map":{ "level":{ "x": 108, "y": 70 }, "sprite": "state_map/map_icon_jelly_rolls" } }
+		, "bread_rolls":{         "bases":[ "bread_rolls_stand_blue" ],       "sign":{ "x": 741, "y": 149, "sprite": "levels/game_level_bread_rolls"         }, "map":{ "level":{ "x": 107, "y": 108 }, "sprite": "state_map/map_icon_bread_rolls" } }
+		, "crepes":{              "bases":[ "bread_rolls_stand_blue" ],       "sign":{ "x": 741, "y": 149, "sprite": "levels/game_level_crepes"              }, "map":{ "level":{ "x": 101, "y": 96 }, "sprite": "state_map/map_icon_crepes" } }
+		, "marshmallow_squares":{ "bases":[ "marshmallow_squares_cup_blue" ], "sign":{ "x": 741, "y": 149, "sprite": "levels/game_level_marshmallow_squares" }, "map":{ "level":{ "x": 116, "y": 96 }, "sprite": "state_map/map_icon_marshmallow_squares" } }
+		, "mystery5":{            "bases":[ "yogurt_container_pink" ],        "sign":{ "x": 741, "y": 161, "sprite": "levels/game_level_mystery"             }, "map":{ "level":{ "x": 119, "y": 111 }, "sprite": "state_map/map_icon_mystery" } }
+		, "marble_ice_cream":{    "bases":[ "ice_cream_bowl_pink" ],          "sign":{ "x": 741, "y": 170, "sprite": "levels/game_level_marble_ice_cream"    }, "map":{ "level":{ "x": 104, "y": 111 }, "sprite": "state_map/map_icon_marble_ice_cream" } }
+		, "fancy_jellies":{       "bases":[ "jelly_cups_jar_pink" ],          "sign":{ "x": 741, "y": 165, "sprite": "levels/game_level_fancy_jellies"       }, "map":{ "level":{ "x": 94, "y": 109 }, "sprite": "state_map/map_icon_fancy_jellies" } }
+		, "gum_drops":{           "bases":[ "gumdrops_jar_blue" ],            "sign":{ "x": 741, "y": 157, "sprite": "levels/game_level_gum_drops"           }, "map":{ "level":{ "x": 102, "y": 111 }, "sprite": "state_map/map_icon_gum_drops" } }
+		, "jelly_beans":{         "bases":[ "jellybeans_jar_blue" ],          "sign":{ "x": 741, "y": 157, "sprite": "levels/game_level_jelly_beans"         }, "map":{ "level":{ "x": 96, "y": 103 }, "sprite": "state_map/map_icon_jelly_beans" } }
+		, "jelly_cups":{          "bases":[ "jelly_cups_jar_pink" ],          "sign":{ "x": 741, "y": 161, "sprite": "levels/game_level_jelly_cups"          }, "map":{ "level":{ "x": 96, "y": 99 }, "sprite": "state_map/map_icon_jelly_cups" } }
+		, "mystery_finish":{      "bases":[ "yogurt_container_pink" ],        "sign":{ "x": 741, "y": 161, "sprite": "levels/game_level_mystery_finish"      }, "map":{ "level":{ "x": 119, "y": 111 }, "sprite": "state_map/map_icon_mystery_finish" } }
+	}
+	, "sheet":{
+		  "intro": "introsheet4"
+		, "game": "spritesheet4"
+		, "collection": "collectionsheet4"
+	}
+	, "credits":{
+		"names":[
+			  "Adam Webber"
+			, "Bill Hargis"
+			, "Bruno Graniou"
+			, "Christian Widodo"
+			, "Eric Seaton"
+			, "Esther Lee"
+			, "Henrik Markarian"
+			, "Jamie Conove"
+			, "Jason Steinberg"
+			, "Jessica Pastores"
+			, "Lauren Gorey"
+			, "Lesley Terry"
+			, "Luis Natali"
+			, "Matt Elliott"
+			, "Matt Mendoza"
+			, "Melissa Moseley"
+			, "Michael Sunwoo"
+			, "Nicole Karon"
+			, "Sam Millare"
+			, "Richard Davey"
+			, "http://phaser.io/"
+		]
+	}
+}

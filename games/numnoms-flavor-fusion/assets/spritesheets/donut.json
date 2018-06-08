@@ -1,0 +1,156 @@
+{"frames": {
+
+"containers/donut_cup_pink":
+{
+	"frame": {"x":446,"y":194,"w":267,"h":186},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":108,"w":267,"h":186},
+	"sourceSize": {"w":450,"h":300}
+},
+"levels/game_level_donuts":
+{
+	"frame": {"x":873,"y":548,"w":133,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":676,"y":49,"w":133,"h":122},
+	"sourceSize": {"w":960,"h":720}
+},
+"noms/Lip_Gloss_Nom_Cucumber_Melon_Gloss_Up":
+{
+	"frame": {"x":679,"y":548,"w":190,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":40,"w":190,"h":166},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Lip_Gloss_Nom_Glitter_Surprise_Gloss_Up":
+{
+	"frame": {"x":464,"y":718,"w":189,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":40,"w":189,"h":166},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Stamp_It_Nom_Donut_Stamp_It":
+{
+	"frame": {"x":657,"y":718,"w":186,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":39,"w":186,"h":165},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Donut_Num_Cherry_Ann":
+{
+	"frame": {"x":3,"y":3,"w":218,"h":226},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":13,"w":218,"h":226},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Donut_Num_Choco_Sprinkles":
+{
+	"frame": {"x":464,"y":384,"w":211,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":43,"w":211,"h":173},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Donut_Num_Cory_Custard":
+{
+	"frame": {"x":3,"y":456,"w":211,"h":219},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":15,"w":211,"h":219},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Donut_Num_Lemony_Glaze":
+{
+	"frame": {"x":717,"y":191,"w":213,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":39,"w":213,"h":175},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Donut_Num_Mac_Minty":
+{
+	"frame": {"x":218,"y":456,"w":230,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":23,"w":230,"h":206},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Donut_Num_Maple_Sugars":
+{
+	"frame": {"x":452,"y":3,"w":221,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":51,"w":221,"h":184},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Donut_Num_Orange_Glaze":
+{
+	"frame": {"x":225,"y":3,"w":223,"h":187},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":50,"w":223,"h":187},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Donut_Num_Powdered_Sugars":
+{
+	"frame": {"x":3,"y":679,"w":224,"h":195},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":29,"w":224,"h":195},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Donut_Num_Razzi_Berry":
+{
+	"frame": {"x":219,"y":233,"w":223,"h":193},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":30,"w":223,"h":193},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Donut_Num_Sophia_Strawberry":
+{
+	"frame": {"x":3,"y":233,"w":212,"h":219},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":16,"w":212,"h":219},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Donut_Num_Sprinkles_Donut":
+{
+	"frame": {"x":717,"y":370,"w":211,"h":174},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":41,"w":211,"h":174},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Donut_Num_Valerie_Vanilla":
+{
+	"frame": {"x":677,"y":3,"w":221,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":52,"w":221,"h":184},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Donut_Num_Wanda_Wildberry":
+{
+	"frame": {"x":231,"y":666,"w":229,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":23,"w":229,"h":206},
+	"sourceSize": {"w":250,"h":250}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "donut.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":887},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a21015c5501f54c5e894ec3b967c3fbf:6bb0ec2dafb3f38d8cab9e142cad208d:b567ecfc59457e825da36edda950f9cb$"
+}
+}

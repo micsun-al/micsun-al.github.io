@@ -1,0 +1,108 @@
+{"frames": {
+
+"containers/ice_cream_bowl_pink":
+{
+	"frame": {"x":1,"y":1,"w":249,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":101,"y":101,"w":249,"h":163},
+	"sourceSize": {"w":450,"h":300}
+},
+"levels/game_level_marble_ice_cream":
+{
+	"frame": {"x":462,"y":422,"w":186,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":668,"y":49,"w":186,"h":139},
+	"sourceSize": {"w":960,"h":720}
+},
+"noms/Gloss_Up_Nom_Pineapple_Gloss_Up":
+{
+	"frame": {"x":200,"y":435,"w":185,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":43,"w":185,"h":162},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Polish_It_Nom_Mango_Polish_It":
+{
+	"frame": {"x":1,"y":656,"w":166,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":34,"w":166,"h":184},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marble_Ice_Cream_Num_CC_Marble":
+{
+	"frame": {"x":728,"y":213,"w":197,"h":243},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":1,"w":197,"h":243},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marble_Ice_Cream_Num_Mango_Marble":
+{
+	"frame": {"x":493,"y":213,"w":233,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":20,"w":233,"h":207},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marble_Ice_Cream_Num_Melissa_Marble":
+{
+	"frame": {"x":252,"y":1,"w":239,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":239,"h":242},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marble_Ice_Cream_Num_Minty_Marble":
+{
+	"frame": {"x":493,"y":1,"w":236,"h":210},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":18,"w":236,"h":210},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marble_Ice_Cream_Num_Oliver_Orange":
+{
+	"frame": {"x":1,"y":166,"w":237,"h":241},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":4,"w":237,"h":241},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marble_Ice_Cream_Num_Strawberry_Sundae":
+{
+	"frame": {"x":240,"y":245,"w":220,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":36,"w":220,"h":188},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marble_Ice_Cream_Num_Teddy_Twirl":
+{
+	"frame": {"x":731,"y":1,"w":235,"h":210},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":23,"w":235,"h":210},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Marble_Ice_Cream_Num_Wild_Berry_Whirl":
+{
+	"frame": {"x":1,"y":409,"w":197,"h":245},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":0,"w":197,"h":245},
+	"sourceSize": {"w":250,"h":250}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "marble_ice_cream.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6cab36242aa598649e6449a48dd7a68d:b2a3f34ae92103facf4760f745489228:464d28949e4fe0cba01a7ecfeb7438c4$"
+}
+}

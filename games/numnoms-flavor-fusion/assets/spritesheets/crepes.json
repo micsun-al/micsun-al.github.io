@@ -1,0 +1,116 @@
+{"frames": {
+
+"containers/bread_rolls_stand_blue":
+{
+	"frame": {"x":501,"y":1,"w":242,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":105,"y":118,"w":242,"h":164},
+	"sourceSize": {"w":450,"h":300}
+},
+"levels/game_level_crepes":
+{
+	"frame": {"x":703,"y":356,"w":132,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":676,"y":49,"w":132,"h":119},
+	"sourceSize": {"w":960,"h":720}
+},
+"noms/Gloss_Up_Nom_Sweet_Peach_Gloss_Up":
+{
+	"frame": {"x":1,"y":350,"w":180,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":45,"w":180,"h":156},
+	"sourceSize": {"w":250,"h":250}
+},
+"noms/Polish_It_Nom_Very_Berry_Polish_It":
+{
+	"frame": {"x":1,"y":508,"w":167,"h":186},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":33,"w":167,"h":186},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Crepes_Num_Choco_Crepe":
+{
+	"frame": {"x":253,"y":1,"w":246,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":47,"w":246,"h":167},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Crepes_Num_Choco_Swirl_Crepe":
+{
+	"frame": {"x":745,"y":1,"w":234,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":41,"w":234,"h":175},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Crepes_Num_Creamy_Naners":
+{
+	"frame": {"x":736,"y":178,"w":229,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":41,"w":229,"h":176},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Crepes_Num_Mango_Madison":
+{
+	"frame": {"x":487,"y":344,"w":214,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":39,"w":214,"h":183},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Crepes_Num_Nilla_Creme":
+{
+	"frame": {"x":1,"y":1,"w":250,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":47,"w":250,"h":168},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Crepes_Num_Rosie_Raspberry":
+{
+	"frame": {"x":1,"y":171,"w":230,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":39,"w":230,"h":177},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Crepes_Num_Stephanie_Sprinkles":
+{
+	"frame": {"x":501,"y":167,"w":233,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":41,"w":233,"h":175},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Crepes_Num_Sweet_Berry_Crepe":
+{
+	"frame": {"x":233,"y":348,"w":214,"h":182},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":40,"w":214,"h":182},
+	"sourceSize": {"w":250,"h":250}
+},
+"nums/Crepes_Num_Zesty_Zoey":
+{
+	"frame": {"x":253,"y":170,"w":232,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":41,"w":232,"h":176},
+	"sourceSize": {"w":250,"h":250}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "crepes.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7e95e02daf2d6a8346a21c9922b5c103:8d4a0302a118356f053b02f210670417:d43ca4814c3f42f6b2662a9f4872538d$"
+}
+}
