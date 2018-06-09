@@ -25,7 +25,8 @@
 
         function start() {
             if (_this.loadedCount++ > 0) {
-                requestCycle.call(this);
+                setInterval(function(){requestCycle(10000)}, 11000);
+                requestCycle(10000);
                 requestAnimationFrame(animate);
             }
         }
@@ -36,7 +37,7 @@
             requestAnimationFrame(animate);
         }
 
-        function requestCycle() {
+        function requestCycle(duration) {
             _this.scalar = 0;
             _this.alpha = 0;
 
@@ -44,25 +45,24 @@
                 .to({
                     scalar: 1,
                     alpha: [
-                        0, 0, 0, 1,
-                        0, 0, 0, 1,
-                        0, 0, 0, 1,
-                        0, 0, 0, 1,
-                        0, 0, 0, 1,
-                        0, 0, 0, 1,
-                        0, 0, 0, 1,
-                        0, 0, 0, 1,
-                        0, 0, 0, 1,
-                        0, 0, 0, 1,
-                        0, 0, 0, 1,
-                        0, 0, 0, 1,
-                        0, 1, 0, 1,
-                        0, 1, 0, 1,
-                        0, 1, 0, 1,
-                        0, 1, 0, 1, 0]
-                }, 10000)
+                        0, 0, 0, 0, 0, 0.25,
+                        0, 0, 0, 0, 0, 0.25,
+                        0, 0, 0, 0, 0, 0.25,
+                        0, 0, 0, 0, 0, 0.25,
+                        0, 0, 0, 0, 0, 0.35,
+                        0, 0, 0, 0, 0, 0.35,
+                        0, 0, 0, 0, 0, 0.35,
+                        0, 0, 0, 0, 0, 0.35,
+                        0, 0, 0.45, 0, 0, 0.45,
+                        0, 0, 0.45, 0, 0, 0.45,
+                        0, 0, 0.45, 0, 0, 0.45,
+                        0, 0, 0.45, 0, 0, 0.45,
+                        0, 0.55, 0, 0.55, 0, 0.55,
+                        0, 0.55, 0, 0.55, 0, 0.55,
+                        0, 0.55, 0, 0.55, 0, 0.55,
+                        0, 0.65, 0, 0.65, 0, 0.65, 0]
+                }, duration)
                 .delay(1000)
-                .onComplete(requestCycle)
                 .start();
         }
 
@@ -75,7 +75,7 @@
             _this.ctx.globalCompositeOperation = "source-over";
             _this.ctx.drawImage(_this.bg, _this.cx - _this.bg.width / 2, _this.cx - _this.bg.height / 2);
             _this.ctx.beginPath();
-            _this.ctx.arc(_this.cx, _this.cy, 376 / 2, -Math.PI / 2, endRadians);
+            _this.ctx.arc(_this.cx, _this.cy, 376 / 2, -Math.PI / 2 + 0.03, endRadians);
             _this.ctx.lineTo(_this.cx, _this.cy);
             _this.ctx.save();
             _this.ctx.clip();
