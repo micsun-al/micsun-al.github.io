@@ -7,44 +7,83 @@
     <div class="wrapper">
         <canvas id="canvas" width=376 height=370></canvas>
     </div>
+    <script src="tween.min.js"></script>
     <script>
-        var canvas = document.getElementById("canvas");
-        var ctx = canvas.getContext("2d");
-        var cw = canvas.width;
-        var ch = canvas.height;
-        var cx = cw / 2;
-        var cy = ch / 2;
-        var loadedCount = 0;
-
-        var bg = new Image();
-        bg.onload = start;
-        bg.src = "game_timer_circle_00000.png";
-        var fg = new Image();
-        fg.onload = start;
-        fg.src = "game_timer_circle_00095.png";
+        var _this = this;
+        _this.canvas = document.getElementById("canvas");
+        _this.ctx = _this.canvas.getContext("2d");
+        _this.cw = _this.canvas.width;
+        _this.ch = _this.canvas.height;
+        _this.cx = _this.cw / 2;
+        _this.cy = _this.ch / 2;
+        _this.loadedCount = 0;
+        _this.bg = new Image();
+        _this.bg.src = "game_timer_circle_00000.png";
+        _this.fg = new Image();
+        _this.fg.src = "game_timer_circle_00095.png";
+        _this.fg.onload = _this.bg.onload = start;
 
         function start() {
-            if(loadedCount++ > 0){
+            if (_this.loadedCount++ > 0) {
+                requestCycle.call(this);
                 requestAnimationFrame(animate);
             }
         }
 
         function animate(time) {
-            draw((Math.sin(new Date().getTime() / 1000) + 1) * 0.5);
+            draw(_this.scalar);
+            TWEEN.update(time);
             requestAnimationFrame(animate);
         }
 
+        function requestCycle() {
+            _this.scalar = 0;
+            _this.alpha = 0;
+
+            new TWEEN.Tween(_this)
+                .to({
+                    scalar: 1,
+                    alpha: [
+                        0, 0, 0, 1,
+                        0, 0, 0, 1,
+                        0, 0, 0, 1,
+                        0, 0, 0, 1,
+                        0, 0, 0, 1,
+                        0, 0, 0, 1,
+                        0, 0, 0, 1,
+                        0, 0, 0, 1,
+                        0, 0, 0, 1,
+                        0, 0, 0, 1,
+                        0, 0, 0, 1,
+                        0, 0, 0, 1,
+                        0, 1, 0, 1,
+                        0, 1, 0, 1,
+                        0, 1, 0, 1,
+                        0, 1, 0, 1, 0]
+                }, 10000)
+                .delay(1000)
+                .onComplete(requestCycle)
+                .start();
+        }
+
         function draw(scalar) {
+            var time = Date.now() / 1000;
             var endRadians = -Math.PI / 2 + Math.PI * 2 * scalar;
-            ctx.clearRect(0, 0, cw, ch);
-            ctx.drawImage(bg, cx - bg.width / 2, cx - bg.height / 2);
-            ctx.beginPath();
-            ctx.arc(cx, cy, 376 / 2, -Math.PI / 2, endRadians);
-            ctx.lineTo(cx, cy);
-            ctx.save();
-            ctx.clip();
-            ctx.drawImage(fg, cx - fg.width / 2, cx - fg.height / 2);
-            ctx.restore();
+
+            _this.ctx.clearRect(0, 0, _this.cw, _this.ch);
+            _this.ctx.globalAlpha = 1;
+            _this.ctx.globalCompositeOperation = "source-over";
+            _this.ctx.drawImage(_this.bg, _this.cx - _this.bg.width / 2, _this.cx - _this.bg.height / 2);
+            _this.ctx.beginPath();
+            _this.ctx.arc(_this.cx, _this.cy, 376 / 2, -Math.PI / 2, endRadians);
+            _this.ctx.lineTo(_this.cx, _this.cy);
+            _this.ctx.save();
+            _this.ctx.clip();
+            _this.ctx.fillStyle = 'rgb(255, 255, 255, ' + _this.alpha + ')';
+            _this.ctx.fillRect(0, 0, _this.cw, _this.ch);
+            _this.ctx.globalCompositeOperation = "lighter";
+            _this.ctx.drawImage(_this.fg, _this.cx - _this.fg.width / 2, _this.cx - _this.fg.height / 2);
+            _this.ctx.restore();
         }
     </script>
 </body>
