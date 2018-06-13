@@ -1,6 +1,11 @@
 <html>
 
 <head>
+    <style>
+        body{
+            background-color: #888;
+        }
+    </style>
 </head>
 
 <body>
@@ -70,6 +75,8 @@
             var time = Date.now() / 1000;
             var endRadians = -Math.PI / 2 + Math.PI * 2 * scalar;
 
+            _this.ctx.strokeStyle = "rgba(0, 0, 0, 0)";
+            // _this.ctx.fillStyle = 
             _this.ctx.clearRect(0, 0, _this.cw, _this.ch);
             _this.ctx.globalAlpha = 1;
             _this.ctx.globalCompositeOperation = "source-over";
@@ -81,7 +88,8 @@
             _this.ctx.clip();
             _this.ctx.fillStyle = 'rgb(255, 255, 255, ' + _this.alpha + ')';
             _this.ctx.fillRect(0, 0, _this.cw, _this.ch);
-            _this.ctx.globalCompositeOperation = "lighter";
+            // _this.ctx.globalAlpha = 0.5;
+            _this.ctx.globalCompositeOperation = "destination-atop";
             _this.ctx.drawImage(_this.fg, _this.cx - _this.fg.width / 2, _this.cx - _this.fg.height / 2);
             _this.ctx.restore();
         }
