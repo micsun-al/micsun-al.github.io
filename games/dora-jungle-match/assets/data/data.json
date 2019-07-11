@@ -1,41 +1,5 @@
 {
-  "language": {
-    "en": {
-      "gameURL": "https://avatarlabs.biz/clients/lego/unikitty/match3/latest/"
-      , "introPlayNow": "PLAY NOW"
-      , "instructions": "So many emotions!\nMatch three or\nmore character faces\nto make a combo.\nYou have one\nminute.  Good luck!"
-      , "instructionsButton": "GOT IT!"
-      , "gameScore": "SCORE:\n${points}"
-      , "gameMultiplier": "${multiplier}X"
-      , "summaryTextTop": "YOU SCORED"
-      , "summaryTextYourPoints": "${points} PTS!"
-      , "summaryTextHighScores": "HIGH SCORES"
-      , "summaryTextLeaderboardPoints": "${score} PTS"
-      , "summaryPlayAgain": "PLAY AGAIN"
-      , "summaryShare": "SHARE"
-      , "summaryYou": "YOU"
-      , "leaderboard": [
-        { "name": "Princess Unikitty", "score": 1000000 }
-        , { "name": "Prince Puppycorn",  "score":  500000 }
-        , { "name": "Dr. Fox",           "score":  250000 }
-        , { "name": "Hawkodile",         "score":  125000 }
-        , { "name": "Richard",           "score":   62500 }
-        , { "name": "Master Frown",      "score":   31250 }
-        , { "name": "Brock",             "score":   15625 }
-      ]
-      , "chatTitle": "Unikitty Match 3"
-      , "chatText": "You got ${score} points in Unikitty Match 3!"
-      , "messengerTitle": "I got ${score} points!"
-      , "messengerShareText": "Yaaay!"
-      , "messengerPlayButton": "Play Unikitty Match 3"
-    }
-  }
-  , "social": {
-    "facebookAppID": "1686859478068849"
-    , "shareBackURL": "https://direct.unikittychat.com/media_share_back/receive"
-    , "memeURL": "https://direct.unikittychat.com/match_score/receive"
-  }
-  , "game": {
+  "game": {
     "fieldRows": 8
     , "fieldCols": 6
     , "tileColors": 6
@@ -62,23 +26,14 @@
   }
   , "sheet": {
     "spritesheet": "spritesheet"
-    , "loader": "loader"
   }
   , "storage": {
     "mute": "mute"
     , "effectsVolume": "effects_volume"
     , "musicVolume": "music_volume"
-    , "highScore": "high_score"
     , "tutorialComplete": "tutorial_complete"
   }
-  , "fonts": {
-    "main": {
-      "id": "main"
-      , "data": "assets/fonts/gillsans_ultrabold.fnt"
-    }
-    , "thin": {
-      "id": "thin"
-      , "data": "assets/fonts/gillsans_bold.fnt"
-    }
+  , "evidon": {
+    "id": 1558
   }
 }

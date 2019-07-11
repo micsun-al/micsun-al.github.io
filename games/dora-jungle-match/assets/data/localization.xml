@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<xsl:stylesheet version="1.0" 
+  xmlns="http://www.w3.org/1999/xhtml" 
+  xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
+  xmlns:its="http://www.w3.org/2005/11/its" its:version="1.0">
+  <string id="default-font"><![CDATA[Yanone Kaffeesatz]]></string>
+  <section id="shared">
+    <string fontScale="1" offsetX="0" offsetY="0" font="" id="shared-title"><![CDATA[JUNGLE MATCH]]></string>
+    <string fontScale="1" offsetX="0" offsetY="0" font="" id="shared-datecode"><![CDATA[COMING SOON TO THEATRES]]></string>
+    <string fontScale="1" offsetX="0" offsetY="0" font="" id="shared-legal-footer"><![CDATA[© 2019 PARAMOUNT PLAYERS AND VIACOM.]]></string>
+    <string fontScale="1" offsetX="0" offsetY="0" font="" id="shared-legal-credits-button"><![CDATA[CREDITS]]></string>
+  </section>
+  <section id="intro">
+    <string fontScale="1" offsetX="0" offsetY="0" font="" id="intro-play-now"><![CDATA[PLAY NOW]]></string>
+  </section>
+  <section id="instructions">
+    <string fontScale="1" offsetX="0" offsetY="0" font="" id="instructions-button"><![CDATA[GOT IT]]></string>
+    <string fontScale="1" offsetX="0" offsetY="0" font="" id="instructions-tutorial"><![CDATA[Can you say, “ADVENTURE”?
+Match 3 or more items to make
+a combo. You have one minute.
+GOOD LUCK!]]></string>
+  </section>
+  <section id="gameplay">
+    <string fontScale="1" offsetX="0" offsetY="0" font="" id="gameplay-time"><![CDATA[TIME:]]></string>
+    <string fontScale="1" offsetX="0" offsetY="0" font="" id="gameplay-score"><![CDATA[SCORE:]]></string>
+  </section>
+  <section id="summary">
+    <string fontScale="1" offsetX="0" offsetY="0" font="" id="summary-your-score"><![CDATA[YOUR SCORE]]></string>
+    <string fontScale="1" offsetX="0" offsetY="0" font="" id="summary-points"><![CDATA[POINTS]]></string>
+    <string fontScale="1" offsetX="0" offsetY="0" font="" id="summary-instructions"><![CDATA[Screenshot your high score and
+share with your friends!]]></string>
+    <string fontScale="1" offsetX="0" offsetY="0" font="" id="summary-play-again"><![CDATA[PLAY AGAIN]]></string>
+  </section>
+  <section id="legal">
+    <string visible="true" fontSize="1.3vh" offsetX="0" offsetY="0" font="'Source Sans Pro', sans-serif" id="legal-privacy" href="http://www.paramountmovies.com/legal/privacypolicy.php"><![CDATA[PRIVACY POLICY]]></string>
+    <string visible="true" fontSize="1.3vh" offsetX="0" offsetY="0" font="'Source Sans Pro', sans-serif" id="legal-terms" href="http://www.paramountmovies.com/legal/termsofuse.php"><![CDATA[TERMS OF USE]]></string>
+    <string visible="true" fontSize="1.3vh" offsetX="0" offsetY="0" font="'Source Sans Pro', sans-serif" id="legal-advertising" href="http://www.paramountmovies.com/legal/advertising.php"><![CDATA[ADCHOICES]]></string>
+    <string visible="true" fontSize="1.3vh" offsetX="0" offsetY="0" font="'Source Sans Pro', sans-serif" id="legal-cookie" href="http://www.paramountmovies.com/legal/uk_cookiepolicy.php"><![CDATA[COOKIE POLICY]]></string>
+    <string visible="true" evidonid="1558" fontSize="1.3vh" offsetX="0" offsetY="0" font="'Source Sans Pro', sans-serif" id="legal-evidon" href="#"><![CDATA[OPEN CONSENT TOOL]]></string>
+    <string visible="true" fontSize="1.3vh" offsetX="0" offsetY="0" font="'Source Sans Pro', sans-serif" id="legal-paramount" href="http://www.paramount.com/"><![CDATA[© 2019 PARAMOUNT PLAYERS AND VIACOM.]]></string>
+  </section>
+  <section id="unsupported">
+    <string fontSize="2.5vh" offsetX="0" offsetY="0" font="" id="unsupported-subtitle"><![CDATA[YOUR BROWSER IS NOT SUPPORTED]]></string>
+    <string fontSize="2vh" offsetX="0" offsetY="0" font="" id="unsupported-description"><![CDATA[TO VIEW THIS EXPERIENCE, PLEASE UPDATE YOUR INTERNET BROWSER]]></string>
+    <string id="unsupported-chrome-url"><![CDATA[https://www.google.com/chrome/]]></string>
+    <string id="unsupported-firefox-url"><![CDATA[https://www.mozilla.org/]]></string>
+  </section>
+</xsl:stylesheet>

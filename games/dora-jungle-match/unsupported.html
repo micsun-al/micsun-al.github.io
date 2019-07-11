@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Dora and the Lost City of Gold | Unsupported Browser</title>
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
+  <style>
+    html {
+      width: 100%;
+      margin: 0;
+      padding: 0;
+      border: 0;
+    }
+
+    body {
+      background-color: black;
+      width: 100%;
+      user-select: none;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      outline: none;
+      margin: 0;
+      padding: 0;
+      border: 0;
+      font-family: 'Montserrat', Helvetica, Arial, Sans-Serif;
+      font-weight: normal;
+    }
+
+    a,
+    a.link,
+    *:focus,
+    a img {
+      outline: none;
+      border: 0;
+      cursor: pointer;
+    }
+
+    .link>img {
+      max-height: 10vh;
+    }
+
+    .ie-error {
+      color: white;
+      margin: auto;
+      text-align: center;
+      overflow: auto;
+    }
+
+    img {
+      max-width: 80%;
+    }
+
+    .ie-error-subtitle {
+      font-weight: 700;
+      font-size: 2.5vh;
+    }
+
+    .ie-error-description {
+      font-size: 2vh;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="ie-error">
+    <a class="error-title"><img src="assets/images/tt.png"></a>
+    <p class="ie-error-subtitle"></p>
+    <p class="ie-error-description"></p>
+    <p>
+      <a class="ie-error-chrome link" href="https://www.google.com/chrome/"><img class="scaling"
+          src="assets/images/browser_chrome.png"></a>
+      <a class="ie-error-firefox link" href="https://www.mozilla.org/"><img class="scaling"
+          src="assets/images/browser_firefox.png"></a>
+    </p>
+  </div>
+  <script>
+    readTextFile("assets/data/data.json", handleJsonReady)
+
+    function handleJsonReady(text) {
+      if (data.subtitle_text) {
+        document.querySelector('.ie-error-subtitle').innerHTML = data.subtitle_text
+        document.querySelector('.ie-error-subtitle').style.fontSize = data.subtitle_size
+      }
+
+      if (data.description_text) {
+        document.querySelector('.ie-error-description').innerHTML = data.description_text
+        document.querySelector('.ie-error-description').style.fontSize = data.description_size
+      }
+
+      if (data.chrome_url) {
+        document.querySelector('.ie-error-chrome').href = data.chrome_url
+      } else {
+        document.querySelector('.ie-error-chrome img').style.display = 'none'
+      }
+
+      if (data.firefox_url) {
+        document.querySelector('.ie-error-firefox').href = data.firefox_url
+      } else {
+        document.querySelector('.ie-error-firefox').style.display = 'none'
+      }
+    }
+
+    function readTextFile(file, callback) {
+      var rawFile = new XMLHttpRequest()
+      rawFile.open("GET", file, true)
+      rawFile.onreadystatechange = function () {
+        if (rawFile.readyState === 4 && rawFile.status == "200") {
+          callback(rawFile.responseText);
+        }
+      }
+      rawFile.send(null)
+    }
+  </script>
+</body>
+
+</html>
