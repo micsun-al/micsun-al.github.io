@@ -1,0 +1,481 @@
+{
+	"textures": [
+		{
+			"image": "global_atlas-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1335,
+				"h": 1666
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "highscore_statue",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2500,
+						"h": 1920
+					},
+					"spriteSourceSize": {
+						"x": 643,
+						"y": 800,
+						"w": 1323,
+						"h": 1061
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1323,
+						"h": 1061
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "statue",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1080,
+						"h": 1920
+					},
+					"spriteSourceSize": {
+						"x": 616,
+						"y": 0,
+						"w": 464,
+						"h": 549
+					},
+					"frame": {
+						"x": 1,
+						"y": 1064,
+						"w": 464,
+						"h": 549
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "close_btn",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 156,
+						"h": 139
+					},
+					"spriteSourceSize": {
+						"x": 78,
+						"y": 45,
+						"w": 35,
+						"h": 34
+					},
+					"frame": {
+						"x": 1,
+						"y": 1615,
+						"w": 35,
+						"h": 34
+					},
+					"anchor": {
+						"x": 0.6282051282051282,
+						"y": 0.460431654676259
+					}
+				},
+				{
+					"filename": "energy_meter",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1080,
+						"h": 1920
+					},
+					"spriteSourceSize": {
+						"x": 138,
+						"y": 40,
+						"w": 774,
+						"h": 174
+					},
+					"frame": {
+						"x": 467,
+						"y": 1064,
+						"w": 774,
+						"h": 174
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "boots_arm",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 85,
+						"h": 176
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 85,
+						"h": 176
+					},
+					"frame": {
+						"x": 1243,
+						"y": 1064,
+						"w": 85,
+						"h": 176
+					},
+					"anchor": {
+						"x": 0.2,
+						"y": 0.9375
+					}
+				},
+				{
+					"filename": "wood_plank",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 540,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 341,
+						"w": 436,
+						"h": 274
+					},
+					"frame": {
+						"x": 467,
+						"y": 1240,
+						"w": 436,
+						"h": 274
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "flareToken",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 429,
+						"h": 214
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 429,
+						"h": 214
+					},
+					"frame": {
+						"x": 905,
+						"y": 1242,
+						"w": 429,
+						"h": 214
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "timer",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 261,
+						"h": 247
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 27,
+						"w": 188,
+						"h": 187
+					},
+					"frame": {
+						"x": 905,
+						"y": 1458,
+						"w": 188,
+						"h": 187
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "plank_close_btn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 105,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 105,
+						"h": 105
+					},
+					"frame": {
+						"x": 1095,
+						"y": 1458,
+						"w": 105,
+						"h": 105
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "heart_active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 93,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 93,
+						"h": 93
+					},
+					"frame": {
+						"x": 1095,
+						"y": 1565,
+						"w": 93,
+						"h": 93
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "heart_inactive",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 93,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 93,
+						"h": 93
+					},
+					"frame": {
+						"x": 1190,
+						"y": 1565,
+						"w": 93,
+						"h": 93
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "title_shine",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 98,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 98,
+						"h": 76
+					},
+					"frame": {
+						"x": 1202,
+						"y": 1458,
+						"w": 98,
+						"h": 76
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "progress_bar_full",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1250,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 484,
+						"y": 399,
+						"w": 282,
+						"h": 71
+					},
+					"frame": {
+						"x": 467,
+						"y": 1516,
+						"w": 282,
+						"h": 71
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "arrow_energy_pellete",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1080,
+						"h": 1920
+					},
+					"spriteSourceSize": {
+						"x": 768,
+						"y": 128,
+						"w": 84,
+						"h": 77
+					},
+					"frame": {
+						"x": 751,
+						"y": 1516,
+						"w": 84,
+						"h": 77
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "settings_icon",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 16,
+						"w": 65,
+						"h": 65
+					},
+					"frame": {
+						"x": 837,
+						"y": 1516,
+						"w": 65,
+						"h": 65
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "progress_bar_empty",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1250,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 492,
+						"y": 407,
+						"w": 266,
+						"h": 55
+					},
+					"frame": {
+						"x": 467,
+						"y": 1589,
+						"w": 266,
+						"h": 55
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "twinkle_dot",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 90,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 90,
+						"h": 70
+					},
+					"frame": {
+						"x": 735,
+						"y": 1595,
+						"w": 90,
+						"h": 70
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "global_atlas-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 727,
+				"h": 1249
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "boots_body",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 726,
+						"h": 1247
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 725,
+						"h": 1247
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 725,
+						"h": 1247
+					},
+					"anchor": {
+						"x": 0.01515152,
+						"y": 0.00481155
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:8fa8afd6aad0e15c09eeaabea43b4516:e1af73e2d6107fa5bb1f5900a3237902:fa2cdbd21fead4a4cfa60c6bc4013df8$"
+	}
+}

@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Dora and the Lost City of Gold | Unsupported GPU</title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+    <style>
+      html {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        border: 0;
+      }
+
+      body {
+        background-color: black;
+        width: 100%;
+        user-select: none;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        outline: none;
+        margin: 0;
+        padding: 0;
+        border: 0;
+        font-family: "Montserrat", Helvetica, Arial, Sans-Serif;
+        font-weight: normal;
+      }
+
+      a,
+      a.link,
+      *:focus,
+      a img {
+        outline: none;
+        border: 0;
+        cursor: pointer;
+      }
+
+      .link > img {
+        max-height: 10vh;
+      }
+
+      .ie-error {
+        color: white;
+        margin: auto;
+        text-align: center;
+        overflow: auto;
+      }
+
+      img {
+        max-width: 80%;
+      }
+
+      .ie-error-subtitle {
+        font-weight: 700;
+        font-size: 2.5vh;
+      }
+
+      .ie-error-description {
+        font-size: 2vh;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="ie-error">
+      <img src="assets/images/movie_title.png" /><br />
+      <img src="assets/images/game_title.png" /><br />
+      <p class="ie-error-subtitle"></p>
+      <p class="ie-error-description"></p>
+    </div>
+    <script>
+      readTextFile("../config/localization.xml", function(text) {
+        var parser = new DOMParser()
+        var xml = parser.parseFromString(text, "text/xml")
+        window.gpuXml = xml
+        setMessage(".ie-error-subtitle", "gpu.title")
+        setMessage(".ie-error-description", "gpu.body")
+
+        function setMessage(selector, xmlId) {
+          var xmlElement = xml.getElementById("errors." + xmlId)
+
+          if (!xmlElement) {
+            console.log("gpu.html: setMessage: xmlElement is undefined! xmlId:", xmlId)
+            return
+          }
+
+          // return element.childNodes[0].nodeValue
+          var targetElement = document.querySelector(selector)
+
+          if (!targetElement) {
+            console.log("gpu.html: setMessage: targetElement is undefined! xmlId:", xmlId)
+            return
+          }
+
+          targetElement.innerHTML = xmlElement.childNodes[0].nodeValue
+          targetElement.style.fontSize = xmlElement.getAttribute("size")
+        }
+      })
+
+      function readTextFile(file, callback) {
+        var rawFile = new XMLHttpRequest()
+        rawFile.open("GET", file, true)
+
+        rawFile.onreadystatechange = function() {
+          if (rawFile.readyState === 4 && rawFile.status == "200") {
+            callback(rawFile.responseText)
+          }
+        }
+
+        rawFile.send(null)
+      }
+    </script>
+  </body>
+</html>

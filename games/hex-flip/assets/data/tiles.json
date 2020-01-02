@@ -1,4 +1,12 @@
 { "columns":0,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"",
+         "target":"."
+        }
+    },
  "grid":
     {
      "height":1,
@@ -9,7 +17,7 @@
  "name":"tiles",
  "spacing":0,
  "tilecount":20,
- "tiledversion":"1.2.5",
+ "tiledversion":"1.3.1",
  "tileheight":44,
  "tileoffset":
     {
@@ -21,121 +29,391 @@
          "id":0,
          "image":"..\/..\/..\/_source\/photoshop\/tiles_00-assets\/tile_bumper.png",
          "imageheight":44,
-         "imagewidth":60
+         "imagewidth":60,
+         "properties":[
+                {
+                 "name":"movement",
+                 "type":"string",
+                 "value":"bumper"
+                }],
+         "type":"bump"
         }, 
         {
          "id":1,
          "image":"..\/..\/..\/_source\/photoshop\/tiles_00-assets\/tile_checkpoint.png",
          "imageheight":44,
-         "imagewidth":60
+         "imagewidth":60,
+         "properties":[
+                {
+                 "name":"movement",
+                 "type":"string",
+                 "value":"standard"
+                }],
+         "type":"checkpoint"
         }, 
         {
          "id":2,
          "image":"..\/..\/..\/_source\/photoshop\/tiles_00-assets\/tile_empty.png",
          "imageheight":44,
-         "imagewidth":60
+         "imagewidth":60,
+         "properties":[
+                {
+                 "name":"instanced",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"movement",
+                 "type":"string",
+                 "value":"invalid"
+                }],
+         "type":"empty"
         }, 
         {
          "id":3,
          "image":"..\/..\/..\/_source\/photoshop\/tiles_00-assets\/tile_end.png",
          "imageheight":44,
-         "imagewidth":60
+         "imagewidth":60,
+         "properties":[
+                {
+                 "name":"movement",
+                 "type":"string",
+                 "value":"standard"
+                }],
+         "type":"end"
         }, 
         {
          "id":4,
          "image":"..\/..\/..\/_source\/photoshop\/tiles_00-assets\/tile_general.png",
          "imageheight":44,
-         "imagewidth":60
+         "imagewidth":60,
+         "properties":[
+                {
+                 "name":"instanced",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"movement",
+                 "type":"string",
+                 "value":"standard"
+                }],
+         "type":"general"
         }, 
         {
          "id":5,
          "image":"..\/..\/..\/_source\/photoshop\/tiles_00-assets\/tile_goal.png",
          "imageheight":44,
-         "imagewidth":60
+         "imagewidth":60,
+         "properties":[
+                {
+                 "name":"movement",
+                 "type":"string",
+                 "value":"standard"
+                }],
+         "type":"goal"
         }, 
         {
          "id":6,
          "image":"..\/..\/..\/_source\/photoshop\/tiles_00-assets\/tile_hammer_n.png",
          "imageheight":44,
-         "imagewidth":60
+         "imagewidth":60,
+         "properties":[
+                {
+                 "name":"direction",
+                 "type":"string",
+                 "value":"n"
+                }, 
+                {
+                 "name":"movement",
+                 "type":"string",
+                 "value":"invalid"
+                }, 
+                {
+                 "name":"rotation",
+                 "type":"float",
+                 "value":0
+                }],
+         "type":"hammer"
         }, 
         {
          "id":7,
          "image":"..\/..\/..\/_source\/photoshop\/tiles_00-assets\/tile_hammer_ne.png",
          "imageheight":44,
-         "imagewidth":60
+         "imagewidth":60,
+         "properties":[
+                {
+                 "name":"direction",
+                 "type":"string",
+                 "value":"ne"
+                }, 
+                {
+                 "name":"movement",
+                 "type":"string",
+                 "value":"invalid"
+                }, 
+                {
+                 "name":"rotation",
+                 "type":"float",
+                 "value":1.047197551
+                }],
+         "type":"hammer"
         }, 
         {
          "id":8,
          "image":"..\/..\/..\/_source\/photoshop\/tiles_00-assets\/tile_hammer_nw.png",
          "imageheight":44,
-         "imagewidth":60
+         "imagewidth":60,
+         "properties":[
+                {
+                 "name":"direction",
+                 "type":"string",
+                 "value":"nw"
+                }, 
+                {
+                 "name":"movement",
+                 "type":"string",
+                 "value":"invalid"
+                }, 
+                {
+                 "name":"rotation",
+                 "type":"float",
+                 "value":-1.047197551
+                }],
+         "type":"hammer"
         }, 
         {
          "id":9,
          "image":"..\/..\/..\/_source\/photoshop\/tiles_00-assets\/tile_hammer_s.png",
          "imageheight":44,
-         "imagewidth":60
+         "imagewidth":60,
+         "properties":[
+                {
+                 "name":"direction",
+                 "type":"string",
+                 "value":"s"
+                }, 
+                {
+                 "name":"movement",
+                 "type":"string",
+                 "value":"invalid"
+                }, 
+                {
+                 "name":"rotation",
+                 "type":"float",
+                 "value":3.141592653
+                }],
+         "type":"hammer"
         }, 
         {
          "id":10,
          "image":"..\/..\/..\/_source\/photoshop\/tiles_00-assets\/tile_hammer_se.png",
          "imageheight":44,
-         "imagewidth":60
+         "imagewidth":60,
+         "properties":[
+                {
+                 "name":"direction",
+                 "type":"string",
+                 "value":"se"
+                }, 
+                {
+                 "name":"movement",
+                 "type":"string",
+                 "value":"invalid"
+                }, 
+                {
+                 "name":"rotation",
+                 "type":"float",
+                 "value":2.094395102
+                }],
+         "type":"hammer"
         }, 
         {
          "id":11,
          "image":"..\/..\/..\/_source\/photoshop\/tiles_00-assets\/tile_hammer_sw.png",
          "imageheight":44,
-         "imagewidth":60
+         "imagewidth":60,
+         "properties":[
+                {
+                 "name":"direction",
+                 "type":"string",
+                 "value":"sw"
+                }, 
+                {
+                 "name":"movement",
+                 "type":"string",
+                 "value":"invalid"
+                }, 
+                {
+                 "name":"rotation",
+                 "type":"float",
+                 "value":-2.094395102
+                }],
+         "type":"hammer"
         }, 
         {
          "id":12,
          "image":"..\/..\/..\/_source\/photoshop\/tiles_00-assets\/tile_jump_n.png",
          "imageheight":44,
-         "imagewidth":60
+         "imagewidth":60,
+         "properties":[
+                {
+                 "name":"direction",
+                 "type":"string",
+                 "value":"n"
+                }, 
+                {
+                 "name":"movement",
+                 "type":"string",
+                 "value":"jump"
+                }, 
+                {
+                 "name":"rotation",
+                 "type":"float",
+                 "value":0
+                }],
+         "type":"jump"
         }, 
         {
          "id":13,
          "image":"..\/..\/..\/_source\/photoshop\/tiles_00-assets\/tile_jump_ne.png",
          "imageheight":44,
-         "imagewidth":60
+         "imagewidth":60,
+         "properties":[
+                {
+                 "name":"direction",
+                 "type":"string",
+                 "value":"ne"
+                }, 
+                {
+                 "name":"movement",
+                 "type":"string",
+                 "value":"jump"
+                }, 
+                {
+                 "name":"rotation",
+                 "type":"float",
+                 "value":1.047197551
+                }],
+         "type":"jump"
         }, 
         {
          "id":14,
          "image":"..\/..\/..\/_source\/photoshop\/tiles_00-assets\/tile_jump_nw.png",
          "imageheight":44,
-         "imagewidth":60
+         "imagewidth":60,
+         "properties":[
+                {
+                 "name":"direction",
+                 "type":"string",
+                 "value":"nw"
+                }, 
+                {
+                 "name":"movement",
+                 "type":"string",
+                 "value":"jump"
+                }, 
+                {
+                 "name":"rotation",
+                 "type":"float",
+                 "value":-1.047197551
+                }],
+         "type":"jump"
         }, 
         {
          "id":15,
          "image":"..\/..\/..\/_source\/photoshop\/tiles_00-assets\/tile_jump_s.png",
          "imageheight":44,
-         "imagewidth":60
+         "imagewidth":60,
+         "properties":[
+                {
+                 "name":"direction",
+                 "type":"string",
+                 "value":"s"
+                }, 
+                {
+                 "name":"movement",
+                 "type":"string",
+                 "value":"jump"
+                }, 
+                {
+                 "name":"rotation",
+                 "type":"float",
+                 "value":3.141592653
+                }],
+         "type":"jump"
         }, 
         {
          "id":16,
          "image":"..\/..\/..\/_source\/photoshop\/tiles_00-assets\/tile_jump_se.png",
          "imageheight":44,
-         "imagewidth":60
+         "imagewidth":60,
+         "properties":[
+                {
+                 "name":"direction",
+                 "type":"string",
+                 "value":"se"
+                }, 
+                {
+                 "name":"movement",
+                 "type":"string",
+                 "value":"jump"
+                }, 
+                {
+                 "name":"rotation",
+                 "type":"float",
+                 "value":2.094395102
+                }],
+         "type":"jump"
         }, 
         {
          "id":17,
          "image":"..\/..\/..\/_source\/photoshop\/tiles_00-assets\/tile_jump_sw.png",
          "imageheight":44,
-         "imagewidth":60
+         "imagewidth":60,
+         "properties":[
+                {
+                 "name":"direction",
+                 "type":"string",
+                 "value":"sw"
+                }, 
+                {
+                 "name":"movement",
+                 "type":"string",
+                 "value":"jump"
+                }, 
+                {
+                 "name":"rotation",
+                 "type":"float",
+                 "value":-2.094395102
+                }],
+         "type":"jump"
         }, 
         {
          "id":18,
          "image":"..\/..\/..\/_source\/photoshop\/tiles_00-assets\/tile_start.png",
          "imageheight":44,
-         "imagewidth":60
+         "imagewidth":60,
+         "properties":[
+                {
+                 "name":"movement",
+                 "type":"string",
+                 "value":"standard"
+                }],
+         "type":"start"
         }, 
         {
          "id":19,
          "image":"..\/..\/..\/_source\/photoshop\/tiles_00-assets\/tile_trap.png",
          "imageheight":44,
-         "imagewidth":60
+         "imagewidth":60,
+         "properties":[
+                {
+                 "name":"movement",
+                 "type":"string",
+                 "value":"standard"
+                }],
+         "type":"trap"
         }],
  "tilewidth":60,
  "type":"tileset",

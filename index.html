@@ -1,122 +1,124 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <title>
-      Static HTML Boilerplate
-    </title>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="description" content="" />
-    <meta property="og:title" content="" />
-    <meta property="og:image" content="/build/images/og.jpg" />
-    <meta property="og:description" content="" />
-    <meta name="format-detection" content="telephone=no" />
-    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" />
-    <link rel="icon" type="image/png" href="/favicon/favicon-32x32.png" sizes="32x32" />
-    <link rel="icon" type="image/png" href="/favicon/favicon-16x16.png" sizes="16x16" />
-    <link rel="manifest" href="/favicon/manifest.json" />
-    <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" />
-    <link rel="shortcut icon" href="/favicon/favicon.ico" />
-    <meta name="msapplication-config" content="/favicon/browserconfig.xml" />
-    <meta name="theme-color" content="#ff0000" />
-    <style>
-      *,
-      :after,
-      :before {
-        -webkit-box-sizing: border-box;
-        box-sizing: border-box;
-      }
 
-      html {
-        font-family: sans-serif;
-        line-height: 1.15;
-        -webkit-text-size-adjust: 100%;
-        -ms-text-size-adjust: 100%;
-        -ms-overflow-style: scrollbar;
-      }
+<head>
+  <title>
+    Static HTML Boilerplate
+  </title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="description" content="" />
+  <meta property="og:title" content="" />
+  <meta property="og:image" content="/build/images/og.jpg" />
+  <meta property="og:description" content="" />
+  <meta name="format-detection" content="telephone=no" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" href="/favicon/favicon-32x32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="/favicon/favicon-16x16.png" sizes="16x16" />
+  <link rel="manifest" href="/favicon/manifest.json" />
+  <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" />
+  <link rel="shortcut icon" href="/favicon/favicon.ico" />
+  <meta name="msapplication-config" content="/favicon/browserconfig.xml" />
+  <meta name="theme-color" content="#ff0000" />
+  <style>
+    *,
+    :after,
+    :before {
+      -webkit-box-sizing: border-box;
+      box-sizing: border-box;
+    }
 
-      @-ms-viewport {
-        width: device-width;
-      }
+    html {
+      font-family: sans-serif;
+      line-height: 1.15;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+      -ms-overflow-style: scrollbar;
+    }
 
-      header,
-      nav {
-        display: block;
-      }
+    @-ms-viewport {
+      width: device-width;
+    }
 
-      body {
-        margin: 0;
-        font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif;
-        font-size: 16px;
-        font-size: 1rem;
-        font-weight: 400;
-        line-height: 1.5;
-        color: #212529;
-        text-align: left;
-        background-color: #fff;
-      }
+    header,
+    nav {
+      display: block;
+    }
 
-      ul {
-        margin-bottom: 16px;
-        margin-bottom: 1rem;
-      }
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif;
+      font-size: 16px;
+      font-size: 1rem;
+      font-weight: 400;
+      line-height: 1.5;
+      color: #212529;
+      text-align: left;
+      background-color: #fff;
+    }
 
-      ul {
-        margin-top: 0;
-      }
+    ul {
+      margin-bottom: 16px;
+      margin-bottom: 1rem;
+    }
 
-      a {
-        color: #007bff;
-        text-decoration: none;
-        background-color: transparent;
-        -webkit-text-decoration-skip: objects;
-      }
+    ul {
+      margin-top: 0;
+    }
 
-      ::-webkit-file-upload-button {
-        font: inherit;
-        -webkit-appearance: button;
-      }
+    a {
+      color: #007bff;
+      text-decoration: none;
+      background-color: transparent;
+      -webkit-text-decoration-skip: objects;
+    }
 
-      body,
-      html {
-        position: relative;
-        width: 100%;
-        height: 100%;
-      }
-    </style>
-    <link rel="preload" href="/css/style-ltr.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
-    <noscript> <link rel="stylesheet" href="/css/style-ltr.css"/></noscript>
+    ::-webkit-file-upload-button {
+      font: inherit;
+      -webkit-appearance: button;
+    }
 
-    <script>
-      !(function(n) {
-        "use strict"
-        n.loadCSS || (n.loadCSS = function() {})
-        var o = (loadCSS.relpreload = {})
-        if (
-          ((o.support = (function() {
-            var e
-            try {
-              e = n.document.createElement("link").relList.supports("preload")
-            } catch (t) {
-              e = !1
-            }
-            return function() {
-              return e
-            }
-          })()),
-          (o.bindMediaToggle = function(t) {
+    body,
+    html {
+      position: relative;
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+  <link rel="preload" href="/css/style-ltr.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+  <noscript>
+    <link rel="stylesheet" href="/css/style-ltr.css" /></noscript>
+
+  <script>
+    !(function (n) {
+      "use strict"
+      n.loadCSS || (n.loadCSS = function () { })
+      var o = (loadCSS.relpreload = {})
+      if (
+        ((o.support = (function () {
+          var e
+          try {
+            e = n.document.createElement("link").relList.supports("preload")
+          } catch (t) {
+            e = !1
+          }
+          return function () {
+            return e
+          }
+        })()),
+          (o.bindMediaToggle = function (t) {
             var e = t.media || "all"
             function a() {
               t.media = e
             }
             t.addEventListener ? t.addEventListener("load", a) : t.attachEvent && t.attachEvent("onload", a),
-              setTimeout(function() {
-                ;(t.rel = "stylesheet"), (t.media = "only x")
+              setTimeout(function () {
+                ; (t.rel = "stylesheet"), (t.media = "only x")
               }),
               setTimeout(a, 3e3)
           }),
-          (o.poly = function() {
+          (o.poly = function () {
             if (!o.support())
               for (var t = n.document.getElementsByTagName("link"), e = 0; e < t.length; e++) {
                 var a = t[e]
@@ -127,64 +129,67 @@
               }
           }),
           !o.support())
-        ) {
-          o.poly()
-          var t = n.setInterval(o.poly, 500)
-          n.addEventListener
-            ? n.addEventListener("load", function() {
-                o.poly(), n.clearInterval(t)
-              })
-            : n.attachEvent &&
-              n.attachEvent("onload", function() {
-                o.poly(), n.clearInterval(t)
-              })
-        }
-        "undefined" != typeof exports ? (exports.loadCSS = loadCSS) : (n.loadCSS = loadCSS)
-      })("undefined" != typeof global ? global : this)
-    </script>
-    <script>
-      ;(function(i, s, o, g, r, a, m) {
+      ) {
+        o.poly()
+        var t = n.setInterval(o.poly, 500)
+        n.addEventListener
+          ? n.addEventListener("load", function () {
+            o.poly(), n.clearInterval(t)
+          })
+          : n.attachEvent &&
+          n.attachEvent("onload", function () {
+            o.poly(), n.clearInterval(t)
+          })
+      }
+      "undefined" != typeof exports ? (exports.loadCSS = loadCSS) : (n.loadCSS = loadCSS)
+    })("undefined" != typeof global ? global : this)
+  </script>
+  <script>
+      ; (function (i, s, o, g, r, a, m) {
         i["GoogleAnalyticsObject"] = r
-        ;(i[r] =
-          i[r] ||
-          function() {
-            ;(i[r].q = i[r].q || []).push(arguments)
-          }),
-          (i[r].l = 1 * new Date())
-        ;(a = s.createElement(o)), (m = s.getElementsByTagName(o)[0])
+          ; (i[r] =
+            i[r] ||
+            function () {
+              ; (i[r].q = i[r].q || []).push(arguments)
+            }),
+            (i[r].l = 1 * new Date())
+          ; (a = s.createElement(o)), (m = s.getElementsByTagName(o)[0])
         a.async = 1
         a.src = g
         m.parentNode.insertBefore(a, m)
       })(window, document, "script", "//www.google-analytics.com/analytics.js", "ga")
 
-      ga("create", "UA-XXXXXXXX-X", "auto")
-      ga("send", "pageview")
-    </script>
-  </head>
+    ga("create", "UA-XXXXXXXX-X", "auto")
+    ga("send", "pageview")
+  </script>
+</head>
 
-  <body class="home">
-    <div
-      style="width:100vw; height:100vh; background-position: 50%; background-size:cover;background-image: url('https://static.pexels.com/photos/54632/cat-animal-eyes-grey-54632.jpeg')"
-    >
-      <header>
-        <nav>
-          <ul class="nav">
-            <li class="active"><a href="/">Home</a></li>
-            <li class=""><a href="/about/">About</a></li>
-          </ul>
-        </nav>
-      </header>
-      <ul>
-        <li><a href="games/hex-flip">hex-flip</a></li>
-        <li><a href="games/adidas-baseballs-next-level">adidas-baseballs-next-level</a></li>
-        <li><a href="games/dora-jungle-match">dora-jungle-match</a></li>
-        <li><a href="games/wendys-bacon-maple-chicken-sandwich-game">wendys-bacon-maple-chicken-sandwich-game</a></li>
-        <li><a href="games/equalizer2-time-ticks-down">equalizer2-time-ticks-down</a></li>
-        <li><a href="games/numnoms-flavor-fusion">numnoms-flavor-fusion</a></li>
-        <li><a href="games/unikitty-match3">unikitty-match3</a></li>
-        <li><a href="games/unikitty-sparkle-matcher">unikitty-sparkle-matcher</a></li>
-      </ul>
-    </div>
-    <script defer src="/js/scripts.js"></script>
-  </body>
+<body class="home">
+  <div
+    style="width:100vw; height:100vh; background-position: 50%; background-size:cover;background-image: url('https://static.pexels.com/photos/54632/cat-animal-eyes-grey-54632.jpeg')">
+    <header>
+      <nav>
+        <ul class="nav">
+          <li class="active"><a href="/">Home</a></li>
+          <li class=""><a href="/about/">About</a></li>
+        </ul>
+      </nav>
+    </header>
+    <ul>
+      <li><a href="games/uber-eats-match3">uber-eats-match3</a></li>
+      <li><a href="games/gatorade-catch">gatorade-catch</a></li>
+      <li><a href="games/hex-flip">hex-flip</a></li>
+      <li><a href="games/adidas-baseballs-next-level">adidas-baseballs-next-level</a></li>
+      <li><a href="games/dora-runner">dora-runner</a></li>
+      <li><a href="games/dora-jungle-match">dora-jungle-match</a></li>
+      <li><a href="games/wendys-bacon-maple-chicken-sandwich-game">wendys-bacon-maple-chicken-sandwich-game</a></li>
+      <li><a href="games/equalizer2-time-ticks-down">equalizer2-time-ticks-down</a></li>
+      <li><a href="games/numnoms-flavor-fusion">numnoms-flavor-fusion</a></li>
+      <li><a href="games/unikitty-match3">unikitty-match3</a></li>
+      <li><a href="games/unikitty-sparkle-matcher">unikitty-sparkle-matcher</a></li>
+    </ul>
+  </div>
+  <script defer src="/js/scripts.js"></script>
+</body>
+
 </html>

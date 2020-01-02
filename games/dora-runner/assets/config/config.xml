@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<xsl:stylesheet version="1.0" 
+  xmlns="http://www.w3.org/1999/xhtml" 
+  xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
+  xmlns:its="http://www.w3.org/2005/11/its" its:version="1.0">
+  <string id="loadScene"><![CDATA[default]]></string>
+  <!-- <string id="loadScene"><![CDATA[instructions]]></string> -->
+  <!-- <string id="loadScene"><![CDATA[highscore]]></string> -->
+  <!-- <string id="loadScene"><![CDATA[gameover]]></string> -->
+  <boolean id="isNick">true</boolean>
+  <int id="game.timer">60</int>
+  <int id="game.scaleMode.mobile">2</int>
+  <int id="game.scaleMode.desktop">1</int>
+  <int id="game.modeInterval.minTime">15000</int>
+  <int id="game.modeInterval.maxTime">20000</int>
+  <int id="game.coinPointValue">100</int>
+  <boolean id="game.bootsModeEnabled">false</boolean>
+  <int id="game.styles.gameTimer.desktop">70</int>
+  <int id="game.styles.gameTimer.mobile">35</int>
+  <int id="game.styles.gameScore.desktop">45</int>
+  <int id="game.styles.gameScore.mobile">20</int>
+  <int id="game.styles.highscore.desktop">245</int>
+  <int id="game.styles.highscore.mobile">120</int>
+  <string id="unsupported.gpus"><![CDATA[mali-t760,mali-t760 m8,adreno (tm) 540,adreno (tm) 530]]></string>
+  <number id="ui.scale">0.291667</number>
+</xsl:stylesheet>

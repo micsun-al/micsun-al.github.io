@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "loading_atlas_mobile_beta.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 144,
+				"h": 70
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "progress_bar_full",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 625,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 242,
+						"y": 199,
+						"w": 142,
+						"h": 37
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 142,
+						"h": 37
+					}
+				},
+				{
+					"filename": "progress_bar_empty",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 625,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 246,
+						"y": 203,
+						"w": 134,
+						"h": 29
+					},
+					"frame": {
+						"x": 1,
+						"y": 40,
+						"w": 134,
+						"h": 29
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:8c1c353144b0a358067583e593efb87e:9dd77ced179541e8baa7c0c839e6a9f8:170e1d568ab9a55eef61ae63badbfe13$"
+	}
+}

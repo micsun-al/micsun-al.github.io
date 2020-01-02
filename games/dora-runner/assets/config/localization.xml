@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<xsl:stylesheet version="1.0" 
+  xmlns="http://www.w3.org/1999/xhtml" 
+  xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
+  xmlns:its="http://www.w3.org/2005/11/its" its:version="1.0">
+
+  <string id="legal.privacy" visible="true" scale="1.0" x="0" y="0" font="source-sans-pro" url="http://www.paramountmovies.com/legal/privacypolicy.php"><![CDATA[PRIVACY POLICY]]></string>
+  <string id="legal.terms" visible="true" scale="1.0" x="0" y="0" font="source-sans-pro" url="https://www.paramountmovies.com/legal/termsofuse.php"><![CDATA[TERMS OF USE]]></string>
+  <string id="legal.adChoices" visible="true" scale="1.0" x="0" y="0" font="source-sans-pro" url="https://www.paramountmovies.com/legal/advertising.php"><![CDATA[AD CHOICES]]></string>
+  <string id="legal.cookies" visible="false" scale="1.0" x="0" y="0" font="source-sans-pro" url="http://www.paramountmovies.com/legal/uk_cookiepolicy.php"><![CDATA[COOKIE POLICY]]></string>
+  <string id="legal.copyright" visible="true" scale="0.65" x="0" y="0" font="source-sans-pro" url="https://www.paramount.com/"><![CDATA[© 2019 PARAMOUNT PLAYERS AND VIACOM]]></string>
+
+  <string id="footer.copyright" scale="1.0" x="0" y="0" font="source-sans-pro"><![CDATA[©2019 PARAMOUNT PLAYERS AND VIACOM]]></string>
+  <string id="footer.button" scale="1.0" x="0" y="0" font="source-sans-pro"><![CDATA[LEGAL]]></string>
+  <string id="highscore.title" scale="1.0" x="0" y="0" font="irish-grover"><![CDATA[YOU ACHIEVED\nA HIGH SCORE OF]]></string>
+  <string id="highscore.button" scale="1.0" x="0" y="0" font="irish-grover"><![CDATA[PLAY\nAGAIN]]></string>
+  <string id="fail.energy" scale="1.0" x="0" y="0" font="irish-grover"><![CDATA[OOPS!\nEnergy ran out,\ntry again?]]></string>
+  <string id="fail.time" scale="1.0" x="0" y="0" font="irish-grover"><![CDATA[OOPS!\nTime ran out,\ntry again.]]></string>
+  <string id="fail.gameover" scale="1.0" x="0" y="0" font="irish-grover"><![CDATA[OOPS!\nWatch out for obstacles\nand try again.]]></string>
+  <string id="fail.button" scale="0.9" x="0" y="0" font="irish-grover"><![CDATA[TRY\nAGAIN]]></string>
+  <string id="settings.on" scale="1.0" x="0" y="0" font="irish-grover"><![CDATA[ON]]></string>
+  <string id="settings.off" scale="1.0" x="0" y="0" font="irish-grover"><![CDATA[OFF]]></string>
+  <string id="settings.soundfx" scale="1.0" x="0" y="0" font="irish-grover"><![CDATA[SOUND FX:]]></string>
+  <string id="settings.music" scale="1.0" x="0" y="0" font="irish-grover"><![CDATA[MUSIC:]]></string>
+  <string id="instructions.title" scale="1.0" x="0" y="0" font="irish-grover"><![CDATA[DORA MUST FIND\nPARAPATA\nBEFORE IT'S TOO LATE!]]></string>
+  <string id="instructions.instruction0" scale="1.0" x="0" y="0" font="irish-grover"><![CDATA[Jump, duck, or move\nleft/right to avoid obstacles]]></string>
+  <string id="instructions.instruction1" scale="1.0" x="0" y="0" font="irish-grover"><![CDATA[BEWARE!\nHit 3 obstacles\nand it's game over]]></string>
+  <string id="instructions.instruction2" scale="1.0" x="0" y="0" font="irish-grover"><![CDATA[Collect coins to avoid\nrunning out of energy]]></string>
+  <string id="instructions.instruction3" scale="1.0" x="0" y="0" font="irish-grover"><![CDATA[Collect 5 coins\nin a row for an extra boost]]></string>
+  <string id="instructions.instruction4" scale="1.0" x="0" y="0" font="irish-grover"><![CDATA[The more coins you\ncollect, the higher your score!]]></string>
+  <string id="instructions.instruction5" scale="1.0" x="0" y="0" font="irish-grover"><![CDATA[High Five!\nHit Boots' hand for extra points]]></string>
+  <string id="instructions.button" scale="1.0" x="0" y="0" font="irish-grover"><![CDATA[LET'S\nGO]]></string>
+  <string id="home.subtitle" scale="1.0" x="0" y="0" font="irish-grover"><![CDATA[COMING SOON TO THEATRES]]></string>
+  <string id="home.button" scale="1.0" x="0" y="0" font="irish-grover"><![CDATA[PLAY\nNOW]]></string>
+
+  <string id="errors.link.chrome"><![CDATA[https://www.google.com/chrome/]]></string>
+  <string id="errors.link.firefox"><![CDATA[https://www.mozilla.org/]]></string>
+  <string id="errors.unsupported.title" size="2.5vh"><![CDATA[YOUR BROWSER IS NOT SUPPORTED]]></string>
+  <string id="errors.unsupported.body" size="2vh"><![CDATA[TO VIEW THIS EXPERIENCE, PLEASE UPDATE YOUR INTERNET BROWSER]]></string>
+  <string id="errors.gpu.title" size="2.5vh"><![CDATA[YOUR DEVICE IS NOT SUPPORTED]]></string>
+  <string id="errors.gpu.body" size="2vh"><![CDATA[TO VIEW THIS EXPERIENCE, PLEASE TRY ON A DIFFERENT DEVICE]]></string>
+</xsl:stylesheet>

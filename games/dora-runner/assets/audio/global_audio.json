@@ -1,0 +1,50 @@
+{
+  "resources": [
+    "global_audio.ogg",
+    "global_audio.m4a",
+    "global_audio.mp3",
+    "global_audio.ac3"
+  ],
+  "spritemap": {
+    "boost": {
+      "start": 0,
+      "end": 1.933061224489796,
+      "loop": false
+    },
+    "boots": {
+      "start": 3,
+      "end": 5.5600000000000005,
+      "loop": false
+    },
+    "click": {
+      "start": 7,
+      "end": 7.3395918367346935,
+      "loop": false
+    },
+    "coin": {
+      "start": 9,
+      "end": 10.28,
+      "loop": false
+    },
+    "fall": {
+      "start": 12,
+      "end": 12.57469387755102,
+      "loop": false
+    },
+    "high_score": {
+      "start": 14,
+      "end": 16.241315192743762,
+      "loop": false
+    },
+    "swiper": {
+      "start": 18,
+      "end": 18.47020408163265,
+      "loop": false
+    },
+    "theme": {
+      "start": 20,
+      "end": 38.91265306122449,
+      "loop": false
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "main.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 162,
+				"h": 112
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "ui/babylon-scene-explorer-button",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 183,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 14,
+						"w": 160,
+						"h": 110
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 160,
+						"h": 110
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:3e69b2d26cb8c2d639304f9ee9748da3:26b1b2f6d7d55d4c38cd3cf43155e28a:03f91ab73e0f4667800419161e658c40$"
+	}
+}

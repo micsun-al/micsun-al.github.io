@@ -1,0 +1,2405 @@
+{
+	"textures": [
+		{
+			"image": "homescreen-0.jpg",
+			"format": "RGB888",
+			"size": {
+				"w": 1904,
+				"h": 1928
+			},
+			"scale": 0.5,
+			"frames": [
+				{
+					"filename": "homescreen/homescreen_00133",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00134",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1,
+						"y": 483,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00135",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1,
+						"y": 965,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00136",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1,
+						"y": 1447,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00137",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 273,
+						"y": 1,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00138",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 273,
+						"y": 483,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00139",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 273,
+						"y": 965,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00140",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 273,
+						"y": 1447,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00141",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 545,
+						"y": 1,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00142",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 817,
+						"y": 1,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00143",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1089,
+						"y": 1,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00144",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1361,
+						"y": 1,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00145",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1633,
+						"y": 1,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00146",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 545,
+						"y": 483,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00147",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 545,
+						"y": 965,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00148",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 545,
+						"y": 1447,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00149",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 817,
+						"y": 483,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00150",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 817,
+						"y": 965,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00151",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 817,
+						"y": 1447,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00152",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1089,
+						"y": 483,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00153",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1361,
+						"y": 483,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00154",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1633,
+						"y": 483,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00155",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1089,
+						"y": 965,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00156",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1089,
+						"y": 1447,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00157",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1361,
+						"y": 965,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00158",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1361,
+						"y": 1447,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00159",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1633,
+						"y": 965,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00160",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1633,
+						"y": 1447,
+						"w": 270,
+						"h": 480
+					}
+				}
+			]
+		},
+		{
+			"image": "homescreen-1.jpg",
+			"format": "RGB888",
+			"size": {
+				"w": 1904,
+				"h": 1928
+			},
+			"scale": 0.5,
+			"frames": [
+				{
+					"filename": "homescreen/homescreen_00161",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00162",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1,
+						"y": 483,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00163",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1,
+						"y": 965,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00164",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1,
+						"y": 1447,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00165",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 273,
+						"y": 1,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00166",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 273,
+						"y": 483,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00167",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 273,
+						"y": 965,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00168",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 273,
+						"y": 1447,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00169",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 545,
+						"y": 1,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00170",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 817,
+						"y": 1,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00171",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1089,
+						"y": 1,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00172",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1361,
+						"y": 1,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00173",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1633,
+						"y": 1,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00174",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 545,
+						"y": 483,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00175",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 545,
+						"y": 965,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00176",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 545,
+						"y": 1447,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00177",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 817,
+						"y": 483,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00178",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 817,
+						"y": 965,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00179",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 817,
+						"y": 1447,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00180",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1089,
+						"y": 483,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00181",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1361,
+						"y": 483,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00182",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1633,
+						"y": 483,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00183",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1089,
+						"y": 965,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00184",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1089,
+						"y": 1447,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00185",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1361,
+						"y": 965,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00186",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1361,
+						"y": 1447,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00187",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1633,
+						"y": 965,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00188",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1633,
+						"y": 1447,
+						"w": 270,
+						"h": 480
+					}
+				}
+			]
+		},
+		{
+			"image": "homescreen-2.jpg",
+			"format": "RGB888",
+			"size": {
+				"w": 1904,
+				"h": 1928
+			},
+			"scale": 0.5,
+			"frames": [
+				{
+					"filename": "homescreen/homescreen_00189",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00190",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1,
+						"y": 483,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00191",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1,
+						"y": 965,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00192",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1,
+						"y": 1447,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00193",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 273,
+						"y": 1,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00194",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 273,
+						"y": 483,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00195",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 273,
+						"y": 965,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00196",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 273,
+						"y": 1447,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00197",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 545,
+						"y": 1,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00198",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 817,
+						"y": 1,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00199",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1089,
+						"y": 1,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00200",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1361,
+						"y": 1,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00201",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1633,
+						"y": 1,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00202",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 545,
+						"y": 483,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00203",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 545,
+						"y": 965,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00204",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 545,
+						"y": 1447,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00205",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 817,
+						"y": 483,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00206",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 817,
+						"y": 965,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00207",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 817,
+						"y": 1447,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00208",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1089,
+						"y": 483,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00209",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1361,
+						"y": 483,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00210",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1633,
+						"y": 483,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00211",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1089,
+						"y": 965,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00212",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1089,
+						"y": 1447,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00213",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1361,
+						"y": 965,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00214",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1361,
+						"y": 1447,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00215",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1633,
+						"y": 965,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00216",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1633,
+						"y": 1447,
+						"w": 270,
+						"h": 480
+					}
+				}
+			]
+		},
+		{
+			"image": "homescreen-3.jpg",
+			"format": "RGB888",
+			"size": {
+				"w": 1904,
+				"h": 1928
+			},
+			"scale": 0.5,
+			"frames": [
+				{
+					"filename": "homescreen/homescreen_00217",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00218",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1,
+						"y": 483,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00219",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1,
+						"y": 965,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00220",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1,
+						"y": 1447,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00221",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 273,
+						"y": 1,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00222",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 273,
+						"y": 483,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00223",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 273,
+						"y": 965,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00224",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 273,
+						"y": 1447,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00225",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 545,
+						"y": 1,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00226",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 817,
+						"y": 1,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00227",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1089,
+						"y": 1,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00228",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1361,
+						"y": 1,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00229",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1633,
+						"y": 1,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00230",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 545,
+						"y": 483,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00231",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 545,
+						"y": 965,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00232",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 545,
+						"y": 1447,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00233",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 817,
+						"y": 483,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00234",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 817,
+						"y": 965,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00235",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 817,
+						"y": 1447,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00236",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1089,
+						"y": 483,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00237",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1361,
+						"y": 483,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00238",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1633,
+						"y": 483,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00239",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1089,
+						"y": 965,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00240",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1089,
+						"y": 1447,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00241",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1361,
+						"y": 965,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00242",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1361,
+						"y": 1447,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00243",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1633,
+						"y": 965,
+						"w": 270,
+						"h": 480
+					}
+				},
+				{
+					"filename": "homescreen/homescreen_00244",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 480
+					},
+					"frame": {
+						"x": 1633,
+						"y": 1447,
+						"w": 270,
+						"h": 480
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:87f71f3717062cae9e23874ae2d83d24:8407fddc743918acfd2b83ddc2dc825c:c5dfed950fd6bf34c891601c3f51124d$"
+	}
+}

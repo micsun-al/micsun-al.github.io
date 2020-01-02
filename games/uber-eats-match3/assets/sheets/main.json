@@ -1,0 +1,713 @@
+{
+	"textures": [
+		{
+			"image": "main.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1830,
+				"h": 1830
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "shared/edges/edge_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1321,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1321,
+						"h": 59
+					},
+					"frame": {
+						"x": 3,
+						"y": 3,
+						"w": 1321,
+						"h": 59
+					}
+				},
+				{
+					"filename": "game/ui/stat_container",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 302,
+						"h": 61
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 302,
+						"h": 61
+					},
+					"frame": {
+						"x": 1328,
+						"y": 3,
+						"w": 302,
+						"h": 61
+					}
+				},
+				{
+					"filename": "shared/edges/edge_0",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1321,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1321,
+						"h": 55
+					},
+					"frame": {
+						"x": 3,
+						"y": 66,
+						"w": 1321,
+						"h": 55
+					}
+				},
+				{
+					"filename": "game/tiles/bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 140,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 140,
+						"h": 140
+					},
+					"frame": {
+						"x": 1634,
+						"y": 3,
+						"w": 140,
+						"h": 140
+					}
+				},
+				{
+					"filename": "shared/difficulty_button",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 322,
+						"h": 131
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 18,
+						"w": 286,
+						"h": 95
+					},
+					"frame": {
+						"x": 1328,
+						"y": 68,
+						"w": 286,
+						"h": 95
+					}
+				},
+				{
+					"filename": "shared/edges/edge_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1321,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1321,
+						"h": 33
+					},
+					"frame": {
+						"x": 3,
+						"y": 125,
+						"w": 1321,
+						"h": 33
+					}
+				},
+				{
+					"filename": "shared/snow/snow_0",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 11,
+						"h": 11
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 11,
+						"h": 11
+					},
+					"frame": {
+						"x": 1618,
+						"y": 68,
+						"w": 11,
+						"h": 11
+					}
+				},
+				{
+					"filename": "game/ui/logos/logo_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 482,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 305,
+						"y": 35,
+						"w": 7,
+						"h": 79
+					},
+					"frame": {
+						"x": 1618,
+						"y": 83,
+						"w": 7,
+						"h": 79
+					}
+				},
+				{
+					"filename": "intro/logos/logo_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 482,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 305,
+						"y": 35,
+						"w": 7,
+						"h": 79
+					},
+					"frame": {
+						"x": 1618,
+						"y": 83,
+						"w": 7,
+						"h": 79
+					}
+				},
+				{
+					"filename": "shared/audio/muted",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 87,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 18,
+						"w": 30,
+						"h": 43
+					},
+					"frame": {
+						"x": 1778,
+						"y": 3,
+						"w": 30,
+						"h": 43
+					}
+				},
+				{
+					"filename": "game/tiles/grid_6x8",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 6,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 6,
+						"h": 8
+					},
+					"frame": {
+						"x": 1812,
+						"y": 3,
+						"w": 6,
+						"h": 8
+					}
+				},
+				{
+					"filename": "shared/bg/green_tile",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 2,
+						"h": 2
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					},
+					"frame": {
+						"x": 1822,
+						"y": 3,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "shared/bg/pink_tile",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 2,
+						"h": 2
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					},
+					"frame": {
+						"x": 1822,
+						"y": 9,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "shared/bg/tan_tile",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 2,
+						"h": 2
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					},
+					"frame": {
+						"x": 1812,
+						"y": 15,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "shared/bg/white_tile",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 2,
+						"h": 2
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					},
+					"frame": {
+						"x": 1818,
+						"y": 15,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "shared/particles/particle_0",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 28,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 28,
+						"h": 20
+					},
+					"frame": {
+						"x": 1778,
+						"y": 50,
+						"w": 28,
+						"h": 20
+					}
+				},
+				{
+					"filename": "shared/audio/unmuted",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 87,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 20,
+						"w": 26,
+						"h": 39
+					},
+					"frame": {
+						"x": 1778,
+						"y": 74,
+						"w": 26,
+						"h": 39
+					}
+				},
+				{
+					"filename": "shared/edges/edge_3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1296,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1296,
+						"h": 104
+					},
+					"frame": {
+						"x": 3,
+						"y": 162,
+						"w": 1296,
+						"h": 104
+					}
+				},
+				{
+					"filename": "shared/bg/cta_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 537,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 18,
+						"w": 501,
+						"h": 134
+					},
+					"frame": {
+						"x": 1303,
+						"y": 167,
+						"w": 501,
+						"h": 134
+					}
+				},
+				{
+					"filename": "shared/particles/particle_1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 25,
+						"h": 12
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 25,
+						"h": 12
+					},
+					"frame": {
+						"x": 1629,
+						"y": 147,
+						"w": 25,
+						"h": 12
+					}
+				},
+				{
+					"filename": "intro/fg/product",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1118,
+						"h": 980
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1118,
+						"h": 968
+					},
+					"frame": {
+						"x": 3,
+						"y": 270,
+						"w": 1118,
+						"h": 968
+					}
+				},
+				{
+					"filename": "summary/main_image",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1080,
+						"h": 585
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 585
+					},
+					"frame": {
+						"x": 3,
+						"y": 1242,
+						"w": 1080,
+						"h": 585
+					}
+				},
+				{
+					"filename": "game/tiles/tile_0",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 140,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 140,
+						"h": 140
+					},
+					"frame": {
+						"x": 1125,
+						"y": 270,
+						"w": 140,
+						"h": 140
+					}
+				},
+				{
+					"filename": "game/ui/logos/logo_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 482,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 51,
+						"w": 268,
+						"h": 47
+					},
+					"frame": {
+						"x": 1269,
+						"y": 305,
+						"w": 268,
+						"h": 47
+					}
+				},
+				{
+					"filename": "intro/logos/logo_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 482,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 51,
+						"w": 268,
+						"h": 47
+					},
+					"frame": {
+						"x": 1269,
+						"y": 305,
+						"w": 268,
+						"h": 47
+					}
+				},
+				{
+					"filename": "game/tiles/tile_1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 140,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 140,
+						"h": 140
+					},
+					"frame": {
+						"x": 1541,
+						"y": 305,
+						"w": 140,
+						"h": 140
+					}
+				},
+				{
+					"filename": "game/tiles/tile_2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 140,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 140,
+						"h": 140
+					},
+					"frame": {
+						"x": 1685,
+						"y": 305,
+						"w": 140,
+						"h": 140
+					}
+				},
+				{
+					"filename": "game/tiles/tile_3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 140,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 140,
+						"h": 140
+					},
+					"frame": {
+						"x": 1269,
+						"y": 356,
+						"w": 140,
+						"h": 140
+					}
+				},
+				{
+					"filename": "game/tiles/tile_4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 140,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 140,
+						"h": 140
+					},
+					"frame": {
+						"x": 1125,
+						"y": 414,
+						"w": 140,
+						"h": 140
+					}
+				},
+				{
+					"filename": "game/ui/logos/logo_2a",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 482,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 339,
+						"y": 8,
+						"w": 135,
+						"h": 134
+					},
+					"frame": {
+						"x": 1413,
+						"y": 449,
+						"w": 135,
+						"h": 134
+					}
+				},
+				{
+					"filename": "intro/logos/logo_2a",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 482,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 339,
+						"y": 8,
+						"w": 135,
+						"h": 134
+					},
+					"frame": {
+						"x": 1413,
+						"y": 449,
+						"w": 135,
+						"h": 134
+					}
+				},
+				{
+					"filename": "game/ui/logos/logo_2b",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 482,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 339,
+						"y": 8,
+						"w": 135,
+						"h": 134
+					},
+					"frame": {
+						"x": 1269,
+						"y": 500,
+						"w": 135,
+						"h": 134
+					}
+				},
+				{
+					"filename": "intro/logos/logo_2b",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 482,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 339,
+						"y": 8,
+						"w": 135,
+						"h": 134
+					},
+					"frame": {
+						"x": 1269,
+						"y": 500,
+						"w": 135,
+						"h": 134
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:5299f21586216fb4791c274cdda7c786:85f79df2813c8efbdd847dc953846322:03f91ab73e0f4667800419161e658c40$"
+	}
+}
