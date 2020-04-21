@@ -1,0 +1,146 @@
+{
+	"textures": [
+		{
+			"image": "main.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 722,
+				"h": 1256
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "shared/bg",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 1280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 462,
+						"w": 720,
+						"h": 347
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 720,
+						"h": 347
+					}
+				},
+				{
+					"filename": "game/crash",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 675,
+						"h": 599
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 675,
+						"h": 599
+					},
+					"frame": {
+						"x": 1,
+						"y": 350,
+						"w": 675,
+						"h": 599
+					}
+				},
+				{
+					"filename": "shared/title",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 1280
+					},
+					"spriteSourceSize": {
+						"x": 96,
+						"y": 532,
+						"w": 528,
+						"h": 197
+					},
+					"frame": {
+						"x": 1,
+						"y": 951,
+						"w": 528,
+						"h": 197
+					}
+				},
+				{
+					"filename": "shared/play",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 364,
+						"h": 122
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 13,
+						"w": 340,
+						"h": 99
+					},
+					"frame": {
+						"x": 1,
+						"y": 1150,
+						"w": 340,
+						"h": 99
+					}
+				},
+				{
+					"filename": "game/button_down",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 151,
+						"h": 151
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 151,
+						"h": 151
+					},
+					"frame": {
+						"x": 531,
+						"y": 951,
+						"w": 151,
+						"h": 151
+					}
+				},
+				{
+					"filename": "game/button_up",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 151,
+						"h": 151
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 151,
+						"h": 151
+					},
+					"frame": {
+						"x": 531,
+						"y": 1104,
+						"w": 151,
+						"h": 151
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:0180d65d8d708f79b5b47a0b9045b3bd:77ac5c59b5332a94e531939705afac67:03f91ab73e0f4667800419161e658c40$"
+	}
+}

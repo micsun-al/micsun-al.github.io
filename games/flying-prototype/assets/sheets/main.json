@@ -1,0 +1,251 @@
+{
+	"textures": [
+		{
+			"image": "main.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1261,
+				"h": 932
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "game/crash",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 684,
+						"h": 684
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 684,
+						"h": 684
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 684,
+						"h": 684
+					}
+				},
+				{
+					"filename": "shared/wide_button",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 513,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 509,
+						"h": 157
+					},
+					"frame": {
+						"x": 1,
+						"y": 687,
+						"w": 509,
+						"h": 157
+					}
+				},
+				{
+					"filename": "shared/text_bottom",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 1150
+					},
+					"spriteSourceSize": {
+						"x": 138,
+						"y": 497,
+						"w": 443,
+						"h": 85
+					},
+					"frame": {
+						"x": 1,
+						"y": 846,
+						"w": 443,
+						"h": 85
+					}
+				},
+				{
+					"filename": "shared/transparent_pixel",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1,
+						"h": 1
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1,
+						"h": 1
+					},
+					"frame": {
+						"x": 446,
+						"y": 846,
+						"w": 1,
+						"h": 1
+					}
+				},
+				{
+					"filename": "game/ui/joystick/background",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 683,
+						"h": 683
+					},
+					"spriteSourceSize": {
+						"x": 229,
+						"y": 229,
+						"w": 225,
+						"h": 225
+					},
+					"frame": {
+						"x": 512,
+						"y": 687,
+						"w": 225,
+						"h": 225
+					}
+				},
+				{
+					"filename": "shared/bg",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 1100
+					},
+					"spriteSourceSize": {
+						"x": 73,
+						"y": 249,
+						"w": 573,
+						"h": 482
+					},
+					"frame": {
+						"x": 687,
+						"y": 1,
+						"w": 573,
+						"h": 482
+					}
+				},
+				{
+					"filename": "shared/text_top",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 1150
+					},
+					"spriteSourceSize": {
+						"x": 154,
+						"y": 407,
+						"w": 412,
+						"h": 112
+					},
+					"frame": {
+						"x": 687,
+						"y": 485,
+						"w": 412,
+						"h": 112
+					}
+				},
+				{
+					"filename": "game/ui/button/down",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 9,
+						"w": 153,
+						"h": 153
+					},
+					"frame": {
+						"x": 1101,
+						"y": 485,
+						"w": 153,
+						"h": 153
+					}
+				},
+				{
+					"filename": "game/explosion_sheet",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 192
+					},
+					"frame": {
+						"x": 739,
+						"y": 599,
+						"w": 192,
+						"h": 192
+					}
+				},
+				{
+					"filename": "game/ui/button/up",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 9,
+						"w": 153,
+						"h": 153
+					},
+					"frame": {
+						"x": 933,
+						"y": 599,
+						"w": 153,
+						"h": 153
+					}
+				},
+				{
+					"filename": "game/ui/joystick/knob",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 136
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 136
+					},
+					"frame": {
+						"x": 1088,
+						"y": 640,
+						"w": 136,
+						"h": 136
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:c6ac2c70021355d517c531c7a2398093:611c0f5673b79446badb25f497d57560:03f91ab73e0f4667800419161e658c40$"
+	}
+}
